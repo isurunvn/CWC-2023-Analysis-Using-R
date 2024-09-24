@@ -20,7 +20,7 @@ The project uses the following R packages:
 - [`tidyr`](https://cran.r-project.org/web/packages/tidyr/index.html): For reshaping and tidying the data, making it easier to work with and analyze.
 
 You can install these packages using the following commands:
-
+![alt text](image-2.png)
 ```r
 install.packages("readr")
 install.packages("dplyr")
@@ -28,5 +28,3 @@ install.packages("ggplot2")
 install.packages("RColorBrewer")
 install.packages("tidyr")
 
-![alt text](image.png)
-![alt text](image-1.png)
