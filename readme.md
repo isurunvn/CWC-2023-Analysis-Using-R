@@ -27,3 +27,6 @@ install.packages("dplyr")
 install.packages("ggplot2")
 install.packages("RColorBrewer")
 install.packages("tidyr")
+
+![alt text](image.png)
+![alt text](image-1.png)
