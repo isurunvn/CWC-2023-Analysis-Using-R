@@ -21,6 +21,11 @@ The project uses the following R packages:
 
 You can install these packages using the following commands:
 ![alt text](image-2.png)
+![alt text](image-6.png)
+![alt text](image-3.png)
+![alt text](image-5.png)
+![alt text](image-4.png)
+
 ```r
 install.packages("readr")
 install.packages("dplyr")
