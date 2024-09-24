@@ -19,12 +19,6 @@ The project uses the following R packages:
 - [`RColorBrewer`](https://cran.r-project.org/web/packages/RColorBrewer/index.html): For providing color schemes for maps and other graphics.
 - [`tidyr`](https://cran.r-project.org/web/packages/tidyr/index.html): For reshaping and tidying the data, making it easier to work with and analyze.
 
-You can install these packages using the following commands:
-![alt text](image-2.png)
-![alt text](image-6.png)
-![alt text](image-3.png)
-![alt text](image-5.png)
-![alt text](image-4.png)
 
 ```r
 install.packages("readr")
@@ -32,4 +26,12 @@ install.packages("dplyr")
 install.packages("ggplot2")
 install.packages("RColorBrewer")
 install.packages("tidyr")
+```
+
+You can install these packages using the following commands:
+![alt text](image-1.png)
+![alt text](image-6.png)
+![alt text](image-3.png)
+![alt text](image-5.png)
+![alt text](image-4.png)
 
