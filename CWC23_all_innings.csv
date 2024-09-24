@@ -1,0 +1,1438 @@
+﻿team,player,bat_or_bowl,bb_bf,runs,wkts,wicketball_prob,runs_per_ball,opposition,ground,start_date,overs,mdns,econ,inns,4s,6s,sr,not_out,mins
+Pakistan,Shaheen Shah Afridi (Pakistan),bowl,60,45,3,0.05,0.75,South Africa,Chennai,27-Oct-23,10,0,4.5,2,,,,,
+England,DJ Willey (England),bowl,60,45,3,0.05,0.75,India,Lucknow,29-Oct-23,10,2,4.5,1,,,,,
+New Zealand,MJ Henry (New Zealand),bowl,60,48,3,0.05,0.8,England,Ahmedabad,5-Oct-23,10,1,4.8,1,,,,,
+New Zealand,LH Ferguson (New Zealand),bowl,60,49,3,0.05,0.816666667,Bangladesh,Chennai,13-Oct-23,10,0,4.9,1,,,,,
+Afghanistan,Noor Ahmad (Afghanistan),bowl,60,49,3,0.05,0.816666667,Pakistan,Chennai,23-Oct-23,10,0,4.9,1,,,,,
+Afghanistan,Mujeeb Ur Rahman (Afghanistan),bowl,60,51,3,0.05,0.85,England,Delhi,15-Oct-23,10,1,5.1,2,,,,,
+England,AU Rashid (England),bowl,48,54,3,0.0625,1.125,Netherlands,Pune,8-Nov-23,8,0,6.75,2,,,,,
+Netherlands,LV van Beek (Netherlands),bowl,53,60,3,0.056603774,1.132075472,South Africa,Dharamsala,17-Oct-23,8.5,0,6.79,2,,,,,
+Bangladesh,Mehidy Hasan Miraz (Bangladesh),bowl,54,60,3,0.055555556,1.111111111,Pakistan,Eden Gardens,31-Oct-23,9,0,6.66,2,,,,,
+Pakistan,Mohammad Wasim (1) (Pakistan),bowl,60,60,3,0.05,1,New Zealand,Bengaluru,4-Nov-23,10,0,6,1,,,,,
+South Africa,G Coetzee (South Africa),bowl,60,62,3,0.05,1.033333333,Bangladesh,Wankhede,24-Oct-23,10,0,6.2,2,,,,,
+South Africa,G Coetzee (South Africa),bowl,54,68,3,0.055555556,1.259259259,Sri Lanka,Delhi,7-Oct-23,9,0,7.55,2,,,,,
+Sri Lanka,D Madushanka (Sri Lanka),bowl,60,69,3,0.05,1.15,Bangladesh,Delhi,6-Nov-23,10,1,6.9,2,,,,,
+Australia,A Zampa (Australia),bowl,60,74,3,0.05,1.233333333,New Zealand,Dharamsala,28-Oct-23,10,0,7.4,2,,,,,
+Netherlands,BFW de Leede (Netherlands),bowl,60,74,3,0.05,1.233333333,England,Pune,8-Nov-23,10,0,7.4,1,,,,,
+Bangladesh,Shoriful Islam (Bangladesh),bowl,60,75,3,0.05,1.25,England,Dharamsala,10-Oct-23,10,0,7.5,1,,,,,
+New Zealand,TA Boult (New Zealand),bowl,60,77,3,0.05,1.283333333,Australia,Dharamsala,28-Oct-23,10,0,7.7,1,,,,,
+Bangladesh,Tanzim Hasan Sakib (Bangladesh),bowl,60,80,3,0.05,1.333333333,Sri Lanka,Delhi,6-Nov-23,10,0,8,1,,,,,
+Pakistan,Haris Rauf (Pakistan),bowl,48,83,3,0.0625,1.729166667,Australia,Bengaluru,20-Oct-23,8,0,10.37,1,,,,,
+England,RJW Topley (England),bowl,53,88,3,0.056603774,1.660377358,South Africa,Wankhede,21-Oct-23,8.5,0,9.96,1,,,,,
+India,Kuldeep Yadav (India),bowl,31,7,2,0.064516129,0.225806452,South Africa,Eden Gardens,5-Nov-23,5.1,1,1.35,2,,,,,
+Sri Lanka,AD Mathews (Sri Lanka),bowl,30,14,2,0.066666667,0.466666667,England,Bengaluru,26-Oct-23,5,1,2.8,1,,,,,
+Afghanistan,Mohammad Nabi (Afghanistan),bowl,36,16,2,0.055555556,0.444444444,England,Delhi,15-Oct-23,6,0,2.66,2,,,,,
+New Zealand,GD Phillips (New Zealand),bowl,18,17,2,0.111111111,0.944444444,England,Ahmedabad,5-Oct-23,3,0,5.66,1,,,,,
+New Zealand,TA Boult (New Zealand),bowl,42,18,2,0.047619048,0.428571429,Afghanistan,Chennai,18-Oct-23,7,1,2.57,2,,,,,
+India,Mohammed Shami (India),bowl,24,18,2,0.083333333,0.75,South Africa,Eden Gardens,5-Nov-23,4,0,4.5,2,,,,,
+India,JJ Bumrah (India),bowl,42,19,2,0.047619048,0.452380952,Pakistan,Ahmedabad,14-Oct-23,7,1,2.71,1,,,,,
+Australia,MR Marsh (Australia),bowl,24,19,2,0.083333333,0.791666667,Netherlands,Delhi,25-Oct-23,4,0,4.75,2,,,,,
+England,DJ Willey (England),bowl,42,19,2,0.047619048,0.452380952,Netherlands,Pune,8-Nov-23,7,2,2.71,2,,,,,
+New Zealand,R Ravindra (New Zealand),bowl,46,21,2,0.043478261,0.456521739,Sri Lanka,Bengaluru,9-Nov-23,7.4,0,2.73,1,,,,,
+New Zealand,MJ Santner (New Zealand),bowl,60,22,2,0.033333333,0.366666667,Sri Lanka,Bengaluru,9-Nov-23,10,2,2.2,1,,,,,
+India,Kuldeep Yadav (India),bowl,48,24,2,0.041666667,0.5,England,Lucknow,29-Oct-23,8,0,3,2,,,,,
+Netherlands,BFW de Leede (Netherlands),bowl,42,25,2,0.047619048,0.595238095,Bangladesh,Eden Gardens,28-Oct-23,7,0,3.57,2,,,,,
+South Africa,KA Maharaj (South Africa),bowl,60,25,2,0.033333333,0.416666667,Afghanistan,Ahmedabad,10-Nov-23,10,1,2.5,1,,,,,
+South Africa,L Ngidi (South Africa),bowl,30,26,2,0.066666667,0.866666667,England,Wankhede,21-Oct-23,5,1,5.2,2,,,,,
+South Africa,M Jansen (South Africa),bowl,48,27,2,0.041666667,0.5625,Netherlands,Dharamsala,17-Oct-23,8,1,3.37,1,,,,,
+Sri Lanka,AD Mathews (Sri Lanka),bowl,24,29,2,0.083333333,1.208333333,New Zealand,Bengaluru,9-Nov-23,4,0,7.25,2,,,,,
+South Africa,KA Maharaj (South Africa),bowl,60,30,2,0.033333333,0.5,Australia,Lucknow,12-Oct-23,10,0,3,2,,,,,
+England,DJ Willey (England),bowl,30,30,2,0.066666667,1,Sri Lanka,Bengaluru,26-Oct-23,5,0,6,2,,,,,
+Afghanistan,Noor Ahmad (Afghanistan),bowl,54,31,2,0.037037037,0.574074074,Netherlands,Lucknow,3-Nov-23,9,0,3.44,1,,,,,
+Australia,PJ Cummins (Australia),bowl,42,32,2,0.047619048,0.761904762,Sri Lanka,Lucknow,16-Oct-23,7,0,4.57,1,,,,,
+Pakistan,Hasan Ali (Pakistan),bowl,42,33,2,0.047619048,0.785714286,Netherlands,Hyderabad,6-Oct-23,7,1,4.71,2,,,,,
+England,CR Woakes (England),bowl,54,33,2,0.037037037,0.611111111,India,Lucknow,29-Oct-23,9,1,3.66,1,,,,,
+Bangladesh,Shoriful Islam (Bangladesh),bowl,38,34,2,0.052631579,0.894736842,Afghanistan,Dharamsala,7-Oct-23,6.2,1,5.36,1,,,,,
+Australia,GJ Maxwell (Australia),bowl,60,34,2,0.033333333,0.566666667,South Africa,Lucknow,12-Oct-23,10,1,3.4,1,,,,,
+India,HH Pandya (India),bowl,36,34,2,0.055555556,0.944444444,Pakistan,Ahmedabad,14-Oct-23,6,0,5.66,1,,,,,
+Netherlands,RE van der Merwe (Netherlands),bowl,54,34,2,0.037037037,0.62962963,South Africa,Dharamsala,17-Oct-23,9,0,3.77,2,,,,,
+India,JJ Bumrah (India),bowl,60,35,2,0.033333333,0.583333333,Australia,Chennai,8-Oct-23,10,0,3.5,1,,,,,
+India,Kuldeep Yadav (India),bowl,60,35,2,0.033333333,0.583333333,Pakistan,Ahmedabad,14-Oct-23,10,0,3.5,1,,,,,
+South Africa,M Jansen (South Africa),bowl,30,35,2,0.066666667,1.166666667,England,Wankhede,21-Oct-23,5,0,7,2,,,,,
+India,Mohammed Shami (India),bowl,30,18,5,0.166666667,0.6,Sri Lanka,Wankhede,2-Nov-23,5,1,3.6,2,,,,,
+India,RA Jadeja (India),bowl,54,33,5,0.092592593,0.611111111,South Africa,Eden Gardens,5-Nov-23,9,1,3.66,2,,,,,
+Pakistan,Shaheen Shah Afridi (Pakistan),bowl,60,54,5,0.083333333,0.9,Australia,Bengaluru,20-Oct-23,10,1,5.4,1,,,,,
+India,Mohammed Shami (India),bowl,60,54,5,0.083333333,0.9,New Zealand,Dharamsala,22-Oct-23,10,0,5.4,1,,,,,
+New Zealand,MJ Santner (New Zealand),bowl,60,59,5,0.083333333,0.983333333,Netherlands,Hyderabad,9-Oct-23,10,0,5.9,2,,,,,
+Sri Lanka,D Madushanka (Sri Lanka),bowl,60,80,5,0.083333333,1.333333333,India,Wankhede,2-Nov-23,10,0,8,1,,,,,
+Australia,A Zampa (Australia),bowl,18,8,4,0.222222222,0.444444444,Netherlands,Delhi,25-Oct-23,3,0,2.66,2,,,,,
+India,Mohammed Shami (India),bowl,42,22,4,0.095238095,0.523809524,England,Lucknow,29-Oct-23,7,2,3.14,2,,,,,
+Netherlands,PA van Meekeren (Netherlands),bowl,44,23,4,0.090909091,0.522727273,Bangladesh,Eden Gardens,28-Oct-23,7.2,0,3.13,2,,,,,
+Afghanistan,Fazalhaq Farooqi (Afghanistan),bowl,60,34,4,0.066666667,0.566666667,Sri Lanka,Pune,30-Oct-23,10,1,3.4,1,,,,,
+India,JJ Bumrah (India),bowl,60,39,4,0.066666667,0.65,Afghanistan,Delhi,11-Oct-23,10,0,3.9,1,,,,,
+England,RJW Topley (England),bowl,60,43,4,0.066666667,0.716666667,Bangladesh,Dharamsala,10-Oct-23,10,1,4.3,2,,,,,
+South Africa,G Coetzee (South Africa),bowl,60,44,4,0.066666667,0.733333333,Afghanistan,Ahmedabad,10-Nov-23,10,1,4.4,1,,,,,
+South Africa,KA Maharaj (South Africa),bowl,54,46,4,0.074074074,0.851851852,New Zealand,Pune,1-Nov-23,9,0,5.11,2,,,,,
+Australia,A Zampa (Australia),bowl,48,47,4,0.083333333,0.979166667,Sri Lanka,Lucknow,16-Oct-23,8,1,5.87,1,,,,,
+Sri Lanka,D Madushanka (Sri Lanka),bowl,58,49,4,0.068965517,0.844827586,Netherlands,Lucknow,21-Oct-23,9.4,1,5.06,1,,,,,
+Sri Lanka,CAK Rajitha (Sri Lanka),bowl,54,50,4,0.074074074,0.925925926,Netherlands,Lucknow,21-Oct-23,9,0,5.55,1,,,,,
+Australia,A Zampa (Australia),bowl,60,53,4,0.066666667,0.883333333,Pakistan,Bengaluru,20-Oct-23,10,0,5.3,2,,,,,
+England,CR Woakes (England),bowl,57,54,4,0.070175439,0.947368421,Australia,Ahmedabad,4-Nov-23,9.3,0,5.68,1,,,,,
+South Africa,T Shamsi (South Africa),bowl,60,60,4,0.066666667,1,Pakistan,Chennai,27-Oct-23,10,0,6,1,,,,,
+Netherlands,BFW de Leede (Netherlands),bowl,54,62,4,0.074074074,1.148148148,Pakistan,Hyderabad,6-Oct-23,9,0,6.88,1,,,,,
+Bangladesh,Mahedi Hasan (Bangladesh),bowl,48,71,4,0.083333333,1.479166667,England,Dharamsala,10-Oct-23,8,0,8.87,1,,,,,
+Pakistan,Hasan Ali (Pakistan),bowl,60,71,4,0.066666667,1.183333333,Sri Lanka,Hyderabad,10-Oct-23,10,0,7.1,1,,,,,
+Netherlands,LV van Beek (Netherlands),bowl,60,74,4,0.066666667,1.233333333,Australia,Delhi,25-Oct-23,10,0,7.4,1,,,,,
+India,Mohammed Siraj (India),bowl,42,16,3,0.071428571,0.380952381,Sri Lanka,Wankhede,2-Nov-23,7,2,2.28,2,,,,,
+New Zealand,LH Ferguson (New Zealand),bowl,42,19,3,0.071428571,0.452380952,Afghanistan,Chennai,18-Oct-23,7,1,2.71,2,,,,,
+Australia,A Zampa (Australia),bowl,60,21,3,0.05,0.35,England,Ahmedabad,4-Nov-23,10,0,2.1,2,,,,,
+Pakistan,Shaheen Shah Afridi (Pakistan),bowl,54,23,3,0.055555556,0.425925926,Bangladesh,Eden Gardens,31-Oct-23,9,1,2.55,1,,,,,
+Bangladesh,Mehidy Hasan Miraz (Bangladesh),bowl,54,25,3,0.055555556,0.462962963,Afghanistan,Dharamsala,7-Oct-23,9,3,2.77,1,,,,,
+India,RA Jadeja (India),bowl,60,28,3,0.05,0.466666667,Australia,Chennai,8-Oct-23,10,2,2.8,1,,,,,
+Afghanistan,Mohammad Nabi (Afghanistan),bowl,57,28,3,0.052631579,0.49122807,Netherlands,Lucknow,3-Nov-23,9.3,1,2.94,1,,,,,
+Bangladesh,Shakib Al Hasan (Bangladesh),bowl,48,30,3,0.0625,0.625,Afghanistan,Dharamsala,7-Oct-23,8,0,3.75,1,,,,,
+Pakistan,Mohammad Wasim (1) (Pakistan),bowl,49,31,3,0.06122449,0.632653061,Bangladesh,Eden Gardens,31-Oct-23,8.1,1,3.79,1,,,,,
+South Africa,M Jansen (South Africa),bowl,48,31,3,0.0625,0.645833333,New Zealand,Pune,1-Nov-23,8,1,3.87,2,,,,,
+India,JJ Bumrah (India),bowl,41,32,3,0.073170732,0.780487805,England,Lucknow,29-Oct-23,6.5,1,4.68,2,,,,,
+South Africa,K Rabada (South Africa),bowl,48,33,3,0.0625,0.6875,Australia,Lucknow,12-Oct-23,8,1,4.12,2,,,,,
+South Africa,G Coetzee (South Africa),bowl,24,35,3,0.125,1.458333333,England,Wankhede,21-Oct-23,4,0,8.75,2,,,,,
+Sri Lanka,CBRLS Kumara (Sri Lanka),bowl,42,35,3,0.071428571,0.833333333,England,Bengaluru,26-Oct-23,7,0,5,1,,,,,
+Afghanistan,Rashid Khan (Afghanistan),bowl,57,37,3,0.052631579,0.649122807,England,Delhi,15-Oct-23,9.3,1,3.89,2,,,,,
+New Zealand,GD Phillips (New Zealand),bowl,60,37,3,0.05,0.616666667,Australia,Dharamsala,28-Oct-23,10,0,3.7,1,,,,,
+New Zealand,TA Boult (New Zealand),bowl,60,37,3,0.05,0.616666667,Sri Lanka,Bengaluru,9-Nov-23,10,3,3.7,1,,,,,
+Australia,JR Hazlewood (Australia),bowl,54,38,3,0.055555556,0.703703704,India,Chennai,8-Oct-23,9,1,4.22,2,,,,,
+Sri Lanka,D Madushanka (Sri Lanka),bowl,54,38,3,0.055555556,0.703703704,Australia,Lucknow,16-Oct-23,9,2,4.22,2,,,,,
+New Zealand,MJ Santner (New Zealand),bowl,46,39,3,0.065217391,0.847826087,Afghanistan,Chennai,18-Oct-23,7.4,0,5.08,2,,,,,
+New Zealand,MJ Henry (New Zealand),bowl,51,40,3,0.058823529,0.784313725,Netherlands,Hyderabad,9-Oct-23,8.3,0,4.7,2,,,,,
+England,AU Rashid (England),bowl,60,42,3,0.05,0.7,Afghanistan,Delhi,15-Oct-23,10,1,4.2,1,,,,,
+England,MM Ali (England),bowl,50,42,3,0.06,0.84,Netherlands,Pune,8-Nov-23,8.2,0,5.04,2,,,,,
+Pakistan,Haris Rauf (Pakistan),bowl,54,43,3,0.055555556,0.796296296,Netherlands,Hyderabad,6-Oct-23,9,0,4.77,2,,,,,
+South Africa,M Jansen (South Africa),bowl,54,43,3,0.055555556,0.796296296,Pakistan,Chennai,27-Oct-23,9,1,4.77,1,,,,,
+Netherlands,A Dutt (Netherlands),bowl,60,44,3,0.05,0.733333333,Sri Lanka,Lucknow,21-Oct-23,10,0,4.4,2,,,,,
+England,AU Rashid (England),bowl,60,35,2,0.033333333,0.583333333,India,Lucknow,29-Oct-23,10,0,3.5,1,,,,,
+Sri Lanka,AD Mathews (Sri Lanka),bowl,43,35,2,0.046511628,0.813953488,Bangladesh,Delhi,6-Nov-23,7.1,1,4.88,2,,,,,
+New Zealand,LH Ferguson (New Zealand),bowl,60,35,2,0.033333333,0.583333333,Sri Lanka,Bengaluru,9-Nov-23,10,2,3.5,1,,,,,
+Afghanistan,Mohammad Nabi (Afghanistan),bowl,60,35,2,0.033333333,0.583333333,South Africa,Ahmedabad,10-Nov-23,10,1,3.5,2,,,,,
+Pakistan,Shaheen Shah Afridi (Pakistan),bowl,36,36,2,0.055555556,1,India,Ahmedabad,14-Oct-23,6,0,6,2,,,,,
+Netherlands,BFW de Leede (Netherlands),bowl,48,36,2,0.041666667,0.75,South Africa,Dharamsala,17-Oct-23,8,0,4.5,2,,,,,
+Sri Lanka,CAK Rajitha (Sri Lanka),bowl,42,36,2,0.047619048,0.857142857,England,Bengaluru,26-Oct-23,7,0,5.14,1,,,,,
+Bangladesh,Mustafizur Rahman (Bangladesh),bowl,60,36,2,0.033333333,0.6,Netherlands,Eden Gardens,28-Oct-23,10,1,3.6,1,,,,,
+Pakistan,Haris Rauf (Pakistan),bowl,48,36,2,0.041666667,0.75,Bangladesh,Eden Gardens,31-Oct-23,8,0,4.5,1,,,,,
+New Zealand,MJ Santner (New Zealand),bowl,60,37,2,0.033333333,0.616666667,England,Ahmedabad,5-Oct-23,10,0,3.7,1,,,,,
+Afghanistan,Rashid Khan (Afghanistan),bowl,60,37,2,0.033333333,0.616666667,South Africa,Ahmedabad,10-Nov-23,10,1,3.7,2,,,,,
+South Africa,T Shamsi (South Africa),bowl,47,38,2,0.042553191,0.808510638,Australia,Lucknow,12-Oct-23,7.5,0,4.85,2,,,,,
+India,RA Jadeja (India),bowl,59,38,2,0.033898305,0.644067797,Pakistan,Ahmedabad,14-Oct-23,9.5,0,3.86,1,,,,,
+India,RA Jadeja (India),bowl,60,38,2,0.033333333,0.633333333,Bangladesh,Pune,19-Oct-23,10,0,3.8,1,,,,,
+Afghanistan,Mujeeb Ur Rahman (Afghanistan),bowl,60,38,2,0.033333333,0.633333333,Sri Lanka,Pune,30-Oct-23,10,0,3.8,1,,,,,
+England,AU Rashid (England),bowl,60,38,2,0.033333333,0.633333333,Australia,Ahmedabad,4-Nov-23,10,0,3.8,1,,,,,
+Netherlands,CN Ackermann (Netherlands),bowl,48,39,2,0.041666667,0.8125,Pakistan,Hyderabad,6-Oct-23,8,1,4.87,1,,,,,
+South Africa,M Jansen (South Africa),bowl,48,39,2,0.041666667,0.8125,Bangladesh,Wankhede,24-Oct-23,8,0,4.87,2,,,,,
+Australia,JR Hazlewood (Australia),bowl,54,39,2,0.037037037,0.722222222,Afghanistan,Wankhede,7-Nov-23,9,0,4.33,1,,,,,
+Netherlands,PA van Meekeren (Netherlands),bowl,54,40,2,0.037037037,0.740740741,South Africa,Dharamsala,17-Oct-23,9,0,4.44,2,,,,,
+Australia,MP Stoinis (Australia),bowl,30,40,2,0.066666667,1.333333333,Pakistan,Bengaluru,20-Oct-23,5,0,8,2,,,,,
+Bangladesh,Mahedi Hasan (Bangladesh),bowl,42,40,2,0.047619048,0.952380952,Netherlands,Eden Gardens,28-Oct-23,7,0,5.71,1,,,,,
+India,JJ Bumrah (India),bowl,60,41,2,0.033333333,0.683333333,Bangladesh,Pune,19-Oct-23,10,1,4.1,1,,,,,
+South Africa,G Coetzee (South Africa),bowl,39,41,2,0.051282051,1.051282051,New Zealand,Pune,1-Nov-23,6.3,0,6.3,2,,,,,
+India,Kuldeep Yadav (India),bowl,60,42,2,0.033333333,0.7,Australia,Chennai,8-Oct-23,10,0,4.2,1,,,,,
+South Africa,K Rabada (South Africa),bowl,60,42,2,0.033333333,0.7,Bangladesh,Wankhede,24-Oct-23,10,1,4.2,2,,,,,
+South Africa,G Coetzee (South Africa),bowl,42,42,2,0.047619048,1,Pakistan,Chennai,27-Oct-23,7,0,6,1,,,,,
+India,HH Pandya (India),bowl,42,43,2,0.047619048,1.023809524,Afghanistan,Delhi,11-Oct-23,7,0,6.14,1,,,,,
+Australia,MA Starc (Australia),bowl,60,43,2,0.033333333,0.716666667,Sri Lanka,Lucknow,16-Oct-23,10,0,4.3,1,,,,,
+Bangladesh,Taskin Ahmed (Bangladesh),bowl,54,43,2,0.037037037,0.796296296,Netherlands,Eden Gardens,28-Oct-23,9,1,4.77,1,,,,,
+Sri Lanka,M Theekshana (Sri Lanka),bowl,54,44,2,0.037037037,0.814814815,Bangladesh,Delhi,6-Nov-23,9,0,4.88,2,,,,,
+Afghanistan,Rashid Khan (Afghanistan),bowl,60,44,2,0.033333333,0.733333333,Australia,Wankhede,7-Nov-23,10,0,4.4,2,,,,,
+New Zealand,TA Boult (New Zealand),bowl,60,45,2,0.033333333,0.75,Bangladesh,Chennai,13-Oct-23,10,0,4.5,1,,,,,
+Pakistan,Usama Mir (Pakistan),bowl,48,45,2,0.041666667,0.9375,South Africa,Chennai,27-Oct-23,8,0,5.62,2,,,,,
+Bangladesh,Mehidy Hasan Miraz (Bangladesh),bowl,60,47,2,0.033333333,0.783333333,India,Pune,19-Oct-23,10,0,4.7,2,,,,,
+Afghanistan,Naveen-ul-Haq (Afghanistan),bowl,54,47,2,0.037037037,0.87037037,Australia,Wankhede,7-Nov-23,9,0,5.22,2,,,,,
+Afghanistan,Naveen-ul-Haq (Afghanistan),bowl,48,48,2,0.041666667,1,New Zealand,Chennai,18-Oct-23,8,0,6,1,,,,,
+Sri Lanka,D Madushanka (Sri Lanka),bowl,54,48,2,0.037037037,0.888888889,Afghanistan,Pune,30-Oct-23,9,0,5.33,2,,,,,
+England,CR Woakes (England),bowl,48,49,2,0.041666667,1.020833333,Bangladesh,Dharamsala,10-Oct-23,8,0,6.12,2,,,,,
+Australia,JR Hazlewood (Australia),bowl,55,49,2,0.036363636,0.890909091,England,Ahmedabad,4-Nov-23,9.1,1,5.34,2,,,,,
+Australia,PJ Cummins (Australia),bowl,60,49,2,0.033333333,0.816666667,England,Ahmedabad,4-Nov-23,10,1,4.9,2,,,,,
+South Africa,K Rabada (South Africa),bowl,47,50,2,0.042553191,1.063829787,Sri Lanka,Delhi,7-Oct-23,7.5,0,6.38,2,,,,,
+India,Mohammed Siraj (India),bowl,48,50,2,0.041666667,1.041666667,Pakistan,Ahmedabad,14-Oct-23,8,0,6.25,1,,,,,
+England,MA Wood (England),bowl,54,50,2,0.037037037,0.925925926,Afghanistan,Delhi,15-Oct-23,9,0,5.55,1,,,,,
+Pakistan,Mohammad Wasim (1) (Pakistan),bowl,60,50,2,0.033333333,0.833333333,South Africa,Chennai,27-Oct-23,10,1,5,2,,,,,
+Bangladesh,Shoriful Islam (Bangladesh),bowl,60,51,2,0.033333333,0.85,Netherlands,Eden Gardens,28-Oct-23,10,0,5.1,1,,,,,
+Bangladesh,Shoriful Islam (Bangladesh),bowl,57,51,2,0.035087719,0.894736842,Sri Lanka,Delhi,6-Nov-23,9.3,0,5.36,1,,,,,
+Afghanistan,Naveen-ul-Haq (Afghanistan),bowl,42,52,2,0.047619048,1.238095238,Pakistan,Chennai,23-Oct-23,7,0,7.42,1,,,,,
+Afghanistan,Azmatullah Omarzai (Afghanistan),bowl,42,52,2,0.047619048,1.238095238,Australia,Wankhede,7-Nov-23,7,1,7.42,2,,,,,
+Australia,MA Starc (Australia),bowl,54,53,2,0.037037037,0.981481481,South Africa,Lucknow,12-Oct-23,9,1,5.88,1,,,,,
+South Africa,M Jansen (South Africa),bowl,42,54,2,0.047619048,1.285714286,Australia,Lucknow,12-Oct-23,7,0,7.71,2,,,,,
+Netherlands,RE van der Merwe (Netherlands),bowl,54,56,2,0.037037037,1.037037037,New Zealand,Hyderabad,9-Oct-23,9,0,6.22,1,,,,,
+South Africa,K Rabada (South Africa),bowl,54,56,2,0.037037037,1.037037037,Netherlands,Dharamsala,17-Oct-23,9,1,6.22,1,,,,,
+Afghanistan,Azmatullah Omarzai (Afghanistan),bowl,42,56,2,0.047619048,1.333333333,New Zealand,Chennai,18-Oct-23,7,0,8,1,,,,,
+South Africa,LB Williams (South Africa),bowl,52,56,2,0.038461538,1.076923077,Bangladesh,Wankhede,24-Oct-23,8.4,1,6.46,2,,,,,
+Afghanistan,Rashid Khan (Afghanistan),bowl,48,57,2,0.041666667,1.1875,India,Delhi,11-Oct-23,8,0,7.12,2,,,,,
+South Africa,L Ngidi (South Africa),bowl,54,57,2,0.037037037,1.055555556,Netherlands,Dharamsala,17-Oct-23,9,1,6.33,1,,,,,
+Bangladesh,Shakib Al Hasan (Bangladesh),bowl,60,57,2,0.033333333,0.95,Sri Lanka,Delhi,6-Nov-23,10,0,5.7,1,,,,,
+New Zealand,MJ Henry (New Zealand),bowl,60,58,2,0.033333333,0.966666667,Bangladesh,Chennai,13-Oct-23,10,0,5.8,1,,,,,
+Netherlands,PA van Meekeren (Netherlands),bowl,54,59,2,0.037037037,1.092592593,New Zealand,Hyderabad,9-Oct-23,9,0,6.55,1,,,,,
+Sri Lanka,D Madushanka (Sri Lanka),bowl,56,60,2,0.035714286,1.071428571,Pakistan,Hyderabad,10-Oct-23,9.2,0,6.42,2,,,,,
+India,Mohammed Siraj (India),bowl,60,60,2,0.033333333,1,Bangladesh,Pune,19-Oct-23,10,0,6,1,,,,,
+England,AAP Atkinson (England),bowl,54,60,2,0.037037037,1.111111111,South Africa,Wankhede,21-Oct-23,9,0,6.66,1,,,,,
+England,AU Rashid (England),bowl,60,61,2,0.033333333,1.016666667,South Africa,Wankhede,21-Oct-23,10,0,6.1,1,,,,,
+South Africa,KA Maharaj (South Africa),bowl,60,62,2,0.033333333,1.033333333,Sri Lanka,Delhi,7-Oct-23,10,0,6.2,2,,,,,
+Netherlands,A Dutt (Netherlands),bowl,60,62,2,0.033333333,1.033333333,New Zealand,Hyderabad,9-Oct-23,10,2,6.2,1,,,,,
+Australia,PJ Cummins (Australia),bowl,45,62,2,0.044444444,1.377777778,Pakistan,Bengaluru,20-Oct-23,7.3,0,8.26,2,,,,,
+Pakistan,Haris Rauf (Pakistan),bowl,60,62,2,0.033333333,1.033333333,South Africa,Chennai,27-Oct-23,10,0,6.2,2,,,,,
+New Zealand,LH Ferguson (New Zealand),bowl,48,63,2,0.041666667,1.3125,India,Dharamsala,22-Oct-23,8,0,7.87,2,,,,,
+Pakistan,Haris Rauf (Pakistan),bowl,60,64,2,0.033333333,1.066666667,Sri Lanka,Hyderabad,10-Oct-23,10,0,6.4,1,,,,,
+Australia,PJ Cummins (Australia),bowl,60,66,2,0.033333333,1.1,New Zealand,Dharamsala,28-Oct-23,10,0,6.6,2,,,,,
+Australia,MA Starc (Australia),bowl,60,66,2,0.033333333,1.1,England,Ahmedabad,4-Nov-23,10,0,6.6,2,,,,,
+Bangladesh,Hasan Mahmud (Bangladesh),bowl,36,67,2,0.055555556,1.861111111,South Africa,Wankhede,24-Oct-23,6,0,11.16,1,,,,,
+Netherlands,A Dutt (Netherlands),bowl,60,67,2,0.033333333,1.116666667,England,Pune,8-Nov-23,10,0,6.7,1,,,,,
+South Africa,L Ngidi (South Africa),bowl,51,69,2,0.039215686,1.352941176,Afghanistan,Ahmedabad,10-Nov-23,8.3,0,8.11,1,,,,,
+Australia,JR Hazlewood (Australia),bowl,54,70,2,0.037037037,1.296296296,New Zealand,Dharamsala,28-Oct-23,9,0,7.77,2,,,,,
+England,MA Wood (England),bowl,60,70,2,0.033333333,1.166666667,Australia,Ahmedabad,4-Nov-23,10,0,7,1,,,,,
+India,Kuldeep Yadav (India),bowl,60,73,2,0.033333333,1.216666667,New Zealand,Dharamsala,22-Oct-23,10,0,7.3,1,,,,,
+New Zealand,TG Southee (New Zealand),bowl,60,77,2,0.033333333,1.283333333,South Africa,Pune,1-Nov-23,10,0,7.7,1,,,,,
+New Zealand,MJ Santner (New Zealand),bowl,60,80,2,0.033333333,1.333333333,Australia,Dharamsala,28-Oct-23,10,0,8,1,,,,,
+Sri Lanka,D Madushanka (Sri Lanka),bowl,60,86,2,0.033333333,1.433333333,South Africa,Delhi,7-Oct-23,10,0,8.6,1,,,,,
+Netherlands,LV van Beek (Netherlands),bowl,60,88,2,0.033333333,1.466666667,England,Pune,8-Nov-23,10,0,8.8,1,,,,,
+South Africa,M Jansen (South Africa),bowl,60,92,2,0.033333333,1.533333333,Sri Lanka,Delhi,7-Oct-23,10,0,9.2,2,,,,,
+Netherlands,BFW de Leede (Netherlands),bowl,60,115,2,0.033333333,1.916666667,Australia,Delhi,25-Oct-23,10,0,11.5,1,,,,,
+India,RA Jadeja (India),bowl,4,4,1,0.25,1,Sri Lanka,Wankhede,2-Nov-23,0.4,0,6,2,,,,,
+India,JJ Bumrah (India),bowl,30,8,1,0.033333333,0.266666667,Sri Lanka,Wankhede,2-Nov-23,5,1,1.6,2,,,,,
+Afghanistan,Azmatullah Omarzai (Afghanistan),bowl,12,9,1,0.083333333,0.75,Bangladesh,Dharamsala,7-Oct-23,2,0,4.5,2,,,,,
+India,Mohammed Siraj (India),bowl,24,11,1,0.041666667,0.458333333,South Africa,Eden Gardens,5-Nov-23,4,1,2.75,2,,,,,
+England,LS Livingstone (England),bowl,18,13,1,0.055555556,0.722222222,Bangladesh,Dharamsala,10-Oct-23,3,0,4.33,2,,,,,
+New Zealand,GD Phillips (New Zealand),bowl,12,13,1,0.083333333,1.083333333,Bangladesh,Chennai,13-Oct-23,2,0,6.5,1,,,,,
+Australia,PJ Cummins (Australia),bowl,24,14,1,0.041666667,0.583333333,Netherlands,Delhi,25-Oct-23,4,0,3.5,2,,,,,
+Pakistan,Iftikhar Ahmed (Pakistan),bowl,18,16,1,0.055555556,0.888888889,Netherlands,Hyderabad,6-Oct-23,3,0,5.33,2,,,,,
+Netherlands,CN Ackermann (Netherlands),bowl,18,16,1,0.055555556,0.888888889,South Africa,Dharamsala,17-Oct-23,3,0,5.33,2,,,,,
+New Zealand,MJ Henry (New Zealand),bowl,30,16,1,0.033333333,0.533333333,Afghanistan,Chennai,18-Oct-23,5,2,3.2,2,,,,,
+India,RA Jadeja (India),bowl,42,16,1,0.023809524,0.380952381,England,Lucknow,29-Oct-23,7,1,2.28,2,,,,,
+South Africa,K Rabada (South Africa),bowl,36,16,1,0.027777778,0.444444444,New Zealand,Pune,1-Nov-23,6,2,2.66,2,,,,,
+South Africa,L Ngidi (South Africa),bowl,48,18,1,0.020833333,0.375,Australia,Lucknow,12-Oct-23,8,2,2.25,2,,,,,
+Afghanistan,Fazalhaq Farooqi (Afghanistan),bowl,30,19,1,0.033333333,0.633333333,Bangladesh,Dharamsala,7-Oct-23,5,0,3.8,2,,,,,
+England,JE Root (England),bowl,24,19,1,0.041666667,0.791666667,Afghanistan,Delhi,15-Oct-23,4,0,4.75,1,,,,,
+England,CR Woakes (England),bowl,42,19,1,0.023809524,0.452380952,Netherlands,Pune,8-Nov-23,7,0,2.71,2,,,,,
+Sri Lanka,PVD Chameera (Sri Lanka),bowl,24,20,1,0.041666667,0.833333333,New Zealand,Bengaluru,9-Nov-23,4,1,5,2,,,,,
+Sri Lanka,M Theekshana (Sri Lanka),bowl,50,21,1,0.02,0.42,England,Bengaluru,26-Oct-23,8.2,1,2.52,1,,,,,
+Australia,MA Starc (Australia),bowl,24,22,1,0.041666667,0.916666667,Netherlands,Delhi,25-Oct-23,4,0,5.5,2,,,,,
+Netherlands,CN Ackermann (Netherlands),bowl,42,25,1,0.023809524,0.595238095,Bangladesh,Eden Gardens,28-Oct-23,7,1,3.57,2,,,,,
+Netherlands,Saqib Zulfiqar (Netherlands),bowl,18,25,1,0.055555556,1.388888889,Afghanistan,Lucknow,3-Nov-23,3,0,8.33,2,,,,,
+India,Mohammed Siraj (India),bowl,39,26,1,0.025641026,0.666666667,Australia,Chennai,8-Oct-23,6.3,1,4,1,,,,,
+Netherlands,A Dutt (Netherlands),bowl,60,26,1,0.016666667,0.433333333,Bangladesh,Eden Gardens,28-Oct-23,10,3,2.6,2,,,,,
+South Africa,KA Maharaj (South Africa),bowl,12,27,1,0.083333333,2.25,England,Wankhede,21-Oct-23,2,0,13.5,2,,,,,
+Australia,JR Hazlewood (Australia),bowl,36,27,1,0.027777778,0.75,Netherlands,Delhi,25-Oct-23,6,0,4.5,2,,,,,
+Netherlands,RE van der Merwe (Netherlands),bowl,30,27,1,0.033333333,0.9,Afghanistan,Lucknow,3-Nov-23,5,0,5.4,2,,,,,
+New Zealand,TG Southee (New Zealand),bowl,30,27,1,0.033333333,0.9,Pakistan,Bengaluru,4-Nov-23,5,0,5.4,2,,,,,
+Bangladesh,Mustafizur Rahman (Bangladesh),bowl,42,28,1,0.023809524,0.666666667,Afghanistan,Dharamsala,7-Oct-23,7,1,4,1,,,,,
+India,HH Pandya (India),bowl,18,28,1,0.055555556,1.555555556,Australia,Chennai,8-Oct-23,3,0,9.33,1,,,,,
+England,MA Wood (England),bowl,60,29,1,0.016666667,0.483333333,Bangladesh,Dharamsala,10-Oct-23,10,0,2.9,2,,,,,
+Netherlands,LV van Beek (Netherlands),bowl,36,30,1,0.027777778,0.833333333,Pakistan,Hyderabad,6-Oct-23,6,0,5,1,,,,,
+Netherlands,LV van Beek (Netherlands),bowl,54,30,1,0.018518519,0.555555556,Bangladesh,Eden Gardens,28-Oct-23,9,1,3.33,2,,,,,
+Netherlands,LV van Beek (Netherlands),bowl,42,30,1,0.023809524,0.714285714,Afghanistan,Lucknow,3-Nov-23,7,0,4.28,2,,,,,
+South Africa,KA Maharaj (South Africa),bowl,60,30,1,0.016666667,0.5,India,Eden Gardens,5-Nov-23,10,0,3,1,,,,,
+Pakistan,Mohammad Nawaz (3) (Pakistan),bowl,42,31,1,0.023809524,0.738095238,Netherlands,Hyderabad,6-Oct-23,7,0,4.42,2,,,,,
+Afghanistan,Naveen-ul-Haq (Afghanistan),bowl,34,31,1,0.029411765,0.911764706,Bangladesh,Dharamsala,7-Oct-23,5.4,0,5.47,2,,,,,
+Australia,MA Starc (Australia),bowl,48,31,1,0.020833333,0.645833333,India,Chennai,8-Oct-23,8,0,3.87,2,,,,,
+India,SN Thakur (India),bowl,36,31,1,0.027777778,0.861111111,Afghanistan,Delhi,11-Oct-23,6,0,5.16,1,,,,,
+New Zealand,MJ Santner (New Zealand),bowl,60,31,1,0.016666667,0.516666667,Bangladesh,Chennai,13-Oct-23,10,1,3.1,1,,,,,
+Afghanistan,Mohammad Nabi (Afghanistan),bowl,60,31,1,0.016666667,0.516666667,Pakistan,Chennai,23-Oct-23,10,0,3.1,1,,,,,
+Bangladesh,Taskin Ahmed (Bangladesh),bowl,36,32,1,0.027777778,0.888888889,Afghanistan,Dharamsala,7-Oct-23,6,0,5.33,1,,,,,
+South Africa,KA Maharaj (South Africa),bowl,60,32,1,0.016666667,0.533333333,Bangladesh,Wankhede,24-Oct-23,10,0,3.2,2,,,,,
+New Zealand,JDS Neesham (New Zealand),bowl,12,32,1,0.083333333,2.666666667,Australia,Dharamsala,28-Oct-23,2,0,16,1,,,,,
+England,LS Livingstone (England),bowl,60,33,1,0.016666667,0.55,Afghanistan,Delhi,15-Oct-23,10,0,3.3,1,,,,,
+India,R Ashwin (India),bowl,60,34,1,0.016666667,0.566666667,Australia,Chennai,8-Oct-23,10,1,3.4,1,,,,,
+Pakistan,Hasan Ali (Pakistan),bowl,36,34,1,0.027777778,0.944444444,India,Ahmedabad,14-Oct-23,6,0,5.66,2,,,,,
+New Zealand,R Ravindra (New Zealand),bowl,30,34,1,0.033333333,1.133333333,Afghanistan,Chennai,18-Oct-23,5,0,6.8,2,,,,,
+Australia,MP Stoinis (Australia),bowl,24,34,1,0.041666667,1.416666667,England,Ahmedabad,4-Nov-23,4,0,8.5,2,,,,,
+Bangladesh,Mustafizur Rahman (Bangladesh),bowl,48,36,1,0.020833333,0.75,New Zealand,Chennai,13-Oct-23,8,0,4.5,2,,,,,
+Australia,GJ Maxwell (Australia),bowl,57,36,1,0.01754386,0.631578947,Sri Lanka,Lucknow,16-Oct-23,9.3,0,3.78,1,,,,,
+South Africa,AL Phehlukwayo (South Africa),bowl,42,36,1,0.023809524,0.857142857,Afghanistan,Ahmedabad,10-Nov-23,7,0,5.14,1,,,,,
+Pakistan,Shaheen Shah Afridi (Pakistan),bowl,42,37,1,0.023809524,0.880952381,Netherlands,Hyderabad,6-Oct-23,7,0,5.28,2,,,,,
+Australia,JR Hazlewood (Australia),bowl,60,37,1,0.016666667,0.616666667,Pakistan,Bengaluru,20-Oct-23,10,1,3.7,2,,,,,
+New Zealand,MJ Santner (New Zealand),bowl,60,37,1,0.016666667,0.616666667,India,Dharamsala,22-Oct-23,10,0,3.7,2,,,,,
+Bangladesh,Shakib Al Hasan (Bangladesh),bowl,60,37,1,0.016666667,0.616666667,Netherlands,Eden Gardens,28-Oct-23,10,1,3.7,1,,,,,
+Afghanistan,Azmatullah Omarzai (Afghanistan),bowl,42,37,1,0.023809524,0.880952381,Sri Lanka,Pune,30-Oct-23,7,0,5.28,1,,,,,
+Bangladesh,Taskin Ahmed (Bangladesh),bowl,36,38,1,0.027777778,1.055555556,England,Dharamsala,10-Oct-23,6,0,6.33,1,,,,,
+South Africa,KA Maharaj (South Africa),bowl,54,38,1,0.018518519,0.703703704,Netherlands,Dharamsala,17-Oct-23,9,0,4.22,1,,,,,
+South Africa,K Rabada (South Africa),bowl,36,38,1,0.027777778,1.055555556,England,Wankhede,21-Oct-23,6,1,6.33,2,,,,,
+Netherlands,PA van Meekeren (Netherlands),bowl,48,39,1,0.020833333,0.8125,Sri Lanka,Lucknow,21-Oct-23,8,1,4.87,2,,,,,
+Netherlands,CN Ackermann (Netherlands),bowl,50,39,1,0.02,0.78,Sri Lanka,Lucknow,21-Oct-23,8.2,0,4.68,2,,,,,
+Netherlands,PA van Meekeren (Netherlands),bowl,36,40,1,0.027777778,1.111111111,Pakistan,Hyderabad,6-Oct-23,6,0,6.66,1,,,,,
+India,Kuldeep Yadav (India),bowl,60,40,1,0.016666667,0.666666667,Afghanistan,Delhi,11-Oct-23,10,0,4,1,,,,,
+Afghanistan,Mujeeb Ur Rahman (Afghanistan),bowl,60,40,1,0.016666667,0.666666667,Netherlands,Lucknow,3-Nov-23,10,0,4,1,,,,,
+England,AU Rashid (England),bowl,60,42,1,0.016666667,0.7,Bangladesh,Dharamsala,10-Oct-23,10,0,4.2,2,,,,,
+England,LS Livingstone (England),bowl,36,42,1,0.027777778,1.166666667,Australia,Ahmedabad,4-Nov-23,6,0,7,1,,,,,
+Afghanistan,Rashid Khan (Afghanistan),bowl,60,43,1,0.016666667,0.716666667,New Zealand,Chennai,18-Oct-23,10,0,4.3,1,,,,,
+Sri Lanka,M Theekshana (Sri Lanka),bowl,42,43,1,0.023809524,1.023809524,New Zealand,Bengaluru,9-Nov-23,7,0,6.14,2,,,,,
+Afghanistan,Naveen-ul-Haq (Afghanistan),bowl,36,44,1,0.027777778,1.222222222,England,Delhi,15-Oct-23,6,1,7.33,2,,,,,
+Sri Lanka,M Theekshana (Sri Lanka),bowl,60,44,1,0.016666667,0.733333333,Netherlands,Lucknow,21-Oct-23,10,0,4.4,1,,,,,
+Pakistan,Hasan Ali (Pakistan),bowl,60,44,1,0.016666667,0.733333333,Afghanistan,Chennai,23-Oct-23,10,1,4.4,2,,,,,
+Bangladesh,Mehidy Hasan Miraz (Bangladesh),bowl,54,44,1,0.018518519,0.814814815,South Africa,Wankhede,24-Oct-23,9,0,4.88,1,,,,,
+Pakistan,Iftikhar Ahmed (Pakistan),bowl,60,44,1,0.016666667,0.733333333,Bangladesh,Eden Gardens,31-Oct-23,10,0,4.4,1,,,,,
+Pakistan,Shadab Khan (Pakistan),bowl,48,45,1,0.020833333,0.9375,Netherlands,Hyderabad,6-Oct-23,8,0,5.62,2,,,,,
+India,JJ Bumrah (India),bowl,60,45,1,0.016666667,0.75,New Zealand,Dharamsala,22-Oct-23,10,1,4.5,1,,,,,
+India,Mohammed Siraj (India),bowl,60,45,1,0.016666667,0.75,New Zealand,Dharamsala,22-Oct-23,10,1,4.5,1,,,,,
+South Africa,L Ngidi (South Africa),bowl,46,45,1,0.02173913,0.97826087,Pakistan,Chennai,27-Oct-23,7.4,0,5.86,1,,,,,
+New Zealand,R Ravindra (New Zealand),bowl,60,46,1,0.016666667,0.766666667,Netherlands,Hyderabad,9-Oct-23,10,0,4.6,2,,,,,
+England,MA Wood (England),bowl,54,46,1,0.018518519,0.851851852,India,Lucknow,29-Oct-23,9,1,5.11,1,,,,,
+England,SM Curran (England),bowl,36,47,1,0.027777778,1.305555556,New Zealand,Ahmedabad,5-Oct-23,6,2,7.83,2,,,,,
+England,SM Curran (England),bowl,44,47,1,0.022727273,1.068181818,Bangladesh,Dharamsala,10-Oct-23,7.2,0,6.4,2,,,,,
+India,Kuldeep Yadav (India),bowl,60,47,1,0.016666667,0.783333333,Bangladesh,Pune,19-Oct-23,10,0,4.7,1,,,,,
+New Zealand,TA Boult (New Zealand),bowl,60,48,1,0.016666667,0.8,England,Ahmedabad,5-Oct-23,10,1,4.8,1,,,,,
+Netherlands,A Dutt (Netherlands),bowl,60,48,1,0.016666667,0.8,Pakistan,Hyderabad,6-Oct-23,10,0,4.8,1,,,,,
+Sri Lanka,CAK Rajitha (Sri Lanka),bowl,60,48,1,0.016666667,0.8,Afghanistan,Pune,30-Oct-23,10,0,4.8,2,,,,,
+England,DJ Willey (England),bowl,60,48,1,0.016666667,0.8,Australia,Ahmedabad,4-Nov-23,10,1,4.8,1,,,,,
+South Africa,K Rabada (South Africa),bowl,60,48,1,0.016666667,0.8,India,Eden Gardens,5-Nov-23,10,1,4.8,1,,,,,
+South Africa,L Ngidi (South Africa),bowl,48,49,1,0.020833333,1.020833333,Sri Lanka,Delhi,7-Oct-23,8,1,6.12,2,,,,,
+New Zealand,TA Boult (New Zealand),bowl,60,49,1,0.016666667,0.816666667,South Africa,Pune,1-Nov-23,10,1,4.9,1,,,,,
+Bangladesh,Mehidy Hasan Miraz (Bangladesh),bowl,60,49,1,0.016666667,0.816666667,Sri Lanka,Delhi,6-Nov-23,10,0,4.9,1,,,,,
+Afghanistan,Fazalhaq Farooqi (Afghanistan),bowl,42,50,1,0.023809524,1.19047619,England,Delhi,15-Oct-23,7,0,7.14,2,,,,,
+Afghanistan,Azmatullah Omarzai (Afghanistan),bowl,30,50,1,0.033333333,1.666666667,Pakistan,Chennai,23-Oct-23,5,0,10,1,,,,,
+Afghanistan,Rashid Khan (Afghanistan),bowl,60,50,1,0.016666667,0.833333333,Sri Lanka,Pune,30-Oct-23,10,0,5,1,,,,,
+Afghanistan,Mujeeb Ur Rahman (Afghanistan),bowl,60,51,1,0.016666667,0.85,South Africa,Ahmedabad,10-Nov-23,10,0,5.1,2,,,,,
+Bangladesh,Shakib Al Hasan (Bangladesh),bowl,60,52,1,0.016666667,0.866666667,England,Dharamsala,10-Oct-23,10,0,5.2,1,,,,,
+England,RJW Topley (England),bowl,53,52,1,0.018867925,0.981132075,Afghanistan,Delhi,15-Oct-23,8.5,1,5.88,1,,,,,
+New Zealand,TG Southee (New Zealand),bowl,48,52,1,0.020833333,1.083333333,Sri Lanka,Bengaluru,9-Nov-23,8,0,6.5,1,,,,,
+Sri Lanka,DN Wellalage (Sri Lanka),bowl,56,53,1,0.017857143,0.946428571,Australia,Lucknow,16-Oct-23,9.2,0,5.67,2,,,,,
+Bangladesh,Shakib Al Hasan (Bangladesh),bowl,60,54,1,0.016666667,0.9,New Zealand,Chennai,13-Oct-23,10,0,5.4,2,,,,,
+Pakistan,Shadab Khan (Pakistan),bowl,48,55,1,0.020833333,1.145833333,Sri Lanka,Hyderabad,10-Oct-23,8,0,6.87,1,,,,,
+New Zealand,MJ Henry (New Zealand),bowl,54,55,1,0.018518519,1.018518519,India,Dharamsala,22-Oct-23,9,0,6.11,2,,,,,
+Pakistan,Iftikhar Ahmed (Pakistan),bowl,48,55,1,0.020833333,1.145833333,New Zealand,Bengaluru,4-Nov-23,8,0,6.87,1,,,,,
+Australia,GJ Maxwell (Australia),bowl,60,55,1,0.016666667,0.916666667,Afghanistan,Wankhede,7-Nov-23,10,0,5.5,1,,,,,
+South Africa,G Coetzee (South Africa),bowl,48,57,1,0.020833333,1.1875,Netherlands,Dharamsala,17-Oct-23,8,0,7.12,1,,,,,
+Afghanistan,Mujeeb Ur Rahman (Afghanistan),bowl,60,57,1,0.016666667,0.95,New Zealand,Chennai,18-Oct-23,10,0,5.7,1,,,,,
+Netherlands,PA van Meekeren (Netherlands),bowl,60,57,1,0.016666667,0.95,England,Pune,8-Nov-23,10,0,5.7,1,,,,,
+Pakistan,Shaheen Shah Afridi (Pakistan),bowl,60,58,1,0.016666667,0.966666667,Afghanistan,Chennai,23-Oct-23,10,0,5.8,2,,,,,
+Australia,A Zampa (Australia),bowl,60,58,1,0.016666667,0.966666667,Afghanistan,Wankhede,7-Nov-23,10,0,5.8,1,,,,,
+Sri Lanka,M Theekshana (Sri Lanka),bowl,60,59,1,0.016666667,0.983333333,Pakistan,Hyderabad,10-Oct-23,10,0,5.9,2,,,,,
+India,SN Thakur (India),bowl,54,59,1,0.018518519,1.092592593,Bangladesh,Pune,19-Oct-23,9,0,6.55,1,,,,,
+Netherlands,A Dutt (Netherlands),bowl,42,59,1,0.023809524,1.404761905,Australia,Delhi,25-Oct-23,7,0,8.42,1,,,,,
+Australia,JR Hazlewood (Australia),bowl,54,60,1,0.018518519,1.111111111,South Africa,Lucknow,12-Oct-23,9,0,6.66,1,,,,,
+New Zealand,TA Boult (New Zealand),bowl,60,60,1,0.016666667,1,India,Dharamsala,22-Oct-23,10,0,6,2,,,,,
+Pakistan,Mohammad Nawaz (3) (Pakistan),bowl,54,62,1,0.018518519,1.148148148,Sri Lanka,Hyderabad,10-Oct-23,9,0,6.88,1,,,,,
+Australia,GJ Maxwell (Australia),bowl,60,62,1,0.016666667,1.033333333,New Zealand,Dharamsala,28-Oct-23,10,0,6.2,2,,,,,
+South Africa,L Ngidi (South Africa),bowl,50,63,1,0.02,1.26,India,Eden Gardens,5-Nov-23,8.2,0,7.56,1,,,,,
+Netherlands,BFW de Leede (Netherlands),bowl,60,64,1,0.016666667,1.066666667,New Zealand,Hyderabad,9-Oct-23,10,0,6.4,1,,,,,
+Bangladesh,Hasan Mahmud (Bangladesh),bowl,48,65,1,0.020833333,1.354166667,India,Pune,19-Oct-23,8,0,8.12,2,,,,,
+Australia,MA Starc (Australia),bowl,48,65,1,0.020833333,1.354166667,Pakistan,Bengaluru,20-Oct-23,8,0,8.12,2,,,,,
+Pakistan,Shaheen Shah Afridi (Pakistan),bowl,54,66,1,0.018518519,1.222222222,Sri Lanka,Hyderabad,10-Oct-23,9,0,7.33,1,,,,,
+Pakistan,Usama Mir (Pakistan),bowl,60,66,1,0.016666667,1.1,Bangladesh,Eden Gardens,31-Oct-23,10,0,6.6,1,,,,,
+New Zealand,MJ Henry (New Zealand),bowl,38,67,1,0.026315789,1.763157895,Australia,Dharamsala,28-Oct-23,6.2,0,10.57,1,,,,,
+Bangladesh,Shakib Al Hasan (Bangladesh),bowl,54,69,1,0.018518519,1.277777778,South Africa,Wankhede,24-Oct-23,9,0,7.66,1,,,,,
+New Zealand,JDS Neesham (New Zealand),bowl,33,69,1,0.03030303,2.090909091,South Africa,Pune,1-Nov-23,5.3,0,12.54,1,,,,,
+Australia,A Zampa (Australia),bowl,60,70,1,0.016666667,1.166666667,South Africa,Lucknow,12-Oct-23,10,0,7,1,,,,,
+Australia,MA Starc (Australia),bowl,54,70,1,0.018518519,1.296296296,Afghanistan,Wankhede,7-Nov-23,9,0,7.77,1,,,,,
+Australia,PJ Cummins (Australia),bowl,54,71,1,0.018518519,1.314814815,South Africa,Lucknow,12-Oct-23,9,0,7.88,1,,,,,
+Sri Lanka,PVD Chameera (Sri Lanka),bowl,60,71,1,0.016666667,1.183333333,India,Wankhede,2-Nov-23,10,2,7.1,1,,,,,
+South Africa,T Shamsi (South Africa),bowl,60,72,1,0.016666667,1.2,India,Eden Gardens,5-Nov-23,10,0,7.2,1,,,,,
+New Zealand,R Ravindra (New Zealand),bowl,60,76,1,0.016666667,1.266666667,England,Ahmedabad,5-Oct-23,10,0,7.6,1,,,,,
+Bangladesh,Shoriful Islam (Bangladesh),bowl,54,76,1,0.018518519,1.407407407,South Africa,Wankhede,24-Oct-23,9,0,8.44,1,,,,,
+Sri Lanka,DN Wellalage (Sri Lanka),bowl,60,81,1,0.016666667,1.35,South Africa,Delhi,7-Oct-23,10,0,8.1,1,,,,,
+Pakistan,Usama Mir (Pakistan),bowl,54,82,1,0.018518519,1.518518519,Australia,Bengaluru,20-Oct-23,9,0,9.11,1,,,,,
+Pakistan,Hasan Ali (Pakistan),bowl,60,82,1,0.016666667,1.366666667,New Zealand,Bengaluru,4-Nov-23,10,0,8.2,1,,,,,
+Pakistan,Haris Rauf (Pakistan),bowl,60,85,1,0.016666667,1.416666667,New Zealand,Bengaluru,4-Nov-23,10,0,8.5,1,,,,,
+Sri Lanka,CAK Rajitha (Sri Lanka),bowl,60,90,1,0.016666667,1.5,South Africa,Delhi,7-Oct-23,10,1,9,1,,,,,
+Sri Lanka,M Pathirana (Sri Lanka),bowl,54,90,1,0.018518519,1.666666667,Pakistan,Hyderabad,10-Oct-23,9,0,10,2,,,,,
+South Africa,M Jansen (South Africa),bowl,58,94,1,0.017241379,1.620689655,India,Eden Gardens,5-Nov-23,9.4,0,9.72,1,,,,,
+Sri Lanka,M Pathirana (Sri Lanka),bowl,60,95,1,0.016666667,1.583333333,South Africa,Delhi,7-Oct-23,10,0,9.5,1,,,,,
+New Zealand,DJ Mitchell (New Zealand),bowl,3,1,0,0,0.333333333,Pakistan,Bengaluru,4-Nov-23,0.3,0,2,2,,,,,
+India,V Kohli (India),bowl,3,2,0,0,0.666666667,Bangladesh,Pune,19-Oct-23,0.3,0,4,1,,,,,
+Australia,MP Stoinis (Australia),bowl,6,2,0,0,0.333333333,Afghanistan,Wankhede,7-Nov-23,1,0,2,1,,,,,
+India,Kuldeep Yadav (India),bowl,12,3,0,0,0.25,Sri Lanka,Wankhede,2-Nov-23,2,0,1.5,2,,,,,
+New Zealand,GD Phillips (New Zealand),bowl,6,3,0,0,0.5,Sri Lanka,Bengaluru,9-Nov-23,1,0,3,1,,,,,
+Bangladesh,Najmul Hossain Shanto (Bangladesh),bowl,6,5,0,0,0.833333333,Pakistan,Eden Gardens,31-Oct-23,1,0,5,2,,,,,
+Australia,MR Marsh (Australia),bowl,6,6,0,0,1,South Africa,Lucknow,12-Oct-23,1,0,6,1,,,,,
+Bangladesh,Mahmudullah (Bangladesh),bowl,6,6,0,0,1,India,Pune,19-Oct-23,1,0,6,2,,,,,
+Bangladesh,Mahmudullah (Bangladesh),bowl,6,7,0,0,1.166666667,Afghanistan,Dharamsala,7-Oct-23,1,0,7,1,,,,,
+India,HH Pandya (India),bowl,3,8,0,0,2.666666667,Bangladesh,Pune,19-Oct-23,0.3,0,16,1,,,,,
+Afghanistan,Azmatullah Omarzai (Afghanistan),bowl,6,8,0,0,1.333333333,South Africa,Ahmedabad,10-Nov-23,1,0,8,2,,,,,
+Netherlands,Vikramjit Singh (Netherlands),bowl,6,9,0,0,1.5,New Zealand,Hyderabad,9-Oct-23,1,0,9,1,,,,,
+Sri Lanka,KIC Asalanka (Sri Lanka),bowl,6,10,0,0,1.666666667,Pakistan,Hyderabad,10-Oct-23,1,0,10,2,,,,,
+Sri Lanka,DM de Silva (Sri Lanka),bowl,6,10,0,0,1.666666667,England,Bengaluru,26-Oct-23,1,0,10,1,,,,,
+Australia,C Green (Australia),bowl,12,11,0,0,0.916666667,India,Chennai,8-Oct-23,2,0,5.5,2,,,,,
+New Zealand,GD Phillips (New Zealand),bowl,12,11,0,0,0.916666667,Netherlands,Hyderabad,9-Oct-23,2,0,5.5,2,,,,,
+Australia,MP Stoinis (Australia),bowl,12,11,0,0,0.916666667,South Africa,Lucknow,12-Oct-23,2,0,5.5,1,,,,,
+New Zealand,DJ Mitchell (New Zealand),bowl,6,11,0,0,1.833333333,Bangladesh,Chennai,13-Oct-23,1,0,11,1,,,,,
+Australia,MP Stoinis (Australia),bowl,12,11,0,0,0.916666667,Sri Lanka,Lucknow,16-Oct-23,2,0,5.5,1,,,,,
+Sri Lanka,AD Mathews (Sri Lanka),bowl,18,11,0,0,0.611111111,India,Wankhede,2-Nov-23,3,0,3.66,1,,,,,
+Afghanistan,Azmatullah Omarzai (Afghanistan),bowl,18,11,0,0,0.611111111,Netherlands,Lucknow,3-Nov-23,3,0,3.66,1,,,,,
+India,SN Thakur (India),bowl,12,12,0,0,1,Pakistan,Ahmedabad,14-Oct-23,2,0,6,1,,,,,
+New Zealand,GD Phillips (New Zealand),bowl,12,12,0,0,1,India,Dharamsala,22-Oct-23,2,0,6,2,,,,,
+Netherlands,CN Ackermann (Netherlands),bowl,18,12,0,0,0.666666667,Afghanistan,Lucknow,3-Nov-23,3,0,4,2,,,,,
+Afghanistan,Rahmat Shah (Afghanistan),bowl,6,12,0,0,2,South Africa,Ahmedabad,10-Nov-23,1,0,12,2,,,,,
+Afghanistan,Azmatullah Omarzai (Afghanistan),bowl,12,13,0,0,1.083333333,England,Delhi,15-Oct-23,2,0,6.5,2,,,,,
+Sri Lanka,DM de Silva (Sri Lanka),bowl,18,13,0,0,0.722222222,Australia,Lucknow,16-Oct-23,3,0,4.33,2,,,,,
+New Zealand,GD Phillips (New Zealand),bowl,18,13,0,0,0.722222222,Afghanistan,Chennai,18-Oct-23,3,0,4.33,2,,,,,
+Sri Lanka,DM de Silva (Sri Lanka),bowl,24,13,0,0,0.541666667,Netherlands,Lucknow,21-Oct-23,4,0,3.25,1,,,,,
+Netherlands,Shariz Ahmad (Netherlands),bowl,12,13,0,0,1.083333333,Bangladesh,Eden Gardens,28-Oct-23,2,0,6.5,2,,,,,
+India,JJ Bumrah (India),bowl,30,14,0,0,0.466666667,South Africa,Eden Gardens,5-Nov-23,5,0,2.8,2,,,,,
+Netherlands,Saqib Zulfiqar (Netherlands),bowl,12,15,0,0,1.25,Pakistan,Hyderabad,6-Oct-23,2,0,7.5,1,,,,,
+Sri Lanka,C Karunaratne (Sri Lanka),bowl,18,15,0,0,0.833333333,Australia,Lucknow,16-Oct-23,3,0,5,2,,,,,
+Australia,TM Head (Australia),bowl,18,15,0,0,0.833333333,Afghanistan,Wankhede,7-Nov-23,3,0,5,1,,,,,
+Netherlands,Vikramjit Singh (Netherlands),bowl,12,16,0,0,1.333333333,Pakistan,Hyderabad,6-Oct-23,2,0,8,1,,,,,
+England,LS Livingstone (England),bowl,18,17,0,0,0.944444444,Sri Lanka,Bengaluru,26-Oct-23,3,0,5.66,2,,,,,
+Bangladesh,Mehidy Hasan Miraz (Bangladesh),bowl,24,17,0,0,0.708333333,Netherlands,Eden Gardens,28-Oct-23,4,0,4.25,1,,,,,
+New Zealand,R Ravindra (New Zealand),bowl,12,17,0,0,1.416666667,South Africa,Pune,1-Nov-23,2,0,8.5,1,,,,,
+South Africa,AK Markram (South Africa),bowl,12,17,0,0,1.416666667,India,Eden Gardens,5-Nov-23,2,0,8.5,1,,,,,
+Afghanistan,Mohammad Nabi (Afghanistan),bowl,36,18,0,0,0.5,Bangladesh,Dharamsala,7-Oct-23,6,1,3,2,,,,,
+Australia,MR Marsh (Australia),bowl,12,18,0,0,1.5,New Zealand,Dharamsala,28-Oct-23,2,0,9,2,,,,,
+Sri Lanka,AD Mathews (Sri Lanka),bowl,18,18,0,0,1,Afghanistan,Pune,30-Oct-23,3,0,6,2,,,,,
+Netherlands,A Dutt (Netherlands),bowl,30,19,0,0,0.633333333,South Africa,Dharamsala,17-Oct-23,5,1,3.8,2,,,,,
+Netherlands,CN Ackermann (Netherlands),bowl,24,19,0,0,0.791666667,Australia,Delhi,25-Oct-23,4,0,4.75,1,,,,,
+Bangladesh,Mahmudullah (Bangladesh),bowl,18,20,0,0,1.111111111,South Africa,Wankhede,24-Oct-23,3,0,6.66,1,,,,,
+South Africa,AK Markram (South Africa),bowl,24,20,0,0,0.833333333,Pakistan,Chennai,27-Oct-23,4,0,5,1,,,,,
+Sri Lanka,DM de Silva (Sri Lanka),bowl,18,20,0,0,1.111111111,Bangladesh,Delhi,6-Nov-23,3,0,6.66,2,,,,,
+Afghanistan,Mohammad Nabi (Afghanistan),bowl,12,20,0,0,1.666666667,Australia,Wankhede,7-Nov-23,2,0,10,2,,,,,
+England,MM Ali (England),bowl,18,21,0,0,1.166666667,Sri Lanka,Bengaluru,26-Oct-23,3,0,7,2,,,,,
+Sri Lanka,DM de Silva (Sri Lanka),bowl,24,21,0,0,0.875,Afghanistan,Pune,30-Oct-23,4,0,5.25,2,,,,,
+Pakistan,Agha Salman (Pakistan),bowl,12,21,0,0,1.75,New Zealand,Bengaluru,4-Nov-23,2,0,10.5,1,,,,,
+Pakistan,Iftikhar Ahmed (Pakistan),bowl,24,22,0,0,0.916666667,Sri Lanka,Hyderabad,10-Oct-23,4,0,5.5,1,,,,,
+Netherlands,RE van der Merwe (Netherlands),bowl,18,22,0,0,1.222222222,England,Pune,8-Nov-23,3,0,7.33,1,,,,,
+Sri Lanka,DM de Silva (Sri Lanka),bowl,12,22,0,0,1.833333333,New Zealand,Bengaluru,9-Nov-23,2,0,11,2,,,,,
+England,MA Wood (England),bowl,24,23,0,0,0.958333333,Sri Lanka,Bengaluru,26-Oct-23,4,0,5.75,2,,,,,
+Pakistan,Iftikhar Ahmed (Pakistan),bowl,18,23,0,0,1.277777778,South Africa,Chennai,27-Oct-23,3,0,7.66,2,,,,,
+England,LS Livingstone (England),bowl,18,24,0,0,1.333333333,New Zealand,Ahmedabad,5-Oct-23,3,0,8,2,,,,,
+Bangladesh,Shoriful Islam (Bangladesh),bowl,24,25,0,0,1.041666667,Pakistan,Eden Gardens,31-Oct-23,4,1,6.25,2,,,,,
+South Africa,AK Markram (South Africa),bowl,27,25,0,0,0.925925926,Afghanistan,Ahmedabad,10-Nov-23,4.3,0,5.55,1,,,,,
+Pakistan,Iftikhar Ahmed (Pakistan),bowl,30,27,0,0,0.9,Afghanistan,Chennai,23-Oct-23,5,0,5.4,2,,,,,
+Bangladesh,Nasum Ahmed (Bangladesh),bowl,30,27,0,0,0.9,South Africa,Wankhede,24-Oct-23,5,0,5.4,1,,,,,
+Netherlands,Vikramjit Singh (Netherlands),bowl,24,27,0,0,1.125,Australia,Delhi,25-Oct-23,4,0,6.75,1,,,,,
+Netherlands,CN Ackermann (Netherlands),bowl,24,28,0,0,1.166666667,New Zealand,Hyderabad,9-Oct-23,4,0,7,1,,,,,
+Sri Lanka,MD Shanaka (Sri Lanka),bowl,30,28,0,0,0.933333333,Pakistan,Hyderabad,10-Oct-23,5,0,5.6,2,,,,,
+South Africa,L Ngidi (South Africa),bowl,36,28,0,0,0.777777778,New Zealand,Pune,1-Nov-23,6,1,4.66,2,,,,,
+England,MM Ali (England),bowl,24,28,0,0,1.166666667,Australia,Ahmedabad,4-Nov-23,4,0,7,1,,,,,
+Australia,TM Head (Australia),bowl,30,28,0,0,0.933333333,England,Ahmedabad,4-Nov-23,5,0,5.6,2,,,,,
+Bangladesh,Mustafizur Rahman (Bangladesh),bowl,30,29,0,0,0.966666667,India,Pune,19-Oct-23,5,0,5.8,2,,,,,
+Netherlands,BFW de Leede (Netherlands),bowl,18,29,0,0,1.611111111,Sri Lanka,Lucknow,21-Oct-23,3,0,9.66,2,,,,,
+England,LS Livingstone (England),bowl,24,29,0,0,1.208333333,India,Lucknow,29-Oct-23,4,1,7.25,1,,,,,
+Afghanistan,Mujeeb Ur Rahman (Afghanistan),bowl,42,30,0,0,0.714285714,Bangladesh,Dharamsala,7-Oct-23,7,0,4.28,2,,,,,
+England,CR Woakes (England),bowl,36,30,0,0,0.833333333,Sri Lanka,Bengaluru,26-Oct-23,6,0,5,2,,,,,
+Bangladesh,Shakib Al Hasan (Bangladesh),bowl,33,30,0,0,0.909090909,Pakistan,Eden Gardens,31-Oct-23,5.3,0,5.45,2,,,,,
+Afghanistan,Naveen-ul-Haq (Afghanistan),bowl,30,31,0,0,1.033333333,India,Delhi,11-Oct-23,5,0,6.2,2,,,,,
+Pakistan,Shadab Khan (Pakistan),bowl,24,31,0,0,1.291666667,India,Ahmedabad,14-Oct-23,4,0,7.75,2,,,,,
+New Zealand,MJ Henry (New Zealand),bowl,33,31,0,0,0.939393939,South Africa,Pune,1-Nov-23,5.3,0,5.63,1,,,,,
+Afghanistan,Rashid Khan (Afghanistan),bowl,60,31,0,0,0.516666667,Netherlands,Lucknow,3-Nov-23,10,0,3.1,1,,,,,
+Netherlands,CN Ackermann (Netherlands),bowl,42,31,0,0,0.738095238,England,Pune,8-Nov-23,7,0,4.42,1,,,,,
+New Zealand,LH Ferguson (New Zealand),bowl,48,32,0,0,0.666666667,Netherlands,Hyderabad,9-Oct-23,8,0,4,2,,,,,
+Afghanistan,Mohammad Nabi (Afghanistan),bowl,24,32,0,0,1.333333333,India,Delhi,11-Oct-23,4,0,8,2,,,,,
+Australia,PJ Cummins (Australia),bowl,38,33,0,0,0.868421053,India,Chennai,8-Oct-23,6.2,0,5.21,2,,,,,
+Australia,GJ Maxwell (Australia),bowl,48,33,0,0,0.6875,India,Chennai,8-Oct-23,8,0,4.12,2,,,,,
+India,Mohammed Siraj (India),bowl,36,33,0,0,0.916666667,England,Lucknow,29-Oct-23,6,0,5.5,2,,,,,
+Afghanistan,Mohammad Nabi (Afghanistan),bowl,36,33,0,0,0.916666667,Sri Lanka,Pune,30-Oct-23,6,0,5.5,1,,,,,
+New Zealand,TA Boult (New Zealand),bowl,48,34,0,0,0.708333333,Netherlands,Hyderabad,9-Oct-23,8,0,4.25,2,,,,,
+Afghanistan,Azmatullah Omarzai (Afghanistan),bowl,24,34,0,0,1.416666667,India,Delhi,11-Oct-23,4,0,8.5,2,,,,,
+Netherlands,PA van Meekeren (Netherlands),bowl,30,35,0,0,1.166666667,Afghanistan,Lucknow,3-Nov-23,5,0,7,2,,,,,
+New Zealand,MJ Santner (New Zealand),bowl,30,35,0,0,1.166666667,Pakistan,Bengaluru,4-Nov-23,5,0,7,2,,,,,
+Netherlands,RE van der Merwe (Netherlands),bowl,36,36,0,0,1,Pakistan,Hyderabad,6-Oct-23,6,0,6,1,,,,,
+Sri Lanka,MD Shanaka (Sri Lanka),bowl,36,36,0,0,1,South Africa,Delhi,7-Oct-23,6,0,6,1,,,,,
+Sri Lanka,DM de Silva (Sri Lanka),bowl,24,36,0,0,1.5,Pakistan,Hyderabad,10-Oct-23,4,0,9,2,,,,,
+Australia,JR Hazlewood (Australia),bowl,42,36,0,0,0.857142857,Sri Lanka,Lucknow,16-Oct-23,7,1,5.14,1,,,,,
+Bangladesh,Taskin Ahmed (Bangladesh),bowl,36,36,0,0,1,Pakistan,Eden Gardens,31-Oct-23,6,1,6,2,,,,,
+Afghanistan,Fazalhaq Farooqi (Afghanistan),bowl,30,36,0,0,1.2,Netherlands,Lucknow,3-Nov-23,5,0,7.2,1,,,,,
+New Zealand,R Ravindra (New Zealand),bowl,42,37,0,0,0.880952381,Bangladesh,Chennai,13-Oct-23,7,0,5.28,1,,,,,
+Pakistan,Iftikhar Ahmed (Pakistan),bowl,48,37,0,0,0.770833333,Australia,Bengaluru,20-Oct-23,8,0,4.62,1,,,,,
+Sri Lanka,D Madushanka (Sri Lanka),bowl,30,37,0,0,1.233333333,England,Bengaluru,26-Oct-23,5,0,7.4,1,,,,,
+England,MM Ali (England),bowl,48,37,0,0,0.770833333,India,Lucknow,29-Oct-23,8,0,4.62,1,,,,,
+India,RA Jadeja (India),bowl,48,38,0,0,0.791666667,Afghanistan,Delhi,11-Oct-23,8,0,4.75,1,,,,,
+New Zealand,LH Ferguson (New Zealand),bowl,18,38,0,0,2.111111111,Australia,Dharamsala,28-Oct-23,3,0,12.66,1,,,,,
+Sri Lanka,DM de Silva (Sri Lanka),bowl,24,39,0,0,1.625,South Africa,Delhi,7-Oct-23,4,0,9.75,1,,,,,
+Afghanistan,Fazalhaq Farooqi (Afghanistan),bowl,42,39,0,0,0.928571429,New Zealand,Chennai,18-Oct-23,7,1,5.57,1,,,,,
+England,AU Rashid (England),bowl,28,39,0,0,1.392857143,Sri Lanka,Bengaluru,26-Oct-23,4.4,0,8.35,2,,,,,
+Bangladesh,Taskin Ahmed (Bangladesh),bowl,60,39,0,0,0.65,Sri Lanka,Delhi,6-Nov-23,10,1,3.9,1,,,,,
+Australia,GJ Maxwell (Australia),bowl,30,40,0,0,1.333333333,Pakistan,Bengaluru,20-Oct-23,5,0,8,2,,,,,
+Pakistan,Mohammad Nawaz (3) (Pakistan),bowl,38,40,0,0,1.052631579,South Africa,Chennai,27-Oct-23,6.2,0,6.31,2,,,,,
+South Africa,K Rabada (South Africa),bowl,60,40,0,0,0.666666667,Afghanistan,Ahmedabad,10-Nov-23,10,0,4,1,,,,,
+Netherlands,R Klein (Netherlands),bowl,42,41,0,0,0.976190476,New Zealand,Hyderabad,9-Oct-23,7,1,5.85,1,,,,,
+England,CR Woakes (England),bowl,24,41,0,0,1.708333333,Afghanistan,Delhi,15-Oct-23,4,0,10.25,1,,,,,
+Afghanistan,Mohammad Nabi (Afghanistan),bowl,48,41,0,0,0.854166667,New Zealand,Chennai,18-Oct-23,8,1,5.12,1,,,,,
+Afghanistan,Rashid Khan (Afghanistan),bowl,60,41,0,0,0.683333333,Pakistan,Chennai,23-Oct-23,10,0,4.1,1,,,,,
+Netherlands,RE van der Merwe (Netherlands),bowl,30,41,0,0,1.366666667,Australia,Delhi,25-Oct-23,5,0,8.2,1,,,,,
+England,AAP Atkinson (England),bowl,42,41,0,0,0.976190476,Netherlands,Pune,8-Nov-23,7,0,5.85,2,,,,,
+Sri Lanka,MADI Hemantha (Sri Lanka),bowl,48,42,0,0,0.875,Netherlands,Lucknow,21-Oct-23,8,0,5.25,1,,,,,
+Netherlands,RE van der Merwe (Netherlands),bowl,54,42,0,0,0.777777778,Sri Lanka,Lucknow,21-Oct-23,9,0,4.66,2,,,,,
+New Zealand,GD Phillips (New Zealand),bowl,30,42,0,0,1.4,Pakistan,Bengaluru,4-Nov-23,5,1,8.4,2,,,,,
+Bangladesh,Shoriful Islam (Bangladesh),bowl,47,43,0,0,0.914893617,New Zealand,Chennai,13-Oct-23,7.5,1,5.48,2,,,,,
+Pakistan,Haris Rauf (Pakistan),bowl,36,43,0,0,1.194444444,India,Ahmedabad,14-Oct-23,6,0,7.16,2,,,,,
+Pakistan,Mohammad Nawaz (3) (Pakistan),bowl,42,43,0,0,1.023809524,Australia,Bengaluru,20-Oct-23,7,0,6.14,1,,,,,
+New Zealand,IS Sodhi (New Zealand),bowl,24,44,0,0,1.833333333,Pakistan,Bengaluru,4-Nov-23,4,0,11,2,,,,,
+England,CR Woakes (England),bowl,36,45,0,0,1.25,New Zealand,Ahmedabad,5-Oct-23,6,0,7.5,2,,,,,
+England,SM Curran (England),bowl,24,46,0,0,1.916666667,Afghanistan,Delhi,15-Oct-23,4,0,11.5,1,,,,,
+New Zealand,R Ravindra (New Zealand),bowl,54,46,0,0,0.851851852,India,Dharamsala,22-Oct-23,9,0,5.11,2,,,,,
+England,AU Rashid (England),bowl,42,47,0,0,1.119047619,New Zealand,Ahmedabad,5-Oct-23,7,0,6.71,2,,,,,
+Pakistan,Mohammad Nawaz (3) (Pakistan),bowl,51,47,0,0,0.921568627,India,Ahmedabad,14-Oct-23,8.3,0,5.52,2,,,,,
+Sri Lanka,CBRLS Kumara (Sri Lanka),bowl,24,47,0,0,1.958333333,Australia,Lucknow,16-Oct-23,4,0,11.75,2,,,,,
+Afghanistan,Naveen-ul-Haq (Afghanistan),bowl,39,47,0,0,1.205128205,Sri Lanka,Pune,30-Oct-23,6.3,0,7.23,1,,,,,
+Bangladesh,Mustafizur Rahman (Bangladesh),bowl,42,47,0,0,1.119047619,Pakistan,Eden Gardens,31-Oct-23,7,0,6.71,2,,,,,
+Sri Lanka,CAK Rajitha (Sri Lanka),bowl,24,47,0,0,1.958333333,Bangladesh,Delhi,6-Nov-23,4,0,11.75,2,,,,,
+Australia,PJ Cummins (Australia),bowl,48,47,0,0,0.979166667,Afghanistan,Wankhede,7-Nov-23,8,0,5.87,1,,,,,
+Afghanistan,Rashid Khan (Afghanistan),bowl,54,48,0,0,0.888888889,Bangladesh,Dharamsala,7-Oct-23,9,0,5.33,2,,,,,
+England,JE Root (England),bowl,37,48,0,0,1.297297297,South Africa,Wankhede,21-Oct-23,6.1,0,7.78,1,,,,,
+India,RA Jadeja (India),bowl,60,48,0,0,0.8,New Zealand,Dharamsala,22-Oct-23,10,0,4.8,1,,,,,
+Sri Lanka,M Theekshana (Sri Lanka),bowl,42,49,0,0,1.166666667,Australia,Lucknow,16-Oct-23,7,0,7,2,,,,,
+Pakistan,Shadab Khan (Pakistan),bowl,48,49,0,0,1.020833333,Afghanistan,Chennai,23-Oct-23,8,0,6.12,2,,,,,
+Netherlands,A Dutt (Netherlands),bowl,51,49,0,0,0.960784314,Afghanistan,Lucknow,3-Nov-23,8.3,0,5.76,2,,,,,
+Afghanistan,Noor Ahmad (Afghanistan),bowl,54,49,0,0,0.907407407,South Africa,Ahmedabad,10-Nov-23,9,0,5.44,2,,,,,
+Afghanistan,Fazalhaq Farooqi (Afghanistan),bowl,36,50,0,0,1.388888889,India,Delhi,11-Oct-23,6,0,8.33,2,,,,,
+New Zealand,TA Boult (New Zealand),bowl,36,50,0,0,1.388888889,Pakistan,Bengaluru,4-Nov-23,6,0,8.33,2,,,,,
+Sri Lanka,PVD Chameera (Sri Lanka),bowl,56,51,0,0,0.910714286,Afghanistan,Pune,30-Oct-23,9.2,0,5.46,2,,,,,
+New Zealand,GD Phillips (New Zealand),bowl,42,52,0,0,1.238095238,South Africa,Pune,1-Nov-23,7,0,7.42,1,,,,,
+Sri Lanka,MADI Hemantha (Sri Lanka),bowl,48,52,0,0,1.083333333,India,Wankhede,2-Nov-23,8,0,6.5,1,,,,,
+Afghanistan,Naveen-ul-Haq (Afghanistan),bowl,39,52,0,0,1.333333333,South Africa,Ahmedabad,10-Nov-23,6.3,0,8,2,,,,,
+Australia,A Zampa (Australia),bowl,48,53,0,0,1.104166667,India,Chennai,8-Oct-23,8,0,6.62,2,,,,,
+Pakistan,Haris Rauf (Pakistan),bowl,48,53,0,0,1.104166667,Afghanistan,Chennai,23-Oct-23,8,1,6.62,2,,,,,
+Afghanistan,Noor Ahmad (Afghanistan),bowl,60,53,0,0,0.883333333,Australia,Wankhede,7-Nov-23,10,1,5.3,2,,,,,
+Bangladesh,Shoriful Islam (Bangladesh),bowl,48,54,0,0,1.125,India,Pune,19-Oct-23,8,0,6.75,2,,,,,
+Sri Lanka,PVD Chameera (Sri Lanka),bowl,48,54,0,0,1.125,Bangladesh,Delhi,6-Nov-23,8,0,6.75,2,,,,,
+England,MA Wood (England),bowl,30,55,0,0,1.833333333,New Zealand,Ahmedabad,5-Oct-23,5,0,11,2,,,,,
+Bangladesh,Mehidy Hasan Miraz (Bangladesh),bowl,36,55,0,0,1.527777778,England,Dharamsala,10-Oct-23,6,0,9.16,1,,,,,
+Afghanistan,Mujeeb Ur Rahman (Afghanistan),bowl,48,55,0,0,1.145833333,Pakistan,Chennai,23-Oct-23,8,0,6.87,1,,,,,
+Pakistan,Usama Mir (Pakistan),bowl,48,55,0,0,1.145833333,Afghanistan,Chennai,23-Oct-23,8,0,6.87,2,,,,,
+Sri Lanka,M Theekshana (Sri Lanka),bowl,60,55,0,0,0.916666667,Afghanistan,Pune,30-Oct-23,10,0,5.5,2,,,,,
+New Zealand,JDS Neesham (New Zealand),bowl,42,56,0,0,1.333333333,England,Ahmedabad,5-Oct-23,7,0,8,1,,,,,
+Bangladesh,Taskin Ahmed (Bangladesh),bowl,48,56,0,0,1.166666667,New Zealand,Chennai,13-Oct-23,8,0,7,2,,,,,
+South Africa,KA Maharaj (South Africa),bowl,54,56,0,0,1.037037037,Pakistan,Chennai,27-Oct-23,9,0,6.22,1,,,,,
+New Zealand,R Ravindra (New Zealand),bowl,48,56,0,0,1.166666667,Australia,Dharamsala,28-Oct-23,8,0,7,1,,,,,
+Pakistan,Hasan Ali (Pakistan),bowl,48,57,0,0,1.1875,Australia,Bengaluru,20-Oct-23,8,0,7.12,1,,,,,
+Netherlands,LV van Beek (Netherlands),bowl,60,57,0,0,0.95,Sri Lanka,Lucknow,21-Oct-23,10,0,5.7,2,,,,,
+Bangladesh,Mehidy Hasan Miraz (Bangladesh),bowl,54,58,0,0,1.074074074,New Zealand,Chennai,13-Oct-23,9,0,6.44,2,,,,,
+Sri Lanka,C Karunaratne (Sri Lanka),bowl,54,58,0,0,1.074074074,Netherlands,Lucknow,21-Oct-23,9,1,6.44,1,,,,,
+New Zealand,MJ Santner (New Zealand),bowl,60,58,0,0,0.966666667,South Africa,Pune,1-Nov-23,10,0,5.8,1,,,,,
+Sri Lanka,D Madushanka (Sri Lanka),bowl,38,58,0,0,1.526315789,New Zealand,Bengaluru,9-Nov-23,6.2,0,9.15,2,,,,,
+England,MM Ali (England),bowl,56,60,0,0,1.071428571,New Zealand,Ahmedabad,5-Oct-23,9.2,0,6.42,2,,,,,
+Bangladesh,Nasum Ahmed (Bangladesh),bowl,57,60,0,0,1.052631579,India,Pune,19-Oct-23,9.3,0,6.31,2,,,,,
+England,DJ Willey (England),bowl,54,61,0,0,1.12962963,South Africa,Wankhede,21-Oct-23,9,1,6.77,1,,,,,
+Sri Lanka,DN Wellalage (Sri Lanka),bowl,60,62,0,0,1.033333333,Pakistan,Hyderabad,10-Oct-23,10,0,6.2,2,,,,,
+Afghanistan,Mujeeb Ur Rahman (Afghanistan),bowl,48,64,0,0,1.333333333,India,Delhi,11-Oct-23,8,0,8,2,,,,,
+Netherlands,PA van Meekeren (Netherlands),bowl,60,64,0,0,1.066666667,Australia,Delhi,25-Oct-23,10,0,6.4,1,,,,,
+Sri Lanka,CAK Rajitha (Sri Lanka),bowl,54,65,0,0,1.203703704,India,Wankhede,2-Nov-23,9,0,7.22,1,,,,,
+Sri Lanka,M Theekshana (Sri Lanka),bowl,60,67,0,0,1.116666667,India,Wankhede,2-Nov-23,10,0,6.7,1,,,,,
+Bangladesh,Mustafizur Rahman (Bangladesh),bowl,60,70,0,0,1.166666667,England,Dharamsala,10-Oct-23,10,0,7,1,,,,,
+Afghanistan,Mujeeb Ur Rahman (Afghanistan),bowl,53,72,0,0,1.358490566,Australia,Wankhede,7-Nov-23,8.5,1,8.15,2,,,,,
+India,Mohammed Siraj (India),bowl,54,76,0,0,1.407407407,Afghanistan,Delhi,11-Oct-23,9,0,8.44,1,,,,,
+England,MA Wood (England),bowl,42,76,0,0,1.80952381,South Africa,Wankhede,21-Oct-23,7,0,10.85,1,,,,,
+Bangladesh,Mustafizur Rahman (Bangladesh),bowl,54,76,0,0,1.407407407,South Africa,Wankhede,24-Oct-23,9,0,8.44,1,,,,,
+Australia,MA Starc (Australia),bowl,54,89,0,0,1.648148148,New Zealand,Dharamsala,28-Oct-23,9,0,9.88,2,,,,,
+Pakistan,Shaheen Shah Afridi (Pakistan),bowl,60,90,0,0,1.5,New Zealand,Bengaluru,4-Nov-23,10,0,9,1,,,,,
+Australia,GJ Maxwell (Australia),bat,128,201,,0,1.5703,Afghanistan,Wankhede,7-Nov-23,,,,2,21,10,157.03,1,181
+South Africa,Q de Kock (South Africa),bat,140,174,,0.007142857,1.2428,Bangladesh,Wankhede,24-Oct-23,,,,1,15,7,124.28,0,192
+Australia,DA Warner (Australia),bat,124,163,,0.008064516,1.3145,Pakistan,Bengaluru,20-Oct-23,,,,1,14,9,131.45,0,180
+New Zealand,DP Conway (New Zealand),bat,121,152,,0,1.2561,England,Ahmedabad,5-Oct-23,,,,2,19,3,125.61,1,147
+England,DJ Malan (England),bat,107,140,,0.009345794,1.3084,Bangladesh,Dharamsala,10-Oct-23,,,,1,16,5,130.84,0,106
+South Africa,HE van der Dussen (South Africa),bat,118,133,,0.008474576,1.1271,New Zealand,Pune,1-Nov-23,,,,1,9,5,112.71,0,172
+Pakistan,Mohammad Rizwan (Pakistan),bat,121,131,,0,1.0826,Sri Lanka,Hyderabad,10-Oct-23,,,,2,8,3,108.26,1,193
+India,RG Sharma (India),bat,84,131,,0.011904762,1.5595,Afghanistan,Delhi,11-Oct-23,,,,2,16,5,155.95,0,111
+New Zealand,DJ Mitchell (New Zealand),bat,127,130,,0.007874016,1.0236,India,Dharamsala,22-Oct-23,,,,1,9,5,102.36,0,192
+Afghanistan,Ibrahim Zadran (Afghanistan),bat,143,129,,0,0.902,Australia,Wankhede,7-Nov-23,,,,1,8,3,90.2,1,217
+Pakistan,Fakhar Zaman (Pakistan),bat,81,126,,0,1.5555,New Zealand,Bengaluru,4-Nov-23,,,,2,8,11,155.55,1,103
+New Zealand,R Ravindra (New Zealand),bat,96,123,,0,1.2812,England,Ahmedabad,5-Oct-23,,,,2,11,5,128.12,1,141
+Sri Lanka,BKG Mendis (Sri Lanka),bat,77,122,,0.012987013,1.5844,Pakistan,Hyderabad,10-Oct-23,,,,1,14,6,158.44,0,124
+Australia,MR Marsh (Australia),bat,108,121,,0.009259259,1.1203,Pakistan,Bengaluru,20-Oct-23,,,,1,10,9,112.03,0,139
+New Zealand,R Ravindra (New Zealand),bat,89,116,,0.011235955,1.3033,Australia,Dharamsala,28-Oct-23,,,,2,9,5,130.33,0,137
+South Africa,Q de Kock (South Africa),bat,116,114,,0.00862069,0.9827,New Zealand,Pune,1-Nov-23,,,,1,10,3,98.27,0,176
+Pakistan,Abdullah Shafique (Pakistan),bat,103,113,,0.009708738,1.097,Sri Lanka,Hyderabad,10-Oct-23,,,,2,10,3,109.7,0,150
+Bangladesh,Mahmudullah (Bangladesh),bat,111,111,,0.009009009,1,South Africa,Wankhede,24-Oct-23,,,,2,11,4,100,0,150
+South Africa,Q de Kock (South Africa),bat,106,109,,0.009433962,1.0283,Australia,Lucknow,12-Oct-23,,,,1,8,5,102.83,0,147
+South Africa,H Klaasen (South Africa),bat,67,109,,0.014925373,1.6268,England,Wankhede,21-Oct-23,,,,1,12,4,162.68,0,119
+Australia,TM Head (Australia),bat,67,109,,0.014925373,1.6268,New Zealand,Dharamsala,28-Oct-23,,,,1,10,7,162.68,0,94
+South Africa,HE van der Dussen (South Africa),bat,110,108,,0.009090909,0.9818,Sri Lanka,Delhi,7-Oct-23,,,,1,13,2,98.18,0,161
+Sri Lanka,S Samarawickrama (Sri Lanka),bat,89,108,,0.011235955,1.2134,Pakistan,Hyderabad,10-Oct-23,,,,1,11,2,121.34,0,139
+New Zealand,R Ravindra (New Zealand),bat,94,108,,0.010638298,1.1489,Pakistan,Bengaluru,4-Nov-23,,,,1,15,1,114.89,0,170
+Sri Lanka,KIC Asalanka (Sri Lanka),bat,105,108,,0.00952381,1.0285,Bangladesh,Delhi,6-Nov-23,,,,1,6,5,102.85,0,159
+England,BA Stokes (England),bat,84,108,,0.011904762,1.2857,Netherlands,Pune,8-Nov-23,,,,1,6,6,128.57,0,136
+South Africa,AK Markram (South Africa),bat,54,106,,0.018518519,1.9629,Sri Lanka,Delhi,7-Oct-23,,,,1,14,3,196.29,0,84
+Australia,GJ Maxwell (Australia),bat,44,106,,0.022727273,2.409,Netherlands,Delhi,25-Oct-23,,,,1,9,8,240.9,0,53
+Australia,DA Warner (Australia),bat,93,104,,0.010752688,1.1182,Netherlands,Delhi,25-Oct-23,,,,1,11,3,111.82,0,182
+India,V Kohli (India),bat,97,103,,0,1.0618,Bangladesh,Pune,19-Oct-23,,,,2,6,4,106.18,1,113
+India,V Kohli (India),bat,121,101,,0,0.8347,South Africa,Eden Gardens,5-Nov-23,,,,1,10,0,83.47,1,195
+South Africa,Q de Kock (South Africa),bat,84,100,,0.011904762,1.1904,Sri Lanka,Delhi,7-Oct-23,,,,1,12,3,119.04,0,140
+India,KL Rahul (India),bat,115,97,,0,0.8434,Australia,Chennai,8-Oct-23,,,,2,8,2,84.34,1,180
+Afghanistan,Azmatullah Omarzai (Afghanistan),bat,107,97,,0,0.9065,South Africa,Ahmedabad,10-Nov-23,,,,1,7,3,90.65,1,173
+India,V Kohli (India),bat,104,95,,0.009615385,0.9134,New Zealand,Dharamsala,22-Oct-23,,,,2,8,2,91.34,0,154
+New Zealand,KS Williamson (New Zealand),bat,79,95,,0.012658228,1.2025,Pakistan,Bengaluru,4-Nov-23,,,,1,10,2,120.25,0,111
+India,Shubman Gill (India),bat,92,92,,0.010869565,1,Sri Lanka,Wankhede,2-Nov-23,,,,1,11,2,100,0,136
+Sri Lanka,S Samarawickrama (Sri Lanka),bat,107,91,,0,0.8504,Netherlands,Lucknow,21-Oct-23,,,,2,7,0,85.04,1,168
+South Africa,AK Markram (South Africa),bat,93,91,,0.010752688,0.9784,Pakistan,Chennai,27-Oct-23,,,,2,7,3,97.84,0,151
+South Africa,H Klaasen (South Africa),bat,49,90,,0.020408163,1.8367,Bangladesh,Wankhede,24-Oct-23,,,,1,2,8,183.67,0,94
+Bangladesh,Najmul Hossain Shanto (Bangladesh),bat,101,90,,0.00990099,0.891,Sri Lanka,Delhi,6-Nov-23,,,,2,12,0,89.1,0,163
+New Zealand,DJ Mitchell (New Zealand),bat,67,89,,0,1.3283,Bangladesh,Chennai,13-Oct-23,,,,2,6,4,132.83,1,103
+India,V Kohli (India),bat,94,88,,0.010638298,0.9361,Sri Lanka,Wankhede,2-Nov-23,,,,1,11,0,93.61,0,139
+Afghanistan,Ibrahim Zadran (Afghanistan),bat,113,87,,0.008849558,0.7699,Pakistan,Chennai,23-Oct-23,,,,2,10,0,76.99,0,146
+India,RG Sharma (India),bat,101,87,,0.00990099,0.8613,England,Lucknow,29-Oct-23,,,,1,10,3,86.13,0,162
+England,DJ Malan (England),bat,74,87,,0.013513514,1.1756,Netherlands,Pune,8-Nov-23,,,,1,10,2,117.56,0,92
+India,RG Sharma (India),bat,63,86,,0.015873016,1.365,Pakistan,Ahmedabad,14-Oct-23,,,,2,6,6,136.5,0,91
+India,V Kohli (India),bat,116,85,,0.00862069,0.7327,Australia,Chennai,8-Oct-23,,,,2,6,0,73.27,0,171
+South Africa,RR Hendricks (South Africa),bat,75,85,,0.013333333,1.1333,England,Wankhede,21-Oct-23,,,,1,9,3,113.33,0,111
+England,JE Root (England),bat,68,82,,0.014705882,1.2058,Bangladesh,Dharamsala,10-Oct-23,,,,1,8,1,120.58,0,107
+India,SS Iyer (India),bat,56,82,,0.017857143,1.4642,Sri Lanka,Wankhede,2-Nov-23,,,,1,3,6,146.42,0,84
+Bangladesh,Shakib Al Hasan (Bangladesh),bat,65,82,,0.015384615,1.2615,Sri Lanka,Delhi,6-Nov-23,,,,2,12,2,126.15,0,128
+Australia,DA Warner (Australia),bat,65,81,,0.015384615,1.2461,New Zealand,Dharamsala,28-Oct-23,,,,1,5,6,124.61,0,77
+Pakistan,Fakhar Zaman (Pakistan),bat,74,81,,0.013513514,1.0945,Bangladesh,Eden Gardens,31-Oct-23,,,,2,3,7,109.45,0,126
+Afghanistan,Hashmatullah Shahidi (Afghanistan),bat,88,80,,0.011363636,0.909,India,Delhi,11-Oct-23,,,,1,8,1,90.9,0,128
+Afghanistan,Rahmanullah Gurbaz (Afghanistan),bat,57,80,,0.01754386,1.4035,England,Delhi,15-Oct-23,,,,1,8,4,140.35,0,87
+Sri Lanka,KIC Asalanka (Sri Lanka),bat,65,79,,0.015384615,1.2153,South Africa,Delhi,7-Oct-23,,,,2,8,4,121.53,0,83
+New Zealand,KS Williamson (New Zealand),bat,107,78,,0,0.7289,Bangladesh,Chennai,13-Oct-23,,,,2,8,1,72.89,1,158
+Netherlands,South Africa Edwards (Netherlands),bat,69,78,,0,1.1304,South Africa,Dharamsala,17-Oct-23,,,,1,10,1,113.04,1,102
+Sri Lanka,MDKJ Perera (Sri Lanka),bat,82,78,,0.012195122,0.9512,Australia,Lucknow,16-Oct-23,,,,1,12,0,95.12,0,123
+Afghanistan,Rahmat Shah (Afghanistan),bat,84,77,,0,0.9166,Pakistan,Chennai,23-Oct-23,,,,2,5,2,91.66,1,129
+Sri Lanka,P Nissanka (Sri Lanka),bat,83,77,,0,0.9277,England,Bengaluru,26-Oct-23,,,,2,7,2,92.77,1,110
+England,JE Root (England),bat,86,77,,0.011627907,0.8953,New Zealand,Ahmedabad,5-Oct-23,,,,1,4,1,89.53,0,140
+India,SS Iyer (India),bat,87,77,,0.011494253,0.885,South Africa,Eden Gardens,5-Nov-23,,,,1,7,2,88.5,0,101
+South Africa,HE van der Dussen (South Africa),bat,95,76,,0,0.8,Afghanistan,Ahmedabad,10-Nov-23,,,,2,6,1,80,1,141
+Sri Lanka,BKG Mendis (Sri Lanka),bat,42,76,,0.023809524,1.8095,South Africa,Delhi,7-Oct-23,,,,2,4,8,180.95,0,55
+Bangladesh,Litton Das (Bangladesh),bat,66,76,,0.015151515,1.1515,England,Dharamsala,10-Oct-23,,,,2,7,2,115.15,0,99
+South Africa,M Jansen (South Africa),bat,42,75,,0,1.7857,England,Wankhede,21-Oct-23,,,,1,3,6,178.57,1,72
+New Zealand,R Ravindra (New Zealand),bat,87,75,,0.011494253,0.862,India,Dharamsala,22-Oct-23,,,,1,6,1,86.2,0,133
+Pakistan,Babar Azam (Pakistan),bat,92,74,,0.010869565,0.8043,Afghanistan,Chennai,23-Oct-23,,,,1,4,1,80.43,0,121
+Afghanistan,Azmatullah Omarzai (Afghanistan),bat,63,73,,0,1.1587,Sri Lanka,Pune,30-Oct-23,,,,2,6,3,115.87,1,80
+New Zealand,GD Phillips (New Zealand),bat,80,71,,0.0125,0.8875,Afghanistan,Chennai,18-Oct-23,,,,1,4,4,88.75,0,109
+Australia,SPD Smith (Australia),bat,68,71,,0.014705882,1.0441,Netherlands,Delhi,25-Oct-23,,,,1,9,1,104.41,0,88
+Australia,M Labuschagne (Australia),bat,83,71,,0.012048193,0.8554,England,Ahmedabad,4-Nov-23,,,,1,7,0,85.54,0,111
+New Zealand,WA Young (New Zealand),bat,80,70,,0.0125,0.875,Netherlands,Hyderabad,9-Oct-23,,,,1,7,2,87.5,0,106
+Pakistan,Imam-ul-Haq (Pakistan),bat,71,70,,0.014084507,0.9859,Australia,Bengaluru,20-Oct-23,,,,2,10,0,98.59,0,107
+Netherlands,South Africa Engelbrecht (Netherlands),bat,82,70,,0.012195122,0.8536,Sri Lanka,Lucknow,21-Oct-23,,,,1,4,1,85.36,0,100
+Netherlands,CN Ackermann (Netherlands),bat,73,69,,0.01369863,0.9452,New Zealand,Hyderabad,9-Oct-23,,,,2,5,0,94.52,0,98
+Pakistan,Mohammad Rizwan (Pakistan),bat,75,68,,0.013333333,0.9066,Netherlands,Hyderabad,6-Oct-23,,,,1,8,0,90.66,0,104
+Pakistan,Saud Shakeel (Pakistan),bat,52,68,,0.019230769,1.3076,Netherlands,Hyderabad,6-Oct-23,,,,1,9,1,130.76,0,84
+Sri Lanka,MD Shanaka (Sri Lanka),bat,62,68,,0.016129032,1.0967,South Africa,Delhi,7-Oct-23,,,,2,6,3,109.67,0,86
+New Zealand,TWM Latham (New Zealand),bat,74,68,,0.013513514,0.9189,Afghanistan,Chennai,18-Oct-23,,,,1,3,2,91.89,0,114
+Netherlands,South Africa Edwards (Netherlands),bat,89,68,,0.011235955,0.764,Bangladesh,Eden Gardens,28-Oct-23,,,,1,6,0,76.4,0,122
+Pakistan,Abdullah Shafique (Pakistan),bat,69,68,,0.014492754,0.9855,Bangladesh,Eden Gardens,31-Oct-23,,,,2,9,2,98.55,0,94
+Netherlands,BFW de Leede (Netherlands),bat,68,67,,0.014705882,0.9852,Pakistan,Hyderabad,6-Oct-23,,,,2,6,2,98.52,0,92
+Pakistan,Babar Azam (Pakistan),bat,63,66,,0,1.0476,New Zealand,Bengaluru,4-Nov-23,,,,2,6,2,104.76,1,93
+Bangladesh,Mushfiqur Rahim (Bangladesh),bat,75,66,,0.013333333,0.88,New Zealand,Chennai,13-Oct-23,,,,1,6,2,88,0,93
+England,HC Brook (England),bat,61,66,,0.016393443,1.0819,Afghanistan,Delhi,15-Oct-23,,,,2,7,1,108.19,0,123
+Bangladesh,Litton Das (Bangladesh),bat,82,66,,0.012195122,0.8048,India,Pune,19-Oct-23,,,,1,7,0,80.48,0,124
+Sri Lanka,S Samarawickrama (Sri Lanka),bat,54,65,,0,1.2037,England,Bengaluru,26-Oct-23,,,,2,7,1,120.37,1,84
+Afghanistan,Rahmanullah Gurbaz (Afghanistan),bat,53,65,,0.018867925,1.2264,Pakistan,Chennai,23-Oct-23,,,,2,9,1,122.64,0,91
+Pakistan,Abdullah Shafique (Pakistan),bat,61,64,,0.016393443,1.0491,Australia,Bengaluru,20-Oct-23,,,,2,7,2,104.91,0,93
+England,BA Stokes (England),bat,90,64,,0.011111111,0.7111,Australia,Ahmedabad,4-Nov-23,,,,2,2,3,71.11,0,128
+Afghanistan,Azmatullah Omarzai (Afghanistan),bat,69,62,,0.014492754,0.8985,India,Delhi,11-Oct-23,,,,1,2,4,89.85,0,82
+Australia,M Labuschagne (Australia),bat,47,62,,0.021276596,1.3191,Netherlands,Delhi,25-Oct-23,,,,1,7,2,131.91,0,60
+Afghanistan,Rahmat Shah (Afghanistan),bat,74,62,,0.013513514,0.8378,Sri Lanka,Pune,30-Oct-23,,,,2,7,0,83.78,0,121
+Sri Lanka,P Nissanka (Sri Lanka),bat,67,61,,0.014925373,0.9104,Australia,Lucknow,16-Oct-23,,,,1,8,0,91.04,0,103
+South Africa,HE van der Dussen (South Africa),bat,61,60,,0.016393443,0.9836,England,Wankhede,21-Oct-23,,,,1,8,0,98.36,0,86
+South Africa,AK Markram (South Africa),bat,69,60,,0.014492754,0.8695,Bangladesh,Wankhede,24-Oct-23,,,,1,7,0,86.95,0,84
+New Zealand,GD Phillips (New Zealand),bat,50,60,,0.02,1.2,South Africa,Pune,1-Nov-23,,,,2,4,4,120,0,87
+Bangladesh,Najmul Hossain Shanto (Bangladesh),bat,83,59,,0,0.7108,Afghanistan,Dharamsala,7-Oct-23,,,,2,3,1,71.08,1,112
+Netherlands,LV van Beek (Netherlands),bat,75,59,,0.013333333,0.7866,Sri Lanka,Lucknow,21-Oct-23,,,,1,1,1,78.66,0,108
+Afghanistan,Hashmatullah Shahidi (Afghanistan),bat,74,58,,0,0.7837,Sri Lanka,Pune,30-Oct-23,,,,2,2,1,78.37,1,132
+Afghanistan,Ikram Alikhil (Afghanistan),bat,66,58,,0.015151515,0.8787,England,Delhi,15-Oct-23,,,,1,3,2,87.87,0,92
+Australia,JP Inglis (Australia),bat,59,58,,0.016949153,0.983,Sri Lanka,Lucknow,16-Oct-23,,,,2,5,1,98.3,0,75
+Pakistan,Abdullah Shafique (Pakistan),bat,75,58,,0.013333333,0.7733,Afghanistan,Chennai,23-Oct-23,,,,1,5,2,77.33,0,89
+New Zealand,JDS Neesham (New Zealand),bat,39,58,,0.025641026,1.4871,Australia,Dharamsala,28-Oct-23,,,,2,3,3,148.71,0,64
+Netherlands,South Africa Engelbrecht (Netherlands),bat,86,58,,0.011627907,0.6744,Afghanistan,Lucknow,3-Nov-23,,,,1,6,0,67.44,0,85
+Bangladesh,Mehidy Hasan Miraz (Bangladesh),bat,73,57,,0.01369863,0.7808,Afghanistan,Dharamsala,7-Oct-23,,,,2,5,0,78.08,0,89
+Afghanistan,Hashmatullah Shahidi (Afghanistan),bat,64,56,,0,0.875,Netherlands,Lucknow,3-Nov-23,,,,2,6,0,87.5,1,92
+South Africa,AK Markram (South Africa),bat,44,56,,0.022727273,1.2727,Australia,Lucknow,12-Oct-23,,,,1,7,1,127.27,0,61
+Bangladesh,Mahmudullah (Bangladesh),bat,70,56,,0.014285714,0.8,Pakistan,Eden Gardens,31-Oct-23,,,,1,6,1,80,0,108
+India,V Kohli (India),bat,56,55,,0,0.9821,Afghanistan,Delhi,11-Oct-23,,,,2,6,0,98.21,1,64
+New Zealand,WA Young (New Zealand),bat,64,54,,0.015625,0.8437,Afghanistan,Chennai,18-Oct-23,,,,1,4,3,84.37,0,98
+Sri Lanka,P Nissanka (Sri Lanka),bat,52,54,,0.019230769,1.0384,Netherlands,Lucknow,21-Oct-23,,,,2,9,0,103.84,0,69
+New Zealand,DJ Mitchell (New Zealand),bat,51,54,,0.019607843,1.0588,Australia,Dharamsala,28-Oct-23,,,,2,6,1,105.88,0,59
+India,SS Iyer (India),bat,62,53,,0,0.8548,Pakistan,Ahmedabad,14-Oct-23,,,,2,3,2,85.48,1,80
+New Zealand,TWM Latham (New Zealand),bat,46,53,,0.02173913,1.1521,Netherlands,Hyderabad,9-Oct-23,,,,1,6,1,115.21,0,72
+India,Shubman Gill (India),bat,55,53,,0.018181818,0.9636,Bangladesh,Pune,19-Oct-23,,,,2,5,2,96.36,0,80
+South Africa,DA Miller (South Africa),bat,30,53,,0.033333333,1.7666,New Zealand,Pune,1-Nov-23,,,,1,2,4,176.66,0,48
+Netherlands,Vikramjit Singh (Netherlands),bat,67,52,,0.014925373,0.7761,Pakistan,Hyderabad,6-Oct-23,,,,2,4,1,77.61,0,97
+England,JM Bairstow (England),bat,59,52,,0.016949153,0.8813,Bangladesh,Dharamsala,10-Oct-23,,,,1,8,0,88.13,0,80
+Australia,MR Marsh (Australia),bat,51,52,,0.019607843,1.0196,Sri Lanka,Lucknow,16-Oct-23,,,,2,9,0,101.96,0,67
+Pakistan,Saud Shakeel (Pakistan),bat,52,52,,0.019230769,1,South Africa,Chennai,27-Oct-23,,,,1,7,0,100,0,81
+Afghanistan,Rahmat Shah (Afghanistan),bat,54,52,,0.018518519,0.9629,Netherlands,Lucknow,3-Nov-23,,,,2,8,0,96.29,0,74
+New Zealand,R Ravindra (New Zealand),bat,51,51,,0.019607843,1,Netherlands,Hyderabad,9-Oct-23,,,,1,3,1,100,0,87
+Bangladesh,Mushfiqur Rahim (Bangladesh),bat,64,51,,0.015625,0.7968,England,Dharamsala,10-Oct-23,,,,2,4,0,79.68,0,93
+Sri Lanka,P Nissanka (Sri Lanka),bat,61,51,,0.016393443,0.836,Pakistan,Hyderabad,10-Oct-23,,,,1,7,1,83.6,0,79
+Bangladesh,Tanzid Hasan (Bangladesh),bat,43,51,,0.023255814,1.186,India,Pune,19-Oct-23,,,,1,5,3,118.6,0,75
+England,CR Woakes (England),bat,45,51,,0.022222222,1.1333,Netherlands,Pune,8-Nov-23,,,,1,5,1,113.33,0,66
+Sri Lanka,MDKJ Perera (Sri Lanka),bat,28,51,,0.035714286,1.8214,New Zealand,Bengaluru,9-Nov-23,,,,1,9,2,182.14,0,46
+Pakistan,Babar Azam (Pakistan),bat,58,50,,0.017241379,0.862,India,Ahmedabad,14-Oct-23,,,,1,7,0,86.2,0,89
+Pakistan,Babar Azam (Pakistan),bat,65,50,,0.015384615,0.7692,South Africa,Chennai,27-Oct-23,,,,1,4,1,76.92,0,100
+England,DJ Malan (England),bat,64,50,,0.015625,0.7812,Australia,Ahmedabad,4-Nov-23,,,,2,4,1,78.12,0,99
+Pakistan,Mohammad Rizwan (Pakistan),bat,69,49,,0.014492754,0.7101,India,Ahmedabad,14-Oct-23,,,,1,7,0,71.01,0,89
+India,South Africa Yadav (India),bat,47,49,,0.021276596,1.0425,England,Lucknow,29-Oct-23,,,,1,4,1,104.25,0,75
+Afghanistan,Hashmatullah Shahidi (Afghanistan),bat,45,48,,0,1.0666,Pakistan,Chennai,23-Oct-23,,,,2,4,0,106.66,1,74
+New Zealand,DJ Mitchell (New Zealand),bat,47,48,,0.021276596,1.0212,Netherlands,Hyderabad,9-Oct-23,,,,1,5,2,102.12,0,67
+India,RG Sharma (India),bat,40,48,,0.025,1.2,Bangladesh,Pune,19-Oct-23,,,,2,7,2,120,0,51
+Afghanistan,Rahmanullah Gurbaz (Afghanistan),bat,62,47,,0.016129032,0.758,Bangladesh,Dharamsala,7-Oct-23,,,,1,4,1,75.8,0,112
+India,Ishan Kishan (India),bat,47,47,,0.021276596,1,Afghanistan,Delhi,11-Oct-23,,,,2,5,2,100,0,78
+Australia,C Green (Australia),bat,52,47,,0.019230769,0.9038,England,Ahmedabad,4-Nov-23,,,,1,5,0,90.38,0,81
+Australia,SPD Smith (Australia),bat,71,46,,0.014084507,0.6478,India,Chennai,8-Oct-23,,,,1,5,0,64.78,0,112
+Australia,M Labuschagne (Australia),bat,74,46,,0.013513514,0.6216,South Africa,Lucknow,12-Oct-23,,,,2,3,0,62.16,0,125
+Bangladesh,Mahmudullah (Bangladesh),bat,36,46,,0.027777778,1.2777,India,Pune,19-Oct-23,,,,1,3,3,127.77,0,60
+Pakistan,Mohammad Rizwan (Pakistan),bat,40,46,,0.025,1.15,Australia,Bengaluru,20-Oct-23,,,,2,5,0,115,0,84
+India,RG Sharma (India),bat,40,46,,0.025,1.15,New Zealand,Dharamsala,22-Oct-23,,,,2,4,4,115,0,44
+Sri Lanka,P Nissanka (Sri Lanka),bat,60,46,,0.016666667,0.7666,Afghanistan,Pune,30-Oct-23,,,,1,5,0,76.66,0,82
+New Zealand,DP Conway (New Zealand),bat,59,45,,0.016949153,0.7627,Bangladesh,Chennai,13-Oct-23,,,,2,3,0,76.27,0,91
+Bangladesh,Litton Das (Bangladesh),bat,64,45,,0.015625,0.7031,Pakistan,Eden Gardens,31-Oct-23,,,,1,6,0,70.31,0,100
+New Zealand,DP Conway (New Zealand),bat,42,45,,0.023809524,1.0714,Sri Lanka,Bengaluru,9-Nov-23,,,,2,9,0,107.14,0,54
+Sri Lanka,KIC Asalanka (Sri Lanka),bat,66,44,,0.015151515,0.6666,Netherlands,Lucknow,21-Oct-23,,,,2,2,1,66.66,0,70
+Australia,SPD Smith (Australia),bat,52,44,,0.019230769,0.8461,England,Ahmedabad,4-Nov-23,,,,1,3,0,84.61,0,85
+England,MA Wood (England),bat,17,43,,0,2.5294,South Africa,Wankhede,21-Oct-23,,,,2,2,5,252.94,1,25
+England,JC Buttler (England),bat,42,43,,0.023809524,1.0238,New Zealand,Ahmedabad,5-Oct-23,,,,1,2,2,102.38,0,48
+South Africa,DA Miller (South Africa),bat,52,43,,0.019230769,0.8269,Netherlands,Dharamsala,17-Oct-23,,,,2,4,1,82.69,0,81
+England,BA Stokes (England),bat,73,43,,0.01369863,0.589,Sri Lanka,Bengaluru,26-Oct-23,,,,1,6,0,58.9,0,98
+Pakistan,Shadab Khan (Pakistan),bat,36,43,,0.027777778,1.1944,South Africa,Chennai,27-Oct-23,,,,1,3,2,119.44,0,53
+Bangladesh,Shakib Al Hasan (Bangladesh),bat,64,43,,0.015625,0.6718,Pakistan,Eden Gardens,31-Oct-23,,,,1,4,0,67.18,0,82
+New Zealand,DJ Mitchell (New Zealand),bat,31,43,,0.032258065,1.387,Sri Lanka,Bengaluru,9-Nov-23,,,,2,5,2,138.7,0,45
+South Africa,AK Markram (South Africa),bat,44,42,,0.022727273,0.9545,England,Wankhede,21-Oct-23,,,,1,4,0,95.45,0,63
+Netherlands,MP O'Dowd (Netherlands),bat,40,42,,0.025,1.05,Afghanistan,Lucknow,3-Nov-23,,,,1,9,0,105,0,50
+England,MM Ali (England),bat,43,42,,0.023255814,0.9767,Australia,Ahmedabad,4-Nov-23,,,,2,6,0,97.67,0,61
+New Zealand,R Ravindra (New Zealand),bat,34,42,,0.029411765,1.2352,Sri Lanka,Bengaluru,9-Nov-23,,,,2,3,3,123.52,0,61
+Bangladesh,Mahmudullah (Bangladesh),bat,49,41,,0,0.8367,New Zealand,Chennai,13-Oct-23,,,,1,2,2,83.67,1,58
+Netherlands,AT Nidamanuru (Netherlands),bat,34,41,,0,1.2058,England,Pune,8-Nov-23,,,,2,2,3,120.58,1,47
+Australia,DA Warner (Australia),bat,52,41,,0.019230769,0.7884,India,Chennai,8-Oct-23,,,,1,6,0,78.84,0,76
+Australia,GJ Maxwell (Australia),bat,24,41,,0.041666667,1.7083,New Zealand,Dharamsala,28-Oct-23,,,,1,5,2,170.83,0,37
+Netherlands,W Barresi (Netherlands),bat,41,41,,0.024390244,1,Bangladesh,Eden Gardens,28-Oct-23,,,,1,8,0,100,0,49
+New Zealand,GD Phillips (New Zealand),bat,25,41,,0.04,1.64,Pakistan,Bengaluru,4-Nov-23,,,,1,4,2,164,0,40
+Sri Lanka,P Nissanka (Sri Lanka),bat,36,41,,0.027777778,1.1388,Bangladesh,Delhi,6-Nov-23,,,,1,8,0,113.88,0,61
+Sri Lanka,S Samarawickrama (Sri Lanka),bat,42,41,,0.023809524,0.9761,Bangladesh,Delhi,6-Nov-23,,,,1,4,0,97.61,0,53
+South Africa,Q de Kock (South Africa),bat,47,41,,0.021276596,0.8723,Afghanistan,Ahmedabad,10-Nov-23,,,,2,2,3,87.23,0,58
+Bangladesh,Shakib Al Hasan (Bangladesh),bat,51,40,,0.019607843,0.7843,New Zealand,Chennai,13-Oct-23,,,,1,3,2,78.43,0,75
+Australia,M Labuschagne (Australia),bat,60,40,,0.016666667,0.6666,Sri Lanka,Lucknow,16-Oct-23,,,,2,2,0,66.66,0,100
+South Africa,KA Maharaj (South Africa),bat,37,40,,0.027027027,1.081,Netherlands,Dharamsala,17-Oct-23,,,,2,5,1,108.1,0,54
+Pakistan,Shadab Khan (Pakistan),bat,38,40,,0.026315789,1.0526,Afghanistan,Chennai,23-Oct-23,,,,1,1,1,105.26,0,75
+Pakistan,Iftikhar Ahmed (Pakistan),bat,27,40,,0.037037037,1.4814,Afghanistan,Chennai,23-Oct-23,,,,1,2,4,148.14,0,40
+India,RG Sharma (India),bat,24,40,,0.041666667,1.6666,South Africa,Eden Gardens,5-Nov-23,,,,1,6,2,166.66,0,32
+South Africa,DA Miller (South Africa),bat,21,39,,0,1.8571,Sri Lanka,Delhi,7-Oct-23,,,,1,3,2,185.71,1,36
+India,RA Jadeja (India),bat,44,39,,0,0.8863,New Zealand,Dharamsala,22-Oct-23,,,,2,3,1,88.63,1,63
+South Africa,AL Phehlukwayo (South Africa),bat,37,39,,0,1.054,Afghanistan,Ahmedabad,10-Nov-23,,,,2,1,3,105.4,1,46
+Pakistan,Mohammad Nawaz (3) (Pakistan),bat,43,39,,0.023255814,0.9069,Netherlands,Hyderabad,6-Oct-23,,,,1,4,0,90.69,0,66
+Bangladesh,Towhid Hridoy (Bangladesh),bat,61,39,,0.016393443,0.6393,England,Dharamsala,10-Oct-23,,,,2,2,0,63.93,0,70
+India,KL Rahul (India),bat,58,39,,0.017241379,0.6724,England,Lucknow,29-Oct-23,,,,1,3,0,67.24,0,77
+Sri Lanka,BKG Mendis (Sri Lanka),bat,50,39,,0.02,0.78,Afghanistan,Pune,30-Oct-23,,,,1,3,0,78,0,91
+Afghanistan,Ibrahim Zadran (Afghanistan),bat,57,39,,0.01754386,0.6842,Sri Lanka,Pune,30-Oct-23,,,,2,4,1,68.42,0,73
+New Zealand,MS Chapman (New Zealand),bat,27,39,,0.037037037,1.4444,Pakistan,Bengaluru,4-Nov-23,,,,1,7,0,144.44,0,42
+Sri Lanka,M Theekshana (Sri Lanka),bat,91,38,,0,0.4175,New Zealand,Bengaluru,9-Nov-23,,,,1,3,0,41.75,1,109
+Bangladesh,Mushfiqur Rahim (Bangladesh),bat,46,38,,0.02173913,0.826,India,Pune,19-Oct-23,,,,1,1,1,82.6,0,60
+Australia,JP Inglis (Australia),bat,28,38,,0.035714286,1.3571,New Zealand,Dharamsala,28-Oct-23,,,,1,4,1,135.71,0,48
+Netherlands,South Africa Edwards (Netherlands),bat,42,38,,0.023809524,0.9047,England,Pune,8-Nov-23,,,,2,3,1,90.47,0,67
+Australia,PJ Cummins (Australia),bat,14,37,,0.071428571,2.6428,New Zealand,Dharamsala,28-Oct-23,,,,1,2,4,264.28,0,23
+Netherlands,W Barresi (Netherlands),bat,62,37,,0.016129032,0.5967,England,Pune,8-Nov-23,,,,2,3,1,59.67,0,77
+New Zealand,MJ Santner (New Zealand),bat,17,36,,0,2.1176,Netherlands,Hyderabad,9-Oct-23,,,,1,3,2,211.76,1,25
+Pakistan,Imam-ul-Haq (Pakistan),bat,38,36,,0.026315789,0.9473,India,Ahmedabad,14-Oct-23,,,,1,6,0,94.73,0,64
+Afghanistan,Rahmat Shah (Afghanistan),bat,62,36,,0.016129032,0.5806,New Zealand,Chennai,18-Oct-23,,,,2,1,0,58.06,0,86
+Australia,MR Marsh (Australia),bat,51,36,,0.019607843,0.7058,New Zealand,Dharamsala,28-Oct-23,,,,1,2,0,70.58,0,65
+Sri Lanka,S Samarawickrama (Sri Lanka),bat,40,36,,0.025,0.9,Afghanistan,Pune,30-Oct-23,,,,1,3,0,90,0,42
+Afghanistan,Rashid Khan (Afghanistan),bat,18,35,,0,1.9444,Australia,Wankhede,7-Nov-23,,,,1,2,3,194.44,1,25
+South Africa,T Bavuma (South Africa),bat,55,35,,0.018181818,0.6363,Australia,Lucknow,12-Oct-23,,,,1,2,0,63.63,0,84
+England,AAP Atkinson (England),bat,21,35,,0.047619048,1.6666,South Africa,Wankhede,21-Oct-23,,,,2,7,0,166.66,0,31
+Netherlands,South Africa Engelbrecht (Netherlands),bat,61,35,,0.016393443,0.5737,Bangladesh,Eden Gardens,28-Oct-23,,,,1,3,0,57.37,0,72
+Bangladesh,Mehidy Hasan Miraz (Bangladesh),bat,40,35,,0.025,0.875,Netherlands,Eden Gardens,28-Oct-23,,,,2,5,1,87.5,0,51
+India,RA Jadeja (India),bat,24,35,,0.041666667,1.4583,Sri Lanka,Wankhede,2-Nov-23,,,,1,1,1,145.83,0,41
+New Zealand,DP Conway (New Zealand),bat,39,35,,0.025641026,0.8974,Pakistan,Bengaluru,4-Nov-23,,,,1,6,0,89.74,0,48
+Australia,MP Stoinis (Australia),bat,32,35,,0.03125,1.0937,England,Ahmedabad,4-Nov-23,,,,1,3,2,109.37,0,53
+India,KL Rahul (India),bat,34,34,,0,1,Bangladesh,Pune,19-Oct-23,,,,2,3,1,100,1,44
+South Africa,DA Miller (South Africa),bat,15,34,,0,2.2666,Bangladesh,Wankhede,24-Oct-23,,,,1,1,4,226.66,1,26
+Sri Lanka,DM de Silva (Sri Lanka),bat,36,34,,0.027777778,0.9444,Bangladesh,Delhi,6-Nov-23,,,,1,4,1,94.44,0,58
+England,JM Bairstow (England),bat,35,33,,0.028571429,0.9428,New Zealand,Ahmedabad,5-Oct-23,,,,1,4,1,94.28,0,57
+Sri Lanka,CAK Rajitha (Sri Lanka),bat,31,33,,0.032258065,1.0645,South Africa,Delhi,7-Oct-23,,,,2,4,1,106.45,0,52
+India,SS Iyer (India),bat,29,33,,0.034482759,1.1379,New Zealand,Dharamsala,22-Oct-23,,,,2,6,0,113.79,0,32
+New Zealand,WA Young (New Zealand),bat,37,33,,0.027027027,0.8918,South Africa,Pune,1-Nov-23,,,,2,5,0,89.18,0,50
+Netherlands,South Africa Engelbrecht (Netherlands),bat,49,33,,0.020408163,0.6734,England,Pune,8-Nov-23,,,,2,3,1,67.34,0,73
+Pakistan,Shadab Khan (Pakistan),bat,34,32,,0.029411765,0.9411,Netherlands,Hyderabad,6-Oct-23,,,,1,2,1,94.11,0,42
+South Africa,H Klaasen (South Africa),bat,20,32,,0.05,1.6,Sri Lanka,Delhi,7-Oct-23,,,,1,1,3,160,0,30
+New Zealand,DP Conway (New Zealand),bat,40,32,,0.025,0.8,Netherlands,Hyderabad,9-Oct-23,,,,1,5,1,80,0,51
+England,DJ Malan (England),bat,39,32,,0.025641026,0.8205,Afghanistan,Delhi,15-Oct-23,,,,2,4,0,82.05,0,61
+New Zealand,R Ravindra (New Zealand),bat,41,32,,0.024390244,0.7804,Afghanistan,Chennai,18-Oct-23,,,,1,2,1,78.04,0,64
+New Zealand,WA Young (New Zealand),bat,37,32,,0.027027027,0.8648,Australia,Dharamsala,28-Oct-23,,,,2,4,1,86.48,0,44
+England,CR Woakes (England),bat,33,32,,0.03030303,0.9696,Australia,Ahmedabad,4-Nov-23,,,,2,4,1,96.96,0,52
+Australia,GJ Maxwell (Australia),bat,21,31,,0,1.4761,Sri Lanka,Lucknow,16-Oct-23,,,,2,4,2,147.61,1,30
+Afghanistan,Azmatullah Omarzai (Afghanistan),bat,28,31,,0,1.1071,Netherlands,Lucknow,3-Nov-23,,,,2,3,0,110.71,0,38
+Pakistan,Saud Shakeel (Pakistan),bat,30,31,,0.033333333,1.0333,Sri Lanka,Hyderabad,10-Oct-23,,,,2,2,0,103.33,0,57
+Pakistan,Mohammad Rizwan (Pakistan),bat,27,31,,0.037037037,1.1481,South Africa,Chennai,27-Oct-23,,,,1,4,1,114.81,0,35
+Netherlands,South Africa Edwards (Netherlands),bat,27,30,,0.037037037,1.1111,New Zealand,Hyderabad,9-Oct-23,,,,2,2,1,111.11,0,37
+Bangladesh,Mehidy Hasan Miraz (Bangladesh),bat,46,30,,0.02173913,0.6521,New Zealand,Chennai,13-Oct-23,,,,1,4,0,65.21,0,52
+Pakistan,Saud Shakeel (Pakistan),bat,31,30,,0.032258065,0.9677,Australia,Bengaluru,20-Oct-23,,,,2,5,0,96.77,0,37
+Sri Lanka,DM de Silva (Sri Lanka),bat,37,30,,0.027027027,0.8108,Netherlands,Lucknow,21-Oct-23,,,,2,1,2,81.08,0,57
+England,JM Bairstow (England),bat,31,30,,0.032258065,0.9677,Sri Lanka,Bengaluru,26-Oct-23,,,,1,3,0,96.77,0,64
+Afghanistan,Rahmat Shah (Afghanistan),bat,44,30,,0.022727273,0.6818,Australia,Wankhede,7-Nov-23,,,,1,1,0,68.18,0,61
+India,RA Jadeja (India),bat,15,29,,0,1.9333,South Africa,Eden Gardens,5-Nov-23,,,,1,3,1,193.33,1,21
+Netherlands,South Africa Engelbrecht (Netherlands),bat,34,29,,0.029411765,0.8529,New Zealand,Hyderabad,9-Oct-23,,,,2,3,0,85.29,0,55
+South Africa,H Klaasen (South Africa),bat,27,29,,0.037037037,1.074,Australia,Lucknow,12-Oct-23,,,,1,3,0,107.4,0,40
+Netherlands,RE van der Merwe (Netherlands),bat,19,29,,0.052631579,1.5263,South Africa,Dharamsala,17-Oct-23,,,,1,3,1,152.63,0,30
+Netherlands,CN Ackermann (Netherlands),bat,31,29,,0.032258065,0.9354,Sri Lanka,Lucknow,21-Oct-23,,,,1,5,0,93.54,0,42
+South Africa,DA Miller (South Africa),bat,33,29,,0.03030303,0.8787,Pakistan,Chennai,27-Oct-23,,,,2,2,2,87.87,0,55
+Sri Lanka,M Theekshana (Sri Lanka),bat,31,29,,0.032258065,0.9354,Afghanistan,Pune,30-Oct-23,,,,1,3,1,93.54,0,31
+Netherlands,CN Ackermann (Netherlands),bat,35,29,,0.028571429,0.8285,Afghanistan,Lucknow,3-Nov-23,,,,1,4,0,82.85,0,71
+New Zealand,DJ Mitchell (New Zealand),bat,18,29,,0.055555556,1.6111,Pakistan,Bengaluru,4-Nov-23,,,,1,4,1,161.11,0,32
+Australia,A Zampa (Australia),bat,19,29,,0.052631579,1.5263,England,Ahmedabad,4-Nov-23,,,,1,4,0,152.63,0,23
+Netherlands,LV van Beek (Netherlands),bat,28,28,,0,1,Pakistan,Hyderabad,6-Oct-23,,,,2,3,1,100,1,36
+Australia,MA Starc (Australia),bat,35,28,,0.028571429,0.8,India,Chennai,8-Oct-23,,,,1,2,1,80,0,58
+Afghanistan,Ibrahim Zadran (Afghanistan),bat,48,28,,0.020833333,0.5833,England,Delhi,15-Oct-23,,,,1,3,0,58.33,0,73
+Afghanistan,Mujeeb Ur Rahman (Afghanistan),bat,16,28,,0.0625,1.75,England,Delhi,15-Oct-23,,,,1,3,1,175,0,22
+South Africa,H Klaasen (South Africa),bat,28,28,,0.035714286,1,Netherlands,Dharamsala,17-Oct-23,,,,2,4,0,100,0,36
+England,DJ Malan (England),bat,25,28,,0.04,1.12,Sri Lanka,Bengaluru,26-Oct-23,,,,1,6,0,112,0,32
+South Africa,T Bavuma (South Africa),bat,27,28,,0.037037037,1.037,Pakistan,Chennai,27-Oct-23,,,,2,4,1,103.7,0,49
+New Zealand,DP Conway (New Zealand),bat,17,28,,0.058823529,1.647,Australia,Dharamsala,28-Oct-23,,,,2,6,0,164.7,0,35
+England,JE Root (England),bat,35,28,,0.028571429,0.8,Netherlands,Pune,8-Nov-23,,,,1,1,0,80,0,53
+Australia,M Labuschagne (Australia),bat,41,27,,0.024390244,0.6585,India,Chennai,8-Oct-23,,,,1,1,0,65.85,0,58
+Australia,MA Starc (Australia),bat,51,27,,0.019607843,0.5294,South Africa,Lucknow,12-Oct-23,,,,2,3,0,52.94,0,69
+Afghanistan,Azmatullah Omarzai (Afghanistan),bat,32,27,,0.03125,0.8437,New Zealand,Chennai,18-Oct-23,,,,2,2,0,84.37,0,39
+India,KL Rahul (India),bat,35,27,,0.028571429,0.7714,New Zealand,Dharamsala,22-Oct-23,,,,2,3,0,77.14,0,43
+England,LS Livingstone (England),bat,46,27,,0.02173913,0.5869,India,Lucknow,29-Oct-23,,,,2,2,0,58.69,0,56
+Pakistan,Mohammad Rizwan (Pakistan),bat,21,26,,0,1.238,Bangladesh,Eden Gardens,31-Oct-23,,,,2,4,0,123.8,1,27
+New Zealand,MJ Santner (New Zealand),bat,17,26,,0,1.5294,Pakistan,Bengaluru,4-Nov-23,,,,1,0,2,152.94,1,27
+South Africa,HE van der Dussen (South Africa),bat,30,26,,0.033333333,0.8666,Australia,Lucknow,12-Oct-23,,,,1,2,0,86.66,0,33
+South Africa,M Jansen (South Africa),bat,22,26,,0.045454545,1.1818,Australia,Lucknow,12-Oct-23,,,,1,3,1,118.18,0,25
+Pakistan,Iftikhar Ahmed (Pakistan),bat,20,26,,0.05,1.3,Australia,Bengaluru,20-Oct-23,,,,2,0,3,130,0,22
+India,Shubman Gill (India),bat,31,26,,0.032258065,0.8387,New Zealand,Dharamsala,22-Oct-23,,,,2,5,0,83.87,0,53
+Afghanistan,Hashmatullah Shahidi (Afghanistan),bat,43,26,,0.023255814,0.6046,Australia,Wankhede,7-Nov-23,,,,1,2,0,60.46,0,50
+Afghanistan,Rahmat Shah (Afghanistan),bat,46,26,,0.02173913,0.5652,South Africa,Ahmedabad,10-Nov-23,,,,1,2,0,56.52,0,58
+Afghanistan,Noor Ahmad (Afghanistan),bat,32,26,,0.03125,0.8125,South Africa,Ahmedabad,10-Nov-23,,,,1,4,0,81.25,0,36
+India,SS Iyer (India),bat,23,25,,0,1.0869,Afghanistan,Delhi,11-Oct-23,,,,2,1,1,108.69,1,31
+New Zealand,MS Chapman (New Zealand),bat,12,25,,0,2.0833,Afghanistan,Chennai,18-Oct-23,,,,1,2,1,208.33,1,15
+England,HC Brook (England),bat,16,25,,0.0625,1.5625,New Zealand,Ahmedabad,5-Oct-23,,,,1,4,1,156.25,0,20
+Sri Lanka,DM de Silva (Sri Lanka),bat,34,25,,0.029411765,0.7352,Pakistan,Hyderabad,10-Oct-23,,,,1,3,0,73.52,0,47
+Sri Lanka,KIC Asalanka (Sri Lanka),bat,39,25,,0.025641026,0.641,Australia,Lucknow,16-Oct-23,,,,1,0,1,64.1,0,75
+Pakistan,Saud Shakeel (Pakistan),bat,34,25,,0.029411765,0.7352,Afghanistan,Chennai,23-Oct-23,,,,1,3,0,73.52,0,35
+Netherlands,Vikramjit Singh (Netherlands),bat,25,25,,0.04,1,Australia,Delhi,25-Oct-23,,,,2,6,0,100,0,28
+Bangladesh,Mehidy Hasan Miraz (Bangladesh),bat,30,25,,0.033333333,0.8333,Pakistan,Eden Gardens,31-Oct-23,,,,1,1,1,83.33,0,50
+Afghanistan,Rahmanullah Gurbaz (Afghanistan),bat,22,25,,0.045454545,1.1363,South Africa,Ahmedabad,10-Nov-23,,,,1,3,1,113.63,0,45
+South Africa,AK Markram (South Africa),bat,32,25,,0.03125,0.7812,Afghanistan,Ahmedabad,10-Nov-23,,,,2,1,1,78.12,0,32
+Pakistan,Mohammad Nawaz (3) (Pakistan),bat,24,24,,0.041666667,1,South Africa,Chennai,27-Oct-23,,,,1,1,2,100,0,32
+South Africa,Q de Kock (South Africa),bat,14,24,,0.071428571,1.7142,Pakistan,Chennai,27-Oct-23,,,,2,5,0,171.42,0,19
+South Africa,T Bavuma (South Africa),bat,28,24,,0.035714286,0.8571,New Zealand,Pune,1-Nov-23,,,,1,4,1,85.71,0,37
+New Zealand,DJ Mitchell (New Zealand),bat,30,24,,0.033333333,0.8,South Africa,Pune,1-Nov-23,,,,2,4,0,80,0,40
+Australia,MR Marsh (Australia),bat,11,24,,0.090909091,2.1818,Afghanistan,Wankhede,7-Nov-23,,,,2,2,2,218.18,0,22
+South Africa,DA Miller (South Africa),bat,33,24,,0.03030303,0.7272,Afghanistan,Ahmedabad,10-Nov-23,,,,2,1,1,72.72,0,35
+Netherlands,A Dutt (Netherlands),bat,9,23,,0,2.5555,South Africa,Dharamsala,17-Oct-23,,,,1,0,3,255.55,1,14
+Netherlands,LV van Beek (Netherlands),bat,16,23,,0,1.4375,Bangladesh,Eden Gardens,28-Oct-23,,,,1,2,1,143.75,1,33
+Sri Lanka,S Samarawickrama (Sri Lanka),bat,19,23,,0.052631579,1.2105,South Africa,Delhi,7-Oct-23,,,,2,3,1,121.05,0,22
+Afghanistan,Rashid Khan (Afghanistan),bat,22,23,,0.045454545,1.0454,England,Delhi,15-Oct-23,,,,1,3,0,104.54,0,37
+New Zealand,GD Phillips (New Zealand),bat,26,23,,0.038461538,0.8846,India,Dharamsala,22-Oct-23,,,,1,0,1,88.46,0,36
+Sri Lanka,AD Mathews (Sri Lanka),bat,26,23,,0.038461538,0.8846,Afghanistan,Pune,30-Oct-23,,,,1,1,1,88.46,0,61
+India,Shubman Gill (India),bat,24,23,,0.041666667,0.9583,South Africa,Eden Gardens,5-Nov-23,,,,1,4,1,95.83,0,54
+Bangladesh,Litton Das (Bangladesh),bat,22,23,,0.045454545,1.0454,Sri Lanka,Delhi,6-Nov-23,,,,2,2,2,104.54,0,36
+South Africa,T Bavuma (South Africa),bat,28,23,,0.035714286,0.8214,Afghanistan,Ahmedabad,10-Nov-23,,,,2,3,0,82.14,0,49
+Pakistan,Iftikhar Ahmed (Pakistan),bat,10,22,,0,2.2,Sri Lanka,Hyderabad,10-Oct-23,,,,2,4,0,220,1,18
+Afghanistan,Ibrahim Zadran (Afghanistan),bat,25,22,,0.04,0.88,Bangladesh,Dharamsala,7-Oct-23,,,,1,3,1,88,0,41
+Afghanistan,Azmatullah Omarzai (Afghanistan),bat,20,22,,0.05,1.1,Bangladesh,Dharamsala,7-Oct-23,,,,1,4,0,110,0,32
+Afghanistan,Ibrahim Zadran (Afghanistan),bat,28,22,,0.035714286,0.7857,India,Delhi,11-Oct-23,,,,1,4,0,78.57,0,31
+Australia,PJ Cummins (Australia),bat,21,22,,0.047619048,1.0476,South Africa,Lucknow,12-Oct-23,,,,2,4,0,104.76,0,29
+South Africa,G Coetzee (South Africa),bat,23,22,,0.043478261,0.9565,Netherlands,Dharamsala,17-Oct-23,,,,2,2,1,95.65,0,33
+Bangladesh,Litton Das (Bangladesh),bat,44,22,,0.022727273,0.5,South Africa,Wankhede,24-Oct-23,,,,2,3,1,50,0,78
+Sri Lanka,KIC Asalanka (Sri Lanka),bat,28,22,,0.035714286,0.7857,Afghanistan,Pune,30-Oct-23,,,,1,2,0,78.57,0,48
+India,South Africa Yadav (India),bat,14,22,,0.071428571,1.5714,South Africa,Eden Gardens,5-Nov-23,,,,1,5,0,157.14,0,19
+Bangladesh,Mahmudullah (Bangladesh),bat,23,22,,0.043478261,0.9565,Sri Lanka,Delhi,6-Nov-23,,,,2,3,1,95.65,0,37
+Afghanistan,Azmatullah Omarzai (Afghanistan),bat,18,22,,0.055555556,1.2222,Australia,Wankhede,7-Nov-23,,,,1,1,2,122.22,0,23
+Netherlands,AT Nidamanuru (Netherlands),bat,26,21,,0.038461538,0.8076,New Zealand,Hyderabad,9-Oct-23,,,,2,2,1,80.76,0,28
+Afghanistan,Rahmanullah Gurbaz (Afghanistan),bat,28,21,,0.035714286,0.75,India,Delhi,11-Oct-23,,,,1,3,1,75,0,65
+Australia,MP Stoinis (Australia),bat,24,21,,0.041666667,0.875,Pakistan,Bengaluru,20-Oct-23,,,,1,1,1,87.5,0,46
+Pakistan,Iftikhar Ahmed (Pakistan),bat,31,21,,0.032258065,0.6774,South Africa,Chennai,27-Oct-23,,,,1,1,1,67.74,0,38
+South Africa,HE van der Dussen (South Africa),bat,39,21,,0.025641026,0.5384,Pakistan,Chennai,27-Oct-23,,,,2,0,0,53.84,0,71
+New Zealand,TWM Latham (New Zealand),bat,22,21,,0.045454545,0.9545,Australia,Dharamsala,28-Oct-23,,,,2,2,0,95.45,0,29
+India,KL Rahul (India),bat,19,21,,0.052631579,1.1052,Sri Lanka,Wankhede,2-Nov-23,,,,1,2,0,110.52,0,34
+Sri Lanka,M Theekshana (Sri Lanka),bat,31,21,,0.032258065,0.6774,Bangladesh,Delhi,6-Nov-23,,,,1,3,0,67.74,0,35
+Afghanistan,Rahmanullah Gurbaz (Afghanistan),bat,25,21,,0.04,0.84,Australia,Wankhede,7-Nov-23,,,,1,2,0,84,0,38
+Australia,MP Stoinis (Australia),bat,10,20,,0,2,Sri Lanka,Lucknow,16-Oct-23,,,,2,2,1,200,1,10
+England,LS Livingstone (England),bat,22,20,,0.045454545,0.909,New Zealand,Ahmedabad,5-Oct-23,,,,1,3,0,90.9,0,23
+England,JC Buttler (England),bat,10,20,,0.1,2,Bangladesh,Dharamsala,10-Oct-23,,,,1,1,1,200,0,11
+England,HC Brook (England),bat,15,20,,0.066666667,1.3333,Bangladesh,Dharamsala,10-Oct-23,,,,1,3,0,133.33,0,23
+Pakistan,Abdullah Shafique (Pakistan),bat,24,20,,0.041666667,0.8333,India,Ahmedabad,14-Oct-23,,,,1,3,0,83.33,0,39
+England,AU Rashid (England),bat,13,20,,0.076923077,1.5384,Afghanistan,Delhi,15-Oct-23,,,,2,2,0,153.84,0,24
+Netherlands,AT Nidamanuru (Netherlands),bat,25,20,,0.04,0.8,South Africa,Dharamsala,17-Oct-23,,,,1,3,0,80,0,56
+South Africa,Q de Kock (South Africa),bat,22,20,,0.045454545,0.909,Netherlands,Dharamsala,17-Oct-23,,,,2,3,0,90.9,0,28
+New Zealand,DP Conway (New Zealand),bat,18,20,,0.055555556,1.1111,Afghanistan,Chennai,18-Oct-23,,,,1,3,0,111.11,0,27
+South Africa,M Jansen (South Africa),bat,14,20,,0.071428571,1.4285,Pakistan,Chennai,27-Oct-23,,,,2,2,1,142.85,0,18
+Bangladesh,Mahmudullah (Bangladesh),bat,41,20,,0.024390244,0.4878,Netherlands,Eden Gardens,28-Oct-23,,,,2,2,0,48.78,0,70
+Bangladesh,Mustafizur Rahman (Bangladesh),bat,35,20,,0.028571429,0.5714,Netherlands,Eden Gardens,28-Oct-23,,,,2,2,1,57.14,0,34
+Afghanistan,Ibrahim Zadran (Afghanistan),bat,34,20,,0.029411765,0.5882,Netherlands,Lucknow,3-Nov-23,,,,2,2,0,58.82,0,44
+England,AU Rashid (England),bat,15,20,,0.066666667,1.3333,Australia,Ahmedabad,4-Nov-23,,,,2,1,1,133.33,0,23
+India,KL Rahul (India),bat,29,19,,0,0.6551,Pakistan,Ahmedabad,14-Oct-23,,,,2,2,0,65.51,1,33
+Afghanistan,Ikram Alikhil (Afghanistan),bat,21,19,,0,0.9047,New Zealand,Chennai,18-Oct-23,,,,2,3,0,90.47,1,42
+Afghanistan,Mohammad Nabi (Afghanistan),bat,27,19,,0.037037037,0.7037,India,Delhi,11-Oct-23,,,,1,1,0,70.37,0,52
+Australia,SPD Smith (Australia),bat,16,19,,0.0625,1.1875,South Africa,Lucknow,12-Oct-23,,,,2,4,0,118.75,0,20
+Afghanistan,Azmatullah Omarzai (Afghanistan),bat,24,19,,0.041666667,0.7916,England,Delhi,15-Oct-23,,,,1,1,1,79.16,0,25
+Netherlands,South Africa Engelbrecht (Netherlands),bat,37,19,,0.027027027,0.5135,South Africa,Dharamsala,17-Oct-23,,,,1,1,1,51.35,0,41
+India,SS Iyer (India),bat,25,19,,0.04,0.76,Bangladesh,Pune,19-Oct-23,,,,2,2,0,76,0,38
+Bangladesh,Nasum Ahmed (Bangladesh),bat,19,19,,0.052631579,1,South Africa,Wankhede,24-Oct-23,,,,2,3,0,100,0,27
+Sri Lanka,BKG Mendis (Sri Lanka),bat,30,19,,0.033333333,0.6333,Bangladesh,Delhi,6-Nov-23,,,,1,1,1,63.33,0,49
+Sri Lanka,DM de Silva (Sri Lanka),bat,24,19,,0.041666667,0.7916,New Zealand,Bengaluru,9-Nov-23,,,,1,2,1,79.16,0,36
+Sri Lanka,D Madushanka (Sri Lanka),bat,48,19,,0.020833333,0.3958,New Zealand,Bengaluru,9-Nov-23,,,,1,2,0,39.58,0,56
+Afghanistan,Rahmat Shah (Afghanistan),bat,25,18,,0.04,0.72,Bangladesh,Dharamsala,7-Oct-23,,,,1,1,0,72,0,30
+Afghanistan,Hashmatullah Shahidi (Afghanistan),bat,38,18,,0.026315789,0.4736,Bangladesh,Dharamsala,7-Oct-23,,,,1,2,0,47.36,0,34
+Netherlands,BFW de Leede (Netherlands),bat,25,18,,0.04,0.72,New Zealand,Hyderabad,9-Oct-23,,,,2,3,0,72,0,21
+England,MA Wood (England),bat,22,18,,0.045454545,0.8181,Afghanistan,Delhi,15-Oct-23,,,,2,3,0,81.81,0,26
+Netherlands,MP O'Dowd (Netherlands),bat,25,18,,0.04,0.72,South Africa,Dharamsala,17-Oct-23,,,,1,4,0,72,0,33
+Pakistan,Babar Azam (Pakistan),bat,14,18,,0.071428571,1.2857,Australia,Bengaluru,20-Oct-23,,,,2,3,0,128.57,0,27
+Australia,SPD Smith (Australia),bat,17,18,,0.058823529,1.0588,New Zealand,Dharamsala,28-Oct-23,,,,1,2,0,105.88,0,19
+Australia,M Labuschagne (Australia),bat,26,18,,0.038461538,0.6923,New Zealand,Dharamsala,28-Oct-23,,,,1,2,0,69.23,0,36
+Australia,DA Warner (Australia),bat,29,18,,0.034482759,0.6206,Afghanistan,Wankhede,7-Nov-23,,,,2,3,0,62.06,0,46
+Pakistan,Iftikhar Ahmed (Pakistan),bat,15,17,,0,1.1333,Bangladesh,Eden Gardens,31-Oct-23,,,,2,2,0,113.33,1,17
+New Zealand,GD Phillips (New Zealand),bat,10,17,,0,1.7,Sri Lanka,Bengaluru,9-Nov-23,,,,2,3,0,170,1,15
+Netherlands,CN Ackermann (Netherlands),bat,21,17,,0.047619048,0.8095,Pakistan,Hyderabad,6-Oct-23,,,,2,3,0,80.95,0,24
+South Africa,DA Miller (South Africa),bat,13,17,,0.076923077,1.3076,Australia,Lucknow,12-Oct-23,,,,1,1,1,130.76,0,35
+Bangladesh,Taskin Ahmed (Bangladesh),bat,19,17,,0.052631579,0.8947,New Zealand,Chennai,13-Oct-23,,,,1,0,2,89.47,0,25
+England,HC Brook (England),bat,25,17,,0.04,0.68,South Africa,Wankhede,21-Oct-23,,,,2,2,1,68,0,33
+New Zealand,WA Young (New Zealand),bat,27,17,,0.037037037,0.6296,India,Dharamsala,22-Oct-23,,,,1,3,0,62.96,0,41
+Pakistan,Imam-ul-Haq (Pakistan),bat,22,17,,0.045454545,0.7727,Afghanistan,Chennai,23-Oct-23,,,,1,2,0,77.27,0,44
+New Zealand,MJ Santner (New Zealand),bat,12,17,,0.083333333,1.4166,Australia,Dharamsala,28-Oct-23,,,,2,1,1,141.66,0,13
+Netherlands,BFW de Leede (Netherlands),bat,32,17,,0.03125,0.5312,Bangladesh,Eden Gardens,28-Oct-23,,,,1,2,0,53.12,0,49
+Bangladesh,Mahedi Hasan (Bangladesh),bat,38,17,,0.026315789,0.4473,Netherlands,Eden Gardens,28-Oct-23,,,,2,1,0,44.73,0,51
+New Zealand,GD Phillips (New Zealand),bat,11,16,,0,1.4545,Bangladesh,Chennai,13-Oct-23,,,,2,1,1,145.45,1,22
+England,DJ Willey (England),bat,17,16,,0,0.9411,India,Lucknow,29-Oct-23,,,,2,0,2,94.11,1,29
+Pakistan,Haris Rauf (Pakistan),bat,14,16,,0.071428571,1.1428,Netherlands,Hyderabad,6-Oct-23,,,,1,2,1,114.28,0,10
+Netherlands,MP O'Dowd (Netherlands),bat,31,16,,0.032258065,0.5161,New Zealand,Hyderabad,9-Oct-23,,,,2,2,0,51.61,0,40
+Afghanistan,Rahmat Shah (Afghanistan),bat,22,16,,0.045454545,0.7272,India,Delhi,11-Oct-23,,,,1,3,0,72.72,0,37
+Afghanistan,Rashid Khan (Afghanistan),bat,12,16,,0.083333333,1.3333,India,Delhi,11-Oct-23,,,,1,1,1,133.33,0,18
+Bangladesh,Tanzid Hasan (Bangladesh),bat,17,16,,0.058823529,0.9411,New Zealand,Chennai,13-Oct-23,,,,1,4,0,94.11,0,37
+India,Shubman Gill (India),bat,11,16,,0.090909091,1.4545,Pakistan,Ahmedabad,14-Oct-23,,,,2,4,0,145.45,0,11
+India,V Kohli (India),bat,18,16,,0.055555556,0.8888,Pakistan,Ahmedabad,14-Oct-23,,,,2,3,0,88.88,0,31
+South Africa,T Bavuma (South Africa),bat,31,16,,0.032258065,0.5161,Netherlands,Dharamsala,17-Oct-23,,,,2,2,1,51.61,0,35
+Bangladesh,Towhid Hridoy (Bangladesh),bat,35,16,,0.028571429,0.4571,India,Pune,19-Oct-23,,,,1,0,0,45.71,0,54
+Netherlands,MP O'Dowd (Netherlands),bat,27,16,,0.037037037,0.5925,Sri Lanka,Lucknow,21-Oct-23,,,,1,1,1,59.25,0,50
+Netherlands,South Africa Edwards (Netherlands),bat,16,16,,0.0625,1,Sri Lanka,Lucknow,21-Oct-23,,,,1,0,0,100,0,22
+India,JJ Bumrah (India),bat,25,16,,0.04,0.64,England,Lucknow,29-Oct-23,,,,1,1,0,64,0,44
+England,DJ Malan (England),bat,17,16,,0.058823529,0.9411,India,Lucknow,29-Oct-23,,,,2,2,1,94.11,0,25
+Sri Lanka,AD Mathews (Sri Lanka),bat,27,16,,0.037037037,0.5925,New Zealand,Bengaluru,9-Nov-23,,,,1,2,0,59.25,0,33
+England,AU Rashid (England),bat,13,15,,0,1.1538,New Zealand,Ahmedabad,5-Oct-23,,,,1,0,1,115.38,1,23
+England,RJW Topley (England),bat,7,15,,0,2.1428,Afghanistan,Delhi,15-Oct-23,,,,2,3,0,214.28,1,8
+South Africa,H Klaasen (South Africa),bat,7,15,,0,2.1428,New Zealand,Pune,1-Nov-23,,,,1,1,1,214.28,1,13
+Bangladesh,Towhid Hridoy (Bangladesh),bat,7,15,,0,2.1428,Sri Lanka,Delhi,6-Nov-23,,,,2,0,2,214.28,1,22
+Pakistan,Imam-ul-Haq (Pakistan),bat,19,15,,0.052631579,0.7894,Netherlands,Hyderabad,6-Oct-23,,,,1,2,0,78.94,0,40
+Australia,GJ Maxwell (Australia),bat,25,15,,0.04,0.6,India,Chennai,8-Oct-23,,,,1,1,0,60,0,44
+Australia,PJ Cummins (Australia),bat,24,15,,0.041666667,0.625,India,Chennai,8-Oct-23,,,,1,1,1,62.5,0,26
+Bangladesh,Taskin Ahmed (Bangladesh),bat,25,15,,0.04,0.6,England,Dharamsala,10-Oct-23,,,,2,0,1,60,0,35
+England,JC Buttler (England),bat,7,15,,0.142857143,2.1428,South Africa,Wankhede,21-Oct-23,,,,2,2,1,214.28,0,14
+Bangladesh,Hasan Mahmud (Bangladesh),bat,25,15,,0.04,0.6,South Africa,Wankhede,24-Oct-23,,,,2,2,0,60,0,32
+England,MM Ali (England),bat,15,15,,0.066666667,1,Sri Lanka,Bengaluru,26-Oct-23,,,,1,1,0,100,0,33
+Netherlands,CN Ackermann (Netherlands),bat,33,15,,0.03030303,0.4545,Bangladesh,Eden Gardens,28-Oct-23,,,,1,1,0,45.45,0,50
+Bangladesh,Tanzid Hasan (Bangladesh),bat,16,15,,0.0625,0.9375,Netherlands,Eden Gardens,28-Oct-23,,,,2,3,0,93.75,0,25
+England,MM Ali (England),bat,31,15,,0.032258065,0.4838,India,Lucknow,29-Oct-23,,,,2,0,0,48.38,0,55
+Sri Lanka,FDM Karunaratne (Sri Lanka),bat,21,15,,0.047619048,0.7142,Afghanistan,Pune,30-Oct-23,,,,1,1,0,71.42,0,25
+Australia,DA Warner (Australia),bat,16,15,,0.0625,0.9375,England,Ahmedabad,4-Nov-23,,,,1,1,1,93.75,0,29
+England,DJ Willey (England),bat,14,15,,0.071428571,1.0714,Australia,Ahmedabad,4-Nov-23,,,,2,3,0,107.14,0,19
+England,JM Bairstow (England),bat,17,15,,0.058823529,0.8823,Netherlands,Pune,8-Nov-23,,,,1,2,0,88.23,0,29
+Afghanistan,Ibrahim Zadran (Afghanistan),bat,30,15,,0.033333333,0.5,South Africa,Ahmedabad,10-Nov-23,,,,1,3,0,50,0,52
+England,DJ Willey (England),bat,17,14,,0,0.8235,Sri Lanka,Bengaluru,26-Oct-23,,,,1,1,1,82.35,1,34
+England,DJ Malan (England),bat,24,14,,0.041666667,0.5833,New Zealand,Ahmedabad,5-Oct-23,,,,1,2,0,58.33,0,36
+England,SM Curran (England),bat,19,14,,0.052631579,0.7368,New Zealand,Ahmedabad,5-Oct-23,,,,1,0,0,73.68,0,30
+Bangladesh,Shakib Al Hasan (Bangladesh),bat,19,14,,0.052631579,0.7368,Afghanistan,Dharamsala,7-Oct-23,,,,2,2,0,73.68,0,24
+England,CR Woakes (England),bat,11,14,,0.090909091,1.2727,Bangladesh,Dharamsala,10-Oct-23,,,,1,2,0,127.27,0,21
+Bangladesh,Mahedi Hasan (Bangladesh),bat,32,14,,0.03125,0.4375,England,Dharamsala,10-Oct-23,,,,2,1,0,43.75,0,39
+Afghanistan,Hashmatullah Shahidi (Afghanistan),bat,36,14,,0.027777778,0.3888,England,Delhi,15-Oct-23,,,,1,0,0,38.88,0,46
+Afghanistan,Ibrahim Zadran (Afghanistan),bat,15,14,,0.066666667,0.9333,New Zealand,Chennai,18-Oct-23,,,,2,2,0,93.33,0,27
+Bangladesh,Nasum Ahmed (Bangladesh),bat,18,14,,0.055555556,0.7777,India,Pune,19-Oct-23,,,,1,2,0,77.77,0,21
+Pakistan,Mohammad Nawaz (3) (Pakistan),bat,16,14,,0.0625,0.875,Australia,Bengaluru,20-Oct-23,,,,2,0,1,87.5,0,19
+Australia,JP Inglis (Australia),bat,12,14,,0.083333333,1.1666,Netherlands,Delhi,25-Oct-23,,,,1,1,1,116.66,0,12
+Netherlands,AT Nidamanuru (Netherlands),bat,18,14,,0.055555556,0.7777,Australia,Delhi,25-Oct-23,,,,2,2,0,77.77,0,19
+England,JM Bairstow (England),bat,23,14,,0.043478261,0.6086,India,Lucknow,29-Oct-23,,,,2,2,0,60.86,0,53
+Sri Lanka,DM de Silva (Sri Lanka),bat,26,14,,0.038461538,0.5384,Afghanistan,Pune,30-Oct-23,,,,1,1,0,53.84,0,24
+Sri Lanka,CAK Rajitha (Sri Lanka),bat,17,14,,0.058823529,0.8235,India,Wankhede,2-Nov-23,,,,2,2,0,82.35,0,20
+South Africa,M Jansen (South Africa),bat,30,14,,0.033333333,0.4666,India,Eden Gardens,5-Nov-23,,,,2,1,0,46.66,0,45
+Australia,M Labuschagne (Australia),bat,28,14,,0.035714286,0.5,Afghanistan,Wankhede,7-Nov-23,,,,2,2,0,50,0,53
+New Zealand,KS Williamson (New Zealand),bat,15,14,,0.066666667,0.9333,Sri Lanka,Bengaluru,9-Nov-23,,,,2,2,0,93.33,0,26
+Afghanistan,Rashid Khan (Afghanistan),bat,30,14,,0.033333333,0.4666,South Africa,Ahmedabad,10-Nov-23,,,,1,0,0,46.66,0,42
+England,MA Wood (England),bat,14,13,,0,0.9285,New Zealand,Ahmedabad,5-Oct-23,,,,1,0,0,92.85,1,19
+Pakistan,Shaheen Shah Afridi (Pakistan),bat,12,13,,0,1.0833,Netherlands,Hyderabad,6-Oct-23,,,,1,2,0,108.33,1,23
+Bangladesh,Litton Das (Bangladesh),bat,18,13,,0.055555556,0.7222,Afghanistan,Dharamsala,7-Oct-23,,,,2,2,0,72.22,0,29
+Australia,DA Warner (Australia),bat,27,13,,0.037037037,0.4814,South Africa,Lucknow,12-Oct-23,,,,2,2,0,48.14,0,33
+Bangladesh,Towhid Hridoy (Bangladesh),bat,25,13,,0.04,0.52,New Zealand,Chennai,13-Oct-23,,,,1,0,0,52,0,30
+Australia,JP Inglis (Australia),bat,9,13,,0.111111111,1.4444,Pakistan,Bengaluru,20-Oct-23,,,,1,3,0,144.44,0,10
+England,AU Rashid (England),bat,20,13,,0.05,0.65,India,Lucknow,29-Oct-23,,,,2,2,0,65,0,19
+England,JE Root (England),bat,17,13,,0.058823529,0.7647,Australia,Ahmedabad,4-Nov-23,,,,2,2,0,76.47,0,23
+South Africa,HE van der Dussen (South Africa),bat,32,13,,0.03125,0.4062,India,Eden Gardens,5-Nov-23,,,,2,1,0,40.62,0,55
+South Africa,M Jansen (South Africa),bat,7,12,,0,1.7142,Sri Lanka,Delhi,7-Oct-23,,,,1,0,1,171.42,1,15
+Australia,PJ Cummins (Australia),bat,9,12,,0,1.3333,Netherlands,Delhi,25-Oct-23,,,,1,2,0,133.33,1,39
+Netherlands,South Africa Edwards (Netherlands),bat,22,12,,0,0.5454,Australia,Delhi,25-Oct-23,,,,2,0,0,54.54,1,53
+Sri Lanka,M Theekshana (Sri Lanka),bat,23,12,,0,0.5217,India,Wankhede,2-Nov-23,,,,2,2,0,52.17,1,37
+Australia,PJ Cummins (Australia),bat,68,12,,0,0.1764,Afghanistan,Wankhede,7-Nov-23,,,,2,1,0,17.64,1,122
+Pakistan,Fakhar Zaman (Pakistan),bat,15,12,,0.066666667,0.8,Netherlands,Hyderabad,6-Oct-23,,,,1,3,0,80,0,14
+Netherlands,Vikramjit Singh (Netherlands),bat,20,12,,0.05,0.6,New Zealand,Hyderabad,9-Oct-23,,,,2,1,0,60,0,22
+Bangladesh,Shoriful Islam (Bangladesh),bat,14,12,,0.071428571,0.8571,England,Dharamsala,10-Oct-23,,,,2,2,0,85.71,0,17
+Sri Lanka,MD Shanaka (Sri Lanka),bat,18,12,,0.055555556,0.6666,Pakistan,Hyderabad,10-Oct-23,,,,1,0,0,66.66,0,23
+Pakistan,Imam-ul-Haq (Pakistan),bat,12,12,,0.083333333,1,Sri Lanka,Hyderabad,10-Oct-23,,,,2,1,0,100,0,15
+Pakistan,Hasan Ali (Pakistan),bat,19,12,,0.052631579,0.6315,India,Ahmedabad,14-Oct-23,,,,1,2,0,63.15,0,21
+Netherlands,CN Ackermann (Netherlands),bat,25,12,,0.04,0.48,South Africa,Dharamsala,17-Oct-23,,,,1,1,0,48,0,40
+England,DJ Willey (England),bat,12,12,,0.083333333,1,South Africa,Wankhede,21-Oct-23,,,,2,1,1,100,0,24
+South Africa,RR Hendricks (South Africa),bat,19,12,,0.052631579,0.6315,Bangladesh,Wankhede,24-Oct-23,,,,1,1,0,63.15,0,24
+Bangladesh,Tanzid Hasan (Bangladesh),bat,17,12,,0.058823529,0.7058,South Africa,Wankhede,24-Oct-23,,,,2,1,0,70.58,0,30
+Pakistan,Imam-ul-Haq (Pakistan),bat,18,12,,0.055555556,0.6666,South Africa,Chennai,27-Oct-23,,,,1,2,0,66.66,0,35
+South Africa,H Klaasen (South Africa),bat,10,12,,0.1,1.2,Pakistan,Chennai,27-Oct-23,,,,2,0,1,120,0,12
+New Zealand,GD Phillips (New Zealand),bat,16,12,,0.0625,0.75,Australia,Dharamsala,28-Oct-23,,,,2,1,0,75,0,21
+India,South Africa Yadav (India),bat,9,12,,0.111111111,1.3333,Sri Lanka,Wankhede,2-Nov-23,,,,1,2,0,133.33,0,13
+Sri Lanka,AD Mathews (Sri Lanka),bat,25,12,,0.04,0.48,India,Wankhede,2-Nov-23,,,,2,1,0,48,0,55
+Afghanistan,Mohammad Nabi (Afghanistan),bat,10,12,,0.1,1.2,Australia,Wankhede,7-Nov-23,,,,1,0,1,120,0,15
+Afghanistan,Ikram Alikhil (Afghanistan),bat,14,12,,0.071428571,0.8571,South Africa,Ahmedabad,10-Nov-23,,,,1,1,1,85.71,0,16
+India,HH Pandya (India),bat,8,11,,0,1.375,Australia,Chennai,8-Oct-23,,,,2,0,1,137.5,1,17
+Australia,A Zampa (Australia),bat,16,11,,0,0.6875,South Africa,Lucknow,12-Oct-23,,,,2,1,0,68.75,1,25
+England,MM Ali (England),bat,17,11,,0.058823529,0.647,New Zealand,Ahmedabad,5-Oct-23,,,,1,1,0,64.7,0,20
+England,CR Woakes (England),bat,12,11,,0.083333333,0.9166,New Zealand,Ahmedabad,5-Oct-23,,,,1,1,0,91.66,0,15
+Sri Lanka,DM de Silva (Sri Lanka),bat,14,11,,0.071428571,0.7857,South Africa,Delhi,7-Oct-23,,,,2,1,0,78.57,0,28
+Netherlands,A Dutt (Netherlands),bat,20,11,,0.05,0.55,New Zealand,Hyderabad,9-Oct-23,,,,2,0,1,55,0,19
+England,SM Curran (England),bat,15,11,,0.066666667,0.7333,Bangladesh,Dharamsala,10-Oct-23,,,,1,1,0,73.33,0,20
+England,AU Rashid (England),bat,7,11,,0.142857143,1.5714,Bangladesh,Dharamsala,10-Oct-23,,,,1,1,0,157.14,0,8
+England,JE Root (England),bat,17,11,,0.058823529,0.647,Afghanistan,Delhi,15-Oct-23,,,,2,2,0,64.7,0,23
+Australia,DA Warner (Australia),bat,6,11,,0.166666667,1.8333,Sri Lanka,Lucknow,16-Oct-23,,,,2,0,1,183.33,0,16
+Afghanistan,Rahmanullah Gurbaz (Afghanistan),bat,21,11,,0.047619048,0.5238,New Zealand,Chennai,18-Oct-23,,,,2,0,1,52.38,0,24
+Sri Lanka,BKG Mendis (Sri Lanka),bat,17,11,,0.058823529,0.647,Netherlands,Lucknow,21-Oct-23,,,,2,2,0,64.7,0,22
+Bangladesh,Mehidy Hasan Miraz (Bangladesh),bat,19,11,,0.052631579,0.5789,South Africa,Wankhede,24-Oct-23,,,,2,1,0,57.89,0,26
+Bangladesh,Mustafizur Rahman (Bangladesh),bat,21,11,,0.047619048,0.5238,South Africa,Wankhede,24-Oct-23,,,,2,2,0,52.38,0,51
+Netherlands,South Africa Engelbrecht (Netherlands),bat,21,11,,0.047619048,0.5238,Australia,Delhi,25-Oct-23,,,,2,1,0,52.38,0,36
+Sri Lanka,BKG Mendis (Sri Lanka),bat,12,11,,0.083333333,0.9166,England,Bengaluru,26-Oct-23,,,,2,2,0,91.66,0,15
+Bangladesh,Taskin Ahmed (Bangladesh),bat,35,11,,0.028571429,0.3142,Netherlands,Eden Gardens,28-Oct-23,,,,2,1,0,31.42,0,49
+Netherlands,RE van der Merwe (Netherlands),bat,33,11,,0.03030303,0.3333,Afghanistan,Lucknow,3-Nov-23,,,,1,0,0,33.33,0,36
+Australia,TM Head (Australia),bat,10,11,,0.1,1.1,England,Ahmedabad,4-Nov-23,,,,1,1,0,110,0,8
+South Africa,T Bavuma (South Africa),bat,19,11,,0.052631579,0.5789,India,Eden Gardens,5-Nov-23,,,,2,1,0,57.89,0,39
+South Africa,DA Miller (South Africa),bat,11,11,,0.090909091,1,India,Eden Gardens,5-Nov-23,,,,2,2,0,100,0,17
+England,HC Brook (England),bat,16,11,,0.0625,0.6875,Netherlands,Pune,8-Nov-23,,,,1,2,0,68.75,0,19
+New Zealand,MJ Henry (New Zealand),bat,4,10,,0,2.5,Netherlands,Hyderabad,9-Oct-23,,,,1,0,1,250,1,6
+Afghanistan,Mujeeb Ur Rahman (Afghanistan),bat,12,10,,0,0.8333,India,Delhi,11-Oct-23,,,,1,2,0,83.33,1,22
+New Zealand,TA Boult (New Zealand),bat,8,10,,0,1.25,Australia,Dharamsala,28-Oct-23,,,,2,0,1,125,1,21
+Netherlands,A Dutt (Netherlands),bat,22,10,,0,0.4545,Afghanistan,Lucknow,3-Nov-23,,,,1,0,0,45.45,1,42
+Netherlands,Saqib Zulfiqar (Netherlands),bat,18,10,,0.055555556,0.5555,Pakistan,Hyderabad,6-Oct-23,,,,2,1,0,55.55,0,24
+Sri Lanka,DN Wellalage (Sri Lanka),bat,8,10,,0.125,1.25,Pakistan,Hyderabad,10-Oct-23,,,,1,1,0,125,0,18
+Pakistan,Babar Azam (Pakistan),bat,15,10,,0.066666667,0.6666,Sri Lanka,Hyderabad,10-Oct-23,,,,2,1,0,66.66,0,17
+England,LS Livingstone (England),bat,14,10,,0.071428571,0.7142,Afghanistan,Delhi,15-Oct-23,,,,2,1,0,71.42,0,15
+England,SM Curran (England),bat,23,10,,0.043478261,0.4347,Afghanistan,Delhi,15-Oct-23,,,,2,0,0,43.47,0,22
+Netherlands,LV van Beek (Netherlands),bat,27,10,,0.037037037,0.3703,South Africa,Dharamsala,17-Oct-23,,,,1,1,0,37.03,0,22
+Pakistan,Shaheen Shah Afridi (Pakistan),bat,8,10,,0.125,1.25,Australia,Bengaluru,20-Oct-23,,,,2,2,0,125,0,17
+England,JM Bairstow (England),bat,12,10,,0.083333333,0.8333,South Africa,Wankhede,21-Oct-23,,,,2,1,1,83.33,0,13
+England,AU Rashid (England),bat,14,10,,0.071428571,0.7142,South Africa,Wankhede,21-Oct-23,,,,2,1,0,71.42,0,14
+Netherlands,CN Ackermann (Netherlands),bat,11,10,,0.090909091,0.909,Australia,Delhi,25-Oct-23,,,,2,2,0,90.9,0,21
+South Africa,G Coetzee (South Africa),bat,13,10,,0.076923077,0.7692,Pakistan,Chennai,27-Oct-23,,,,2,0,0,76.92,0,23
+England,JC Buttler (England),bat,23,10,,0.043478261,0.4347,India,Lucknow,29-Oct-23,,,,2,1,0,43.47,0,33
+England,CR Woakes (England),bat,20,10,,0.05,0.5,India,Lucknow,29-Oct-23,,,,2,1,0,50,0,21
+Afghanistan,Rahmanullah Gurbaz (Afghanistan),bat,11,10,,0.090909091,0.909,Netherlands,Lucknow,3-Nov-23,,,,2,2,0,90.9,0,24
+Australia,PJ Cummins (Australia),bat,13,10,,0.076923077,0.7692,England,Ahmedabad,4-Nov-23,,,,1,1,0,76.92,0,17
+Australia,MA Starc (Australia),bat,13,10,,0.076923077,0.7692,England,Ahmedabad,4-Nov-23,,,,1,0,0,76.92,0,30
+Bangladesh,Mushfiqur Rahim (Bangladesh),bat,13,10,,0.076923077,0.7692,Sri Lanka,Delhi,6-Nov-23,,,,2,1,0,76.92,0,21
+Netherlands,BFW de Leede (Netherlands),bat,12,10,,0.083333333,0.8333,England,Pune,8-Nov-23,,,,2,2,0,83.33,0,11
+South Africa,H Klaasen (South Africa),bat,13,10,,0.076923077,0.7692,Afghanistan,Ahmedabad,10-Nov-23,,,,2,1,0,76.92,0,15
+Afghanistan,Naveen-ul-Haq (Afghanistan),bat,8,9,,0,1.125,India,Delhi,11-Oct-23,,,,1,1,0,112.5,1,8
+Netherlands,A Dutt (Netherlands),bat,6,9,,0,1.5,Sri Lanka,Lucknow,21-Oct-23,,,,1,1,0,150,1,14
+India,Kuldeep Yadav (India),bat,13,9,,0,0.6923,England,Lucknow,29-Oct-23,,,,1,1,0,69.23,1,18
+Pakistan,Iftikhar Ahmed (Pakistan),bat,11,9,,0.090909091,0.8181,Netherlands,Hyderabad,6-Oct-23,,,,1,1,0,81.81,0,22
+Afghanistan,Rashid Khan (Afghanistan),bat,16,9,,0.0625,0.5625,Bangladesh,Dharamsala,7-Oct-23,,,,1,1,0,56.25,0,16
+New Zealand,R Ravindra (New Zealand),bat,13,9,,0.076923077,0.6923,Bangladesh,Chennai,13-Oct-23,,,,2,2,0,69.23,0,12
+Afghanistan,Mohammad Nabi (Afghanistan),bat,15,9,,0.066666667,0.6,England,Delhi,15-Oct-23,,,,1,1,0,60,0,14
+England,JC Buttler (England),bat,18,9,,0.055555556,0.5,Afghanistan,Delhi,15-Oct-23,,,,2,1,0,50,0,21
+England,CR Woakes (England),bat,26,9,,0.038461538,0.3461,Afghanistan,Delhi,15-Oct-23,,,,2,1,0,34.61,0,21
+Sri Lanka,BKG Mendis (Sri Lanka),bat,13,9,,0.076923077,0.6923,Australia,Lucknow,16-Oct-23,,,,1,0,0,69.23,0,27
+South Africa,M Jansen (South Africa),bat,25,9,,0.04,0.36,Netherlands,Dharamsala,17-Oct-23,,,,2,0,0,36,0,22
+South Africa,K Rabada (South Africa),bat,6,9,,0.166666667,1.5,Netherlands,Dharamsala,17-Oct-23,,,,2,0,1,150,0,9
+Netherlands,AT Nidamanuru (Netherlands),bat,16,9,,0.0625,0.5625,Sri Lanka,Lucknow,21-Oct-23,,,,1,0,0,56.25,0,32
+Australia,MR Marsh (Australia),bat,15,9,,0.066666667,0.6,Netherlands,Delhi,25-Oct-23,,,,1,2,0,60,0,15
+Pakistan,Abdullah Shafique (Pakistan),bat,17,9,,0.058823529,0.5294,South Africa,Chennai,27-Oct-23,,,,1,1,0,52.94,0,21
+New Zealand,MJ Henry (New Zealand),bat,8,9,,0.125,1.125,Australia,Dharamsala,28-Oct-23,,,,2,1,0,112.5,0,14
+Netherlands,A Dutt (Netherlands),bat,6,9,,0.166666667,1.5,Bangladesh,Eden Gardens,28-Oct-23,,,,1,0,1,150,0,7
+Bangladesh,Najmul Hossain Shanto (Bangladesh),bat,18,9,,0.055555556,0.5,Netherlands,Eden Gardens,28-Oct-23,,,,2,2,0,50,0,27
+India,Shubman Gill (India),bat,13,9,,0.076923077,0.6923,England,Lucknow,29-Oct-23,,,,1,1,0,69.23,0,18
+Pakistan,Babar Azam (Pakistan),bat,16,9,,0.0625,0.5625,Bangladesh,Eden Gardens,31-Oct-23,,,,2,1,0,56.25,0,20
+New Zealand,R Ravindra (New Zealand),bat,16,9,,0.0625,0.5625,South Africa,Pune,1-Nov-23,,,,2,1,0,56.25,0,28
+New Zealand,TA Boult (New Zealand),bat,14,9,,0.071428571,0.6428,South Africa,Pune,1-Nov-23,,,,2,1,0,64.28,0,17
+South Africa,AK Markram (South Africa),bat,6,9,,0.166666667,1.5,India,Eden Gardens,5-Nov-23,,,,2,2,0,150,0,6
+Bangladesh,Tanzid Hasan (Bangladesh),bat,5,9,,0.2,1.8,Sri Lanka,Delhi,6-Nov-23,,,,2,2,0,180,0,11
+South Africa,T Bavuma (South Africa),bat,5,8,,0.2,1.6,Sri Lanka,Delhi,7-Oct-23,,,,1,2,0,160,0,9
+Australia,C Green (Australia),bat,20,8,,0.05,0.4,India,Chennai,8-Oct-23,,,,1,0,0,40,0,31
+Netherlands,R Klein (Netherlands),bat,15,8,,0.066666667,0.5333,New Zealand,Hyderabad,9-Oct-23,,,,2,0,0,53.33,0,23
+Bangladesh,Mehidy Hasan Miraz (Bangladesh),bat,7,8,,0.142857143,1.1428,England,Dharamsala,10-Oct-23,,,,2,1,0,114.28,0,12
+Sri Lanka,S Samarawickrama (Sri Lanka),bat,8,8,,0.125,1,Australia,Lucknow,16-Oct-23,,,,1,1,0,100,0,15
+Afghanistan,Hashmatullah Shahidi (Afghanistan),bat,29,8,,0.034482759,0.2758,New Zealand,Chennai,18-Oct-23,,,,2,1,0,27.58,0,30
+Afghanistan,Rashid Khan (Afghanistan),bat,13,8,,0.076923077,0.6153,New Zealand,Chennai,18-Oct-23,,,,2,0,1,61.53,0,10
+Bangladesh,Najmul Hossain Shanto (Bangladesh),bat,17,8,,0.058823529,0.4705,India,Pune,19-Oct-23,,,,1,0,0,47.05,0,18
+Australia,M Labuschagne (Australia),bat,12,8,,0.083333333,0.6666,Pakistan,Bengaluru,20-Oct-23,,,,1,1,0,66.66,0,23
+Pakistan,Hasan Ali (Pakistan),bat,8,8,,0.125,1,Australia,Bengaluru,20-Oct-23,,,,2,2,0,100,0,7
+Pakistan,Mohammad Rizwan (Pakistan),bat,10,8,,0.1,0.8,Afghanistan,Chennai,23-Oct-23,,,,1,0,1,80,0,8
+Bangladesh,Mushfiqur Rahim (Bangladesh),bat,17,8,,0.058823529,0.4705,South Africa,Wankhede,24-Oct-23,,,,2,1,0,47.05,0,24
+Australia,C Green (Australia),bat,11,8,,0.090909091,0.7272,Netherlands,Delhi,25-Oct-23,,,,1,1,0,72.72,0,15
+England,JC Buttler (England),bat,6,8,,0.166666667,1.3333,Sri Lanka,Bengaluru,26-Oct-23,,,,1,1,0,133.33,0,6
+India,RA Jadeja (India),bat,13,8,,0.076923077,0.6153,England,Lucknow,29-Oct-23,,,,1,0,0,61.53,0,14
+India,KL Rahul (India),bat,17,8,,0.058823529,0.4705,South Africa,Eden Gardens,5-Nov-23,,,,1,0,0,47.05,0,29
+Sri Lanka,KIC Asalanka (Sri Lanka),bat,8,8,,0.125,1,New Zealand,Bengaluru,9-Nov-23,,,,1,1,0,100,0,16
+Afghanistan,Mujeeb Ur Rahman (Afghanistan),bat,5,8,,0.2,1.6,South Africa,Ahmedabad,10-Nov-23,,,,1,0,1,160,0,7
+South Africa,L Ngidi (South Africa),bat,24,7,,0,0.2916,Netherlands,Dharamsala,17-Oct-23,,,,2,0,0,29.16,1,35
+New Zealand,MJ Santner (New Zealand),bat,5,7,,0,1.4,Afghanistan,Chennai,18-Oct-23,,,,1,1,0,140,1,13
+Bangladesh,Shoriful Islam (Bangladesh),bat,3,7,,0,2.3333,India,Pune,19-Oct-23,,,,1,0,1,233.33,1,2
+South Africa,KA Maharaj (South Africa),bat,21,7,,0,0.3333,Pakistan,Chennai,27-Oct-23,,,,2,1,0,33.33,1,44
+Netherlands,PA van Meekeren (Netherlands),bat,12,7,,0.083333333,0.5833,Pakistan,Hyderabad,6-Oct-23,,,,2,1,0,58.33,0,17
+Sri Lanka,MDKJ Perera (Sri Lanka),bat,15,7,,0.066666667,0.4666,South Africa,Delhi,7-Oct-23,,,,2,1,0,46.66,0,42
+Australia,MR Marsh (Australia),bat,15,7,,0.066666667,0.4666,South Africa,Lucknow,12-Oct-23,,,,2,0,0,46.66,0,27
+Bangladesh,Najmul Hossain Shanto (Bangladesh),bat,8,7,,0.125,0.875,New Zealand,Chennai,13-Oct-23,,,,1,1,0,87.5,0,20
+Sri Lanka,DM de Silva (Sri Lanka),bat,13,7,,0.076923077,0.5384,Australia,Lucknow,16-Oct-23,,,,1,1,0,53.84,0,13
+Afghanistan,Mohammad Nabi (Afghanistan),bat,9,7,,0.111111111,0.7777,New Zealand,Chennai,18-Oct-23,,,,2,1,0,77.77,0,10
+Australia,SPD Smith (Australia),bat,9,7,,0.111111111,0.7777,Pakistan,Bengaluru,20-Oct-23,,,,1,0,0,77.77,0,17
+Netherlands,RE van der Merwe (Netherlands),bat,7,7,,0.142857143,1,Sri Lanka,Lucknow,21-Oct-23,,,,1,0,0,100,0,12
+Pakistan,Mohammad Wasim (1) (Pakistan),bat,9,7,,0.111111111,0.7777,South Africa,Chennai,27-Oct-23,,,,1,0,1,77.77,0,13
+Bangladesh,Towhid Hridoy (Bangladesh),bat,3,7,,0.333333333,2.3333,Pakistan,Eden Gardens,31-Oct-23,,,,1,0,1,233.33,0,9
+New Zealand,MJ Santner (New Zealand),bat,18,7,,0.055555556,0.3888,South Africa,Pune,1-Nov-23,,,,2,1,0,38.88,0,14
+New Zealand,TG Southee (New Zealand),bat,11,7,,0.090909091,0.6363,South Africa,Pune,1-Nov-23,,,,2,1,0,63.63,0,11
+South Africa,KA Maharaj (South Africa),bat,11,7,,0.090909091,0.6363,India,Eden Gardens,5-Nov-23,,,,2,1,0,63.63,0,7
+New Zealand,MS Chapman (New Zealand),bat,6,7,,0.166666667,1.1666,Sri Lanka,Bengaluru,9-Nov-23,,,,2,1,0,116.66,0,13
+England,MA Wood (England),bat,5,6,,0,1.2,Bangladesh,Dharamsala,10-Oct-23,,,,1,1,0,120,1,6
+Australia,PJ Cummins (Australia),bat,8,6,,0,0.75,Pakistan,Bengaluru,20-Oct-23,,,,1,0,0,75,1,17
+Bangladesh,Shoriful Islam (Bangladesh),bat,4,6,,0,1.5,South Africa,Wankhede,24-Oct-23,,,,2,1,0,150,1,4
+South Africa,AK Markram (South Africa),bat,1,6,,0,6,New Zealand,Pune,1-Nov-23,,,,1,0,1,600,1,1
+Afghanistan,Mohammad Nabi (Afghanistan),bat,12,6,,0.083333333,0.5,Bangladesh,Dharamsala,7-Oct-23,,,,1,0,0,50,0,19
+Australia,A Zampa (Australia),bat,20,6,,0.05,0.3,India,Chennai,8-Oct-23,,,,1,0,0,30,0,28
+Pakistan,Saud Shakeel (Pakistan),bat,10,6,,0.1,0.6,India,Ahmedabad,14-Oct-23,,,,1,0,0,60,0,12
+Netherlands,BFW de Leede (Netherlands),bat,21,6,,0.047619048,0.2857,Sri Lanka,Lucknow,21-Oct-23,,,,1,0,0,28.57,0,33
+England,DJ Malan (England),bat,11,6,,0.090909091,0.5454,South Africa,Wankhede,21-Oct-23,,,,2,1,0,54.54,0,30
+New Zealand,MS Chapman (New Zealand),bat,8,6,,0.125,0.75,India,Dharamsala,22-Oct-23,,,,1,0,0,75,0,11
+Netherlands,MP O'Dowd (Netherlands),bat,9,6,,0.111111111,0.6666,Australia,Delhi,25-Oct-23,,,,2,1,0,66.66,0,21
+Netherlands,Shariz Ahmad (Netherlands),bat,8,6,,0.125,0.75,Bangladesh,Eden Gardens,28-Oct-23,,,,1,0,0,75,0,13
+Bangladesh,Taskin Ahmed (Bangladesh),bat,13,6,,0.076923077,0.4615,Pakistan,Eden Gardens,31-Oct-23,,,,1,0,0,46.15,0,20
+South Africa,K Rabada (South Africa),bat,26,6,,0.038461538,0.2307,India,Eden Gardens,5-Nov-23,,,,2,0,0,23.07,0,26
+Australia,MP Stoinis (Australia),bat,7,6,,0.142857143,0.8571,Afghanistan,Wankhede,7-Nov-23,,,,2,1,0,85.71,0,13
+England,DJ Willey (England),bat,2,6,,0.5,3,Netherlands,Pune,8-Nov-23,,,,1,0,1,300,0,1
+Sri Lanka,BKG Mendis (Sri Lanka),bat,7,6,,0.142857143,0.8571,New Zealand,Bengaluru,9-Nov-23,,,,1,1,0,85.71,0,11
+Sri Lanka,C Karunaratne (Sri Lanka),bat,17,6,,0.058823529,0.3529,New Zealand,Bengaluru,9-Nov-23,,,,1,1,0,35.29,0,28
+Bangladesh,Tanzim Hasan Sakib (Bangladesh),bat,6,5,,0,0.8333,Sri Lanka,Delhi,6-Nov-23,,,,2,1,0,83.33,1,6
+Pakistan,Babar Azam (Pakistan),bat,18,5,,0.055555556,0.2777,Netherlands,Hyderabad,6-Oct-23,,,,1,0,0,27.77,0,20
+Netherlands,MP O'Dowd (Netherlands),bat,12,5,,0.083333333,0.4166,Pakistan,Hyderabad,6-Oct-23,,,,2,1,0,41.66,0,24
+Netherlands,AT Nidamanuru (Netherlands),bat,9,5,,0.111111111,0.5555,Pakistan,Hyderabad,6-Oct-23,,,,2,1,0,55.55,0,10
+Afghanistan,Najibullah Zadran (Afghanistan),bat,13,5,,0.076923077,0.3846,Bangladesh,Dharamsala,7-Oct-23,,,,1,0,0,38.46,0,16
+Bangladesh,Tanzid Hasan (Bangladesh),bat,13,5,,0.076923077,0.3846,Afghanistan,Dharamsala,7-Oct-23,,,,2,1,0,38.46,0,19
+Sri Lanka,M Pathirana (Sri Lanka),bat,16,5,,0.0625,0.3125,South Africa,Delhi,7-Oct-23,,,,2,1,0,31.25,0,25
+New Zealand,MS Chapman (New Zealand),bat,13,5,,0.076923077,0.3846,Netherlands,Hyderabad,9-Oct-23,,,,1,0,0,38.46,0,11
+Australia,JP Inglis (Australia),bat,4,5,,0.25,1.25,South Africa,Lucknow,12-Oct-23,,,,2,1,0,125,0,5
+Australia,MP Stoinis (Australia),bat,4,5,,0.25,1.25,South Africa,Lucknow,12-Oct-23,,,,2,1,0,125,0,6
+Afghanistan,Naveen-ul-Haq (Afghanistan),bat,6,5,,0.166666667,0.8333,England,Delhi,15-Oct-23,,,,1,1,0,83.33,0,9
+Sri Lanka,MDKJ Perera (Sri Lanka),bat,8,5,,0.125,0.625,Netherlands,Lucknow,21-Oct-23,,,,2,1,0,62.5,0,17
+South Africa,DA Miller (South Africa),bat,6,5,,0.166666667,0.8333,England,Wankhede,21-Oct-23,,,,1,1,0,83.33,0,7
+England,BA Stokes (England),bat,8,5,,0.125,0.625,South Africa,Wankhede,21-Oct-23,,,,2,1,0,62.5,0,20
+New Zealand,TWM Latham (New Zealand),bat,7,5,,0.142857143,0.7142,India,Dharamsala,22-Oct-23,,,,1,1,0,71.42,0,16
+England,MA Wood (England),bat,6,5,,0.166666667,0.8333,Sri Lanka,Bengaluru,26-Oct-23,,,,1,1,0,83.33,0,6
+Bangladesh,Shakib Al Hasan (Bangladesh),bat,14,5,,0.071428571,0.3571,Netherlands,Eden Gardens,28-Oct-23,,,,2,0,0,35.71,0,14
+Sri Lanka,CAK Rajitha (Sri Lanka),bat,7,5,,0.142857143,0.7142,Afghanistan,Pune,30-Oct-23,,,,1,0,0,71.42,0,14
+Bangladesh,Mushfiqur Rahim (Bangladesh),bat,8,5,,0.125,0.625,Pakistan,Eden Gardens,31-Oct-23,,,,1,1,0,62.5,0,18
+Sri Lanka,D Madushanka (Sri Lanka),bat,6,5,,0.166666667,0.8333,India,Wankhede,2-Nov-23,,,,2,1,0,83.33,0,4
+South Africa,Q de Kock (South Africa),bat,10,5,,0.1,0.5,India,Eden Gardens,5-Nov-23,,,,2,1,0,50,0,9
+England,JC Buttler (England),bat,11,5,,0.090909091,0.4545,Netherlands,Pune,8-Nov-23,,,,1,0,0,45.45,0,12
+Netherlands,MP O'Dowd (Netherlands),bat,11,5,,0.090909091,0.4545,England,Pune,8-Nov-23,,,,2,1,0,45.45,0,20
+Sri Lanka,D Madushanka (Sri Lanka),bat,2,4,,0,2,South Africa,Delhi,7-Oct-23,,,,2,1,0,200,1,4
+Netherlands,PA van Meekeren (Netherlands),bat,3,4,,0,1.3333,New Zealand,Hyderabad,9-Oct-23,,,,2,1,0,133.33,1,5
+Sri Lanka,MADI Hemantha (Sri Lanka),bat,3,4,,0,1.3333,Netherlands,Lucknow,21-Oct-23,,,,2,1,0,133.33,1,7
+South Africa,T Shamsi (South Africa),bat,6,4,,0,0.6666,Pakistan,Chennai,27-Oct-23,,,,2,0,0,66.66,1,14
+South Africa,T Shamsi (South Africa),bat,4,4,,0,1,India,Eden Gardens,5-Nov-23,,,,2,1,0,100,1,3
+Netherlands,RE van der Merwe (Netherlands),bat,7,4,,0.142857143,0.5714,Pakistan,Hyderabad,6-Oct-23,,,,2,0,0,57.14,0,18
+New Zealand,GD Phillips (New Zealand),bat,4,4,,0.25,1,Netherlands,Hyderabad,9-Oct-23,,,,1,1,0,100,0,6
+Bangladesh,Mustafizur Rahman (Bangladesh),bat,10,4,,0.1,0.4,New Zealand,Chennai,13-Oct-23,,,,1,0,0,40,0,14
+Pakistan,Iftikhar Ahmed (Pakistan),bat,4,4,,0.25,1,India,Ahmedabad,14-Oct-23,,,,1,1,0,100,0,2
+Pakistan,Mohammad Nawaz (3) (Pakistan),bat,14,4,,0.071428571,0.2857,India,Ahmedabad,14-Oct-23,,,,1,0,0,28.57,0,25
+Sri Lanka,CBRLS Kumara (Sri Lanka),bat,8,4,,0.125,0.5,Australia,Lucknow,16-Oct-23,,,,1,1,0,50,0,6
+South Africa,HE van der Dussen (South Africa),bat,7,4,,0.142857143,0.5714,Netherlands,Dharamsala,17-Oct-23,,,,2,0,0,57.14,0,16
+Afghanistan,Mujeeb Ur Rahman (Afghanistan),bat,3,4,,0.333333333,1.3333,New Zealand,Chennai,18-Oct-23,,,,2,1,0,133.33,0,2
+Netherlands,Vikramjit Singh (Netherlands),bat,13,4,,0.076923077,0.3076,Sri Lanka,Lucknow,21-Oct-23,,,,1,1,0,30.76,0,17
+Netherlands,PA van Meekeren (Netherlands),bat,5,4,,0.2,0.8,Sri Lanka,Lucknow,21-Oct-23,,,,1,0,0,80,0,6
+South Africa,Q de Kock (South Africa),bat,2,4,,0.5,2,England,Wankhede,21-Oct-23,,,,1,1,0,200,0,3
+Netherlands,BFW de Leede (Netherlands),bat,7,4,,0.142857143,0.5714,Australia,Delhi,25-Oct-23,,,,2,1,0,57.14,0,7
+Sri Lanka,MDKJ Perera (Sri Lanka),bat,5,4,,0.2,0.8,England,Bengaluru,26-Oct-23,,,,2,1,0,80,0,8
+South Africa,L Ngidi (South Africa),bat,14,4,,0.071428571,0.2857,Pakistan,Chennai,27-Oct-23,,,,2,0,0,28.57,0,24
+India,SS Iyer (India),bat,16,4,,0.0625,0.25,England,Lucknow,29-Oct-23,,,,1,0,0,25,0,21
+Bangladesh,Najmul Hossain Shanto (Bangladesh),bat,3,4,,0.333333333,1.3333,Pakistan,Eden Gardens,31-Oct-23,,,,1,1,0,133.33,0,8
+New Zealand,TWM Latham (New Zealand),bat,15,4,,0.066666667,0.2666,South Africa,Pune,1-Nov-23,,,,2,0,0,26.66,0,18
+India,RG Sharma (India),bat,2,4,,0.5,2,Sri Lanka,Wankhede,2-Nov-23,,,,1,1,0,200,0,2
+Netherlands,PA van Meekeren (Netherlands),bat,24,4,,0.041666667,0.1666,Afghanistan,Lucknow,3-Nov-23,,,,1,0,0,16.66,0,18
+Pakistan,Abdullah Shafique (Pakistan),bat,9,4,,0.111111111,0.4444,New Zealand,Bengaluru,4-Nov-23,,,,2,1,0,44.44,0,8
+Sri Lanka,MDKJ Perera (Sri Lanka),bat,5,4,,0.2,0.8,Bangladesh,Delhi,6-Nov-23,,,,1,1,0,80,0,5
+Sri Lanka,PVD Chameera (Sri Lanka),bat,9,4,,0.111111111,0.4444,Bangladesh,Delhi,6-Nov-23,,,,1,0,0,44.44,0,17
+England,MM Ali (England),bat,15,4,,0.066666667,0.2666,Netherlands,Pune,8-Nov-23,,,,1,0,0,26.66,0,20
+Netherlands,PA van Meekeren (Netherlands),bat,3,4,,0.333333333,1.3333,England,Pune,8-Nov-23,,,,2,1,0,133.33,0,3
+Bangladesh,Mustafizur Rahman (Bangladesh),bat,9,3,,0,0.3333,England,Dharamsala,10-Oct-23,,,,2,0,0,33.33,1,12
+Pakistan,Shaheen Shah Afridi (Pakistan),bat,3,3,,0,1,Afghanistan,Chennai,23-Oct-23,,,,1,0,0,100,1,4
+Australia,GJ Maxwell (Australia),bat,17,3,,0.058823529,0.1764,South Africa,Lucknow,12-Oct-23,,,,2,0,0,17.64,0,17
+Afghanistan,Rahmat Shah (Afghanistan),bat,8,3,,0.125,0.375,England,Delhi,15-Oct-23,,,,1,0,0,37.5,0,10
+Bangladesh,Mehidy Hasan Miraz (Bangladesh),bat,13,3,,0.076923077,0.2307,India,Pune,19-Oct-23,,,,1,0,0,23.07,0,15
+South Africa,G Coetzee (South Africa),bat,3,3,,0.333333333,1,England,Wankhede,21-Oct-23,,,,1,0,0,100,0,2
+England,JE Root (England),bat,10,3,,0.1,0.3,Sri Lanka,Bengaluru,26-Oct-23,,,,1,0,0,30,0,14
+Netherlands,Vikramjit Singh (Netherlands),bat,9,3,,0.111111111,0.3333,Bangladesh,Eden Gardens,28-Oct-23,,,,1,0,0,33.33,0,7
+Bangladesh,Litton Das (Bangladesh),bat,12,3,,0.083333333,0.25,Netherlands,Eden Gardens,28-Oct-23,,,,2,0,0,25,0,20
+Bangladesh,Mustafizur Rahman (Bangladesh),bat,7,3,,0.142857143,0.4285,Pakistan,Eden Gardens,31-Oct-23,,,,1,0,0,42.85,0,11
+Netherlands,BFW de Leede (Netherlands),bat,6,3,,0.166666667,0.5,Afghanistan,Lucknow,3-Nov-23,,,,1,0,0,50,0,5
+Netherlands,Saqib Zulfiqar (Netherlands),bat,15,3,,0.066666667,0.2,Afghanistan,Lucknow,3-Nov-23,,,,1,0,0,20,0,19
+Australia,JP Inglis (Australia),bat,6,3,,0.166666667,0.5,England,Ahmedabad,4-Nov-23,,,,1,0,0,50,0,5
+Bangladesh,Mehidy Hasan Miraz (Bangladesh),bat,5,3,,0.2,0.6,Sri Lanka,Delhi,6-Nov-23,,,,2,0,0,60,0,9
+Australia,MA Starc (Australia),bat,7,3,,0.142857143,0.4285,Afghanistan,Wankhede,7-Nov-23,,,,2,0,0,42.85,0,8
+Bangladesh,Mushfiqur Rahim (Bangladesh),bat,3,2,,0,0.6666,Afghanistan,Dharamsala,7-Oct-23,,,,2,0,0,66.66,1,6
+Bangladesh,Shoriful Islam (Bangladesh),bat,3,2,,0,0.6666,New Zealand,Chennai,13-Oct-23,,,,1,0,0,66.66,1,9
+Pakistan,Shaheen Shah Afridi (Pakistan),bat,10,2,,0,0.2,India,Ahmedabad,14-Oct-23,,,,1,0,0,20,1,12
+Afghanistan,Fazalhaq Farooqi (Afghanistan),bat,4,2,,0,0.5,England,Delhi,15-Oct-23,,,,1,0,0,50,1,7
+New Zealand,TWM Latham (New Zealand),bat,2,2,,0,1,Pakistan,Bengaluru,4-Nov-23,,,,1,0,0,100,1,4
+England,AAP Atkinson (England),bat,1,2,,0,2,Netherlands,Pune,8-Nov-23,,,,1,0,0,200,1,7
+New Zealand,TWM Latham (New Zealand),bat,2,2,,0,1,Sri Lanka,Bengaluru,9-Nov-23,,,,2,0,0,100,1,3
+Afghanistan,Najibullah Zadran (Afghanistan),bat,8,2,,0.125,0.25,India,Delhi,11-Oct-23,,,,1,0,0,25,0,6
+Australia,JR Hazlewood (Australia),bat,2,2,,0.5,1,South Africa,Lucknow,12-Oct-23,,,,2,0,0,100,0,1
+Pakistan,Shadab Khan (Pakistan),bat,5,2,,0.2,0.4,India,Ahmedabad,14-Oct-23,,,,1,0,0,40,0,11
+Pakistan,Haris Rauf (Pakistan),bat,6,2,,0.166666667,0.3333,India,Ahmedabad,14-Oct-23,,,,1,0,0,33.33,0,9
+England,JM Bairstow (England),bat,4,2,,0.25,0.5,Afghanistan,Delhi,15-Oct-23,,,,2,0,0,50,0,5
+Sri Lanka,DN Wellalage (Sri Lanka),bat,9,2,,0.111111111,0.2222,Australia,Lucknow,16-Oct-23,,,,1,0,0,22.22,0,9
+Sri Lanka,C Karunaratne (Sri Lanka),bat,11,2,,0.090909091,0.1818,Australia,Lucknow,16-Oct-23,,,,1,0,0,18.18,0,12
+Netherlands,Vikramjit Singh (Netherlands),bat,16,2,,0.0625,0.125,South Africa,Dharamsala,17-Oct-23,,,,1,0,0,12.5,0,28
+Netherlands,BFW de Leede (Netherlands),bat,7,2,,0.142857143,0.2857,South Africa,Dharamsala,17-Oct-23,,,,1,0,0,28.57,0,16
+Australia,MA Starc (Australia),bat,3,2,,0.333333333,0.6666,Pakistan,Bengaluru,20-Oct-23,,,,1,0,0,66.66,0,3
+England,JE Root (England),bat,6,2,,0.166666667,0.3333,South Africa,Wankhede,21-Oct-23,,,,2,0,0,33.33,0,9
+India,South Africa Yadav (India),bat,4,2,,0.25,0.5,New Zealand,Dharamsala,22-Oct-23,,,,2,0,0,50,0,8
+England,AU Rashid (England),bat,7,2,,0.142857143,0.2857,Sri Lanka,Bengaluru,26-Oct-23,,,,1,0,0,28.57,0,7
+Pakistan,Shaheen Shah Afridi (Pakistan),bat,4,2,,0.25,0.5,South Africa,Chennai,27-Oct-23,,,,1,0,0,50,0,10
+New Zealand,DP Conway (New Zealand),bat,6,2,,0.166666667,0.3333,South Africa,Pune,1-Nov-23,,,,2,0,0,33.33,0,13
+India,Mohammed Shami (India),bat,4,2,,0.25,0.5,Sri Lanka,Wankhede,2-Nov-23,,,,1,0,0,50,0,11
+Netherlands,LV van Beek (Netherlands),bat,13,2,,0.076923077,0.1538,Afghanistan,Lucknow,3-Nov-23,,,,1,0,0,15.38,0,16
+England,LS Livingstone (England),bat,5,2,,0.2,0.4,Australia,Ahmedabad,4-Nov-23,,,,2,0,0,40,0,6
+Netherlands,LV van Beek (Netherlands),bat,2,2,,0.5,1,England,Pune,8-Nov-23,,,,2,0,0,100,0,3
+Sri Lanka,P Nissanka (Sri Lanka),bat,8,2,,0.125,0.25,New Zealand,Bengaluru,9-Nov-23,,,,1,0,0,25,0,9
+Afghanistan,Hashmatullah Shahidi (Afghanistan),bat,7,2,,0.142857143,0.2857,South Africa,Ahmedabad,10-Nov-23,,,,1,0,0,28.57,0,5
+Afghanistan,Mohammad Nabi (Afghanistan),bat,3,2,,0.333333333,0.6666,South Africa,Ahmedabad,10-Nov-23,,,,1,0,0,66.66,0,7
+Afghanistan,Naveen-ul-Haq (Afghanistan),bat,4,2,,0.25,0.5,South Africa,Ahmedabad,10-Nov-23,,,,1,0,0,50,0,12
+Australia,JR Hazlewood (Australia),bat,1,1,,0,1,India,Chennai,8-Oct-23,,,,1,0,0,100,1,6
+England,RJW Topley (England),bat,2,1,,0,0.5,Bangladesh,Dharamsala,10-Oct-23,,,,1,0,0,50,1,2
+Sri Lanka,M Pathirana (Sri Lanka),bat,3,1,,0,0.3333,Pakistan,Hyderabad,10-Oct-23,,,,1,0,0,33.33,1,3
+Bangladesh,Mustafizur Rahman (Bangladesh),bat,7,1,,0,0.1428,India,Pune,19-Oct-23,,,,1,0,0,14.28,1,19
+Australia,A Zampa (Australia),bat,1,1,,0,1,Pakistan,Bengaluru,20-Oct-23,,,,1,0,0,100,1,4
+South Africa,KA Maharaj (South Africa),bat,1,1,,0,1,England,Wankhede,21-Oct-23,,,,1,0,0,100,1,1
+India,Mohammed Shami (India),bat,1,1,,0,1,New Zealand,Dharamsala,22-Oct-23,,,,2,0,0,100,1,2
+South Africa,M Jansen (South Africa),bat,1,1,,0,1,Bangladesh,Wankhede,24-Oct-23,,,,1,0,0,100,1,3
+Australia,A Zampa (Australia),bat,1,1,,0,1,Netherlands,Delhi,25-Oct-23,,,,1,0,0,100,1,2
+Bangladesh,Shoriful Islam (Bangladesh),bat,4,1,,0,0.25,Pakistan,Eden Gardens,31-Oct-23,,,,1,0,0,25,1,8
+India,JJ Bumrah (India),bat,1,1,,0,1,Sri Lanka,Wankhede,2-Nov-23,,,,1,0,0,100,1,1
+Australia,JR Hazlewood (Australia),bat,1,1,,0,1,England,Ahmedabad,4-Nov-23,,,,1,0,0,100,1,1
+England,AU Rashid (England),bat,1,1,,0,1,Netherlands,Pune,8-Nov-23,,,,1,0,0,100,1,3
+Netherlands,A Dutt (Netherlands),bat,2,1,,0.5,0.5,Pakistan,Hyderabad,6-Oct-23,,,,2,0,0,50,0,6
+Afghanistan,Mujeeb Ur Rahman (Afghanistan),bat,4,1,,0.25,0.25,Bangladesh,Dharamsala,7-Oct-23,,,,1,0,0,25,0,9
+Netherlands,RE van der Merwe (Netherlands),bat,6,1,,0.166666667,0.1666,New Zealand,Hyderabad,9-Oct-23,,,,2,0,0,16.66,0,9
+Bangladesh,Tanzid Hasan (Bangladesh),bat,2,1,,0.5,0.5,England,Dharamsala,10-Oct-23,,,,2,0,0,50,0,7
+Bangladesh,Shakib Al Hasan (Bangladesh),bat,9,1,,0.111111111,0.1111,England,Dharamsala,10-Oct-23,,,,2,0,0,11.11,0,16
+Sri Lanka,KIC Asalanka (Sri Lanka),bat,3,1,,0.333333333,0.3333,Pakistan,Hyderabad,10-Oct-23,,,,1,0,0,33.33,0,5
+South Africa,AK Markram (South Africa),bat,3,1,,0.333333333,0.3333,Netherlands,Dharamsala,17-Oct-23,,,,2,0,0,33.33,0,4
+New Zealand,DJ Mitchell (New Zealand),bat,7,1,,0.142857143,0.1428,Afghanistan,Chennai,18-Oct-23,,,,1,0,0,14.28,0,6
+New Zealand,MJ Santner (New Zealand),bat,2,1,,0.5,0.5,India,Dharamsala,22-Oct-23,,,,1,0,0,50,0,3
+New Zealand,LH Ferguson (New Zealand),bat,5,1,,0.2,0.2,India,Dharamsala,22-Oct-23,,,,1,0,0,20,0,12
+South Africa,HE van der Dussen (South Africa),bat,7,1,,0.142857143,0.1428,Bangladesh,Wankhede,24-Oct-23,,,,1,0,0,14.28,0,6
+Bangladesh,Shakib Al Hasan (Bangladesh),bat,4,1,,0.25,0.25,South Africa,Wankhede,24-Oct-23,,,,2,0,0,25,0,4
+Netherlands,A Dutt (Netherlands),bat,8,1,,0.125,0.125,Australia,Delhi,25-Oct-23,,,,2,0,0,12.5,0,9
+England,LS Livingstone (England),bat,6,1,,0.166666667,0.1666,Sri Lanka,Bengaluru,26-Oct-23,,,,1,0,0,16.66,0,9
+Australia,MA Starc (Australia),bat,3,1,,0.333333333,0.3333,New Zealand,Dharamsala,28-Oct-23,,,,1,0,0,33.33,0,7
+Bangladesh,Mushfiqur Rahim (Bangladesh),bat,5,1,,0.2,0.2,Netherlands,Eden Gardens,28-Oct-23,,,,2,0,0,20,0,9
+India,Mohammed Shami (India),bat,5,1,,0.2,0.2,England,Lucknow,29-Oct-23,,,,1,0,0,20,0,4
+Sri Lanka,PVD Chameera (Sri Lanka),bat,4,1,,0.25,0.25,Afghanistan,Pune,30-Oct-23,,,,1,0,0,25,0,5
+Sri Lanka,BKG Mendis (Sri Lanka),bat,10,1,,0.1,0.1,India,Wankhede,2-Nov-23,,,,2,0,0,10,0,21
+Sri Lanka,KIC Asalanka (Sri Lanka),bat,24,1,,0.041666667,0.0416,India,Wankhede,2-Nov-23,,,,2,0,0,4.16,0,42
+Netherlands,W Barresi (Netherlands),bat,4,1,,0.25,0.25,Afghanistan,Lucknow,3-Nov-23,,,,1,0,0,25,0,3
+England,JC Buttler (England),bat,7,1,,0.142857143,0.1428,Australia,Ahmedabad,4-Nov-23,,,,2,0,0,14.28,0,10
+South Africa,H Klaasen (South Africa),bat,11,1,,0.090909091,0.0909,India,Eden Gardens,5-Nov-23,,,,2,0,0,9.09,0,12
+Netherlands,A Dutt (Netherlands),bat,3,1,,0.333333333,0.3333,England,Pune,8-Nov-23,,,,2,0,0,33.33,0,4
+Sri Lanka,S Samarawickrama (Sri Lanka),bat,2,1,,0.5,0.5,New Zealand,Bengaluru,9-Nov-23,,,,1,0,0,50,0,2
+Sri Lanka,PVD Chameera (Sri Lanka),bat,20,1,,0.05,0.05,New Zealand,Bengaluru,9-Nov-23,,,,1,0,0,5,0,32
+Australia,MR Marsh (Australia),bat,132,177,,0,1.340909091,Bangladesh,Pune,11-Nov-23,,,,2,17,9,134.09,1,177
+England,BA Stokes (England),bat,76,84,,0.013157895,1.105263158,Pakistan,Eden Gardens,11-Nov-23,,,,1,11,2,110.52,0,85
+Bangladesh,Towhid Hridoy (Bangladesh),bat,79,74,,0.012658228,0.936708861,Australia,Pune,11-Nov-23,,,,1,5,2,93.67,0,121
+Australia,SPD Smith (Australia),bat,64,63,,0,0.984375,Bangladesh,Pune,11-Nov-23,,,,2,4,1,98.43,1,99
+England,JE Root (England),bat,72,60,,0.013888889,0.833333333,Pakistan,Eden Gardens,11-Nov-23,,,,1,4,0,83.33,0,115
+England,JM Bairstow (England),bat,61,59,,0.016393443,0.967213115,Pakistan,Eden Gardens,11-Nov-23,,,,1,7,1,96.72,0,81
+Australia,DA Warner (Australia),bat,61,53,,0.016393443,0.868852459,Bangladesh,Pune,11-Nov-23,,,,2,6,0,86.88,0,90
+Pakistan,Agha Salman (Pakistan),bat,45,51,,0.022222222,1.133333333,England,Eden Gardens,11-Nov-23,,,,2,6,1,113.33,0,53
+Bangladesh,Najmul Hossain Shanto (Bangladesh),bat,57,45,,0.01754386,0.789473684,Australia,Pune,11-Nov-23,,,,1,6,0,78.94,0,59
+Pakistan,Babar Azam (Pakistan),bat,45,38,,0.022222222,0.844444444,England,Eden Gardens,11-Nov-23,,,,2,6,0,84.44,0,58
+Bangladesh,Tanzid Hasan (Bangladesh),bat,34,36,,0.029411765,1.058823529,Australia,Pune,11-Nov-23,,,,1,6,0,105.88,0,55
+Bangladesh,Litton Das (Bangladesh),bat,45,36,,0.022222222,0.8,Australia,Pune,11-Nov-23,,,,1,5,0,80,0,76
+Pakistan,Mohammad Rizwan (Pakistan),bat,51,36,,0.019607843,0.705882353,England,Eden Gardens,11-Nov-23,,,,2,2,0,70.58,0,78
+Pakistan,Haris Rauf (Pakistan),bat,23,35,,0.043478261,1.52173913,England,Eden Gardens,11-Nov-23,,,,2,3,3,152.17,0,27
+Bangladesh,Mahmudullah (Bangladesh),bat,28,32,,0.035714286,1.142857143,Australia,Pune,11-Nov-23,,,,1,1,3,114.28,0,34
+England,DJ Malan (England),bat,39,31,,0.025641026,0.794871795,Pakistan,Eden Gardens,11-Nov-23,,,,1,5,0,79.48,0,61
+England,HC Brook (England),bat,17,30,,0.058823529,1.764705882,Pakistan,Eden Gardens,11-Nov-23,,,,1,2,2,176.47,0,24
+Bangladesh,Mehidy Hasan Miraz (Bangladesh),bat,20,29,,0.05,1.45,Australia,Pune,11-Nov-23,,,,1,4,0,145,0,33
+Pakistan,Saud Shakeel (Pakistan),bat,37,29,,0.027027027,0.783783784,England,Eden Gardens,11-Nov-23,,,,2,4,0,78.37,0,52
+England,JC Buttler (England),bat,18,27,,0.055555556,1.5,Pakistan,Eden Gardens,11-Nov-23,,,,1,3,1,150,0,39
+Pakistan,Shaheen Shah Afridi (Pakistan),bat,23,25,,0.043478261,1.086956522,England,Eden Gardens,11-Nov-23,,,,2,3,1,108.69,0,23
+Bangladesh,Mushfiqur Rahim (Bangladesh),bat,24,21,,0.041666667,0.875,Australia,Pune,11-Nov-23,,,,1,0,1,87.5,0,27
+Pakistan,Mohammad Wasim (1) (Pakistan),bat,14,16,,0,1.142857143,England,Eden Gardens,11-Nov-23,,,,2,2,1,114.28,1,33
+England,DJ Willey (England),bat,5,15,,0.2,3,Pakistan,Eden Gardens,11-Nov-23,,,,1,2,1,300,0,5
+Australia,TM Head (Australia),bat,11,10,,0.090909091,0.909090909,Bangladesh,Pune,11-Nov-23,,,,2,2,0,90.9,0,11
+England,MM Ali (England),bat,6,8,,0.166666667,1.333333333,Pakistan,Eden Gardens,11-Nov-23,,,,1,0,1,133.33,0,10
+Bangladesh,Nasum Ahmed (Bangladesh),bat,11,7,,0.090909091,0.636363636,Australia,Pune,11-Nov-23,,,,1,0,0,63.63,0,15
+England,CR Woakes (England),bat,4,4,,0,1,Pakistan,Eden Gardens,11-Nov-23,,,,1,1,0,100,1,19
+Pakistan,Shadab Khan (Pakistan),bat,7,4,,0.142857143,0.571428571,England,Eden Gardens,11-Nov-23,,,,2,1,0,57.14,0,4
+Pakistan,Iftikhar Ahmed (Pakistan),bat,5,3,,0.2,0.6,England,Eden Gardens,11-Nov-23,,,,2,0,0,60,0,8
+Bangladesh,Mahedi Hasan (Bangladesh),bat,3,2,,0,0.666666667,Australia,Pune,11-Nov-23,,,,1,0,0,66.66,1,4
+Pakistan,Fakhar Zaman (Pakistan),bat,9,1,,0.111111111,0.111111111,England,Eden Gardens,11-Nov-23,,,,2,0,0,11.11,0,13
+Bangladesh,Taskin Ahmed (Bangladesh),bat,1,0,,0,0,Australia,Pune,11-Nov-23,,,,1,0,0,0,1,2
+England,AU Rashid (England),bat,1,0,,0,0,Pakistan,Eden Gardens,11-Nov-23,,,,1,0,0,0,1,1
+England,AAP Atkinson (England),bat,1,0,,1,0,Pakistan,Eden Gardens,11-Nov-23,,,,1,0,0,0,0,1
+Pakistan,Abdullah Shafique (Pakistan),bat,2,0,,0.5,0,England,Eden Gardens,11-Nov-23,,,,2,0,0,0,0,2
+England,DJ Willey (England),bowl,60,56,3,0.05,0.933333333,Pakistan,Eden Gardens,11-Nov-23,10,0,5.6,2,,,,,
+Pakistan,Haris Rauf (Pakistan),bowl,60,64,3,0.05,1.066666667,England,Eden Gardens,11-Nov-23,10,0,6.4,1,,,,,
+Australia,A Zampa (Australia),bowl,60,32,2,0.033333333,0.533333333,Bangladesh,Pune,11-Nov-23,10,0,3.2,1,,,,,
+England,AAP Atkinson (England),bowl,48,45,2,0.041666667,0.9375,Pakistan,Eden Gardens,11-Nov-23,8,0,5.62,2,,,,,
+England,AU Rashid (England),bowl,60,55,2,0.033333333,0.916666667,Pakistan,Eden Gardens,11-Nov-23,10,0,5.5,2,,,,,
+England,MM Ali (England),bowl,60,60,2,0.033333333,1,Pakistan,Eden Gardens,11-Nov-23,10,0,6,2,,,,,
+Australia,South Africa Abbott (Australia),bowl,60,61,2,0.033333333,1.016666667,Bangladesh,Pune,11-Nov-23,10,0,6.1,1,,,,,
+Pakistan,Shaheen Shah Afridi (Pakistan),bowl,60,72,2,0.033333333,1.2,England,Eden Gardens,11-Nov-23,10,1,7.2,1,,,,,
+Pakistan,Mohammad Wasim (1) (Pakistan),bowl,60,74,2,0.033333333,1.233333333,England,Eden Gardens,11-Nov-23,10,0,7.4,1,,,,,
+England,CR Woakes (England),bowl,33,27,1,0.03030303,0.818181818,Pakistan,Eden Gardens,11-Nov-23,5.3,0,4.9,2,,,,,
+Pakistan,Iftikhar Ahmed (Pakistan),bowl,42,38,1,0.023809524,0.904761905,England,Eden Gardens,11-Nov-23,7,0,5.42,1,,,,,
+Australia,MP Stoinis (Australia),bowl,30,45,1,0.033333333,1.5,Bangladesh,Pune,11-Nov-23,5,0,9,1,,,,,
+Bangladesh,Taskin Ahmed (Bangladesh),bowl,60,61,1,0.016666667,1.016666667,Australia,Pune,11-Nov-23,10,0,6.1,2,,,,,
+Bangladesh,Mustafizur Rahman (Bangladesh),bowl,58,76,1,0.017241379,1.310344828,Australia,Pune,11-Nov-23,9.4,1,7.86,2,,,,,
+Australia,JR Hazlewood (Australia),bowl,42,21,0,0,0.5,Bangladesh,Pune,11-Nov-23,7,1,3,1,,,,,
+Pakistan,Agha Salman (Pakistan),bowl,18,25,0,0,1.388888889,England,Eden Gardens,11-Nov-23,3,0,8.33,1,,,,,
+Australia,TM Head (Australia),bowl,36,33,0,0,0.916666667,Bangladesh,Pune,11-Nov-23,6,0,5.5,1,,,,,
+Bangladesh,Mahedi Hasan (Bangladesh),bowl,54,38,0,0,0.703703704,Australia,Pune,11-Nov-23,9,0,4.22,2,,,,,
+Bangladesh,Mehidy Hasan Miraz (Bangladesh),bowl,36,47,0,0,1.305555556,Australia,Pune,11-Nov-23,6,0,7.83,2,,,,,
+Australia,MR Marsh (Australia),bowl,24,48,0,0,2,Bangladesh,Pune,11-Nov-23,4,0,12,1,,,,,
+Australia,PJ Cummins (Australia),bowl,48,56,0,0,1.166666667,Bangladesh,Pune,11-Nov-23,8,0,7,1,,,,,
+Pakistan,Shadab Khan (Pakistan),bowl,60,57,0,0,0.95,England,Eden Gardens,11-Nov-23,10,0,5.7,1,,,,,
+Bangladesh,Nasum Ahmed (Bangladesh),bowl,60,85,0,0,1.416666667,Australia,Pune,11-Nov-23,10,0,8.5,2,,,,,
+New Zealand,WA Young (New Zealand),bat,1,0,,1,0,England,Ahmedabad,5-Oct-23,,,,2,0,0,0,0,5
+Pakistan,Hasan Ali (Pakistan),bat,1,0,,1,0,Netherlands,Hyderabad,6-Oct-23,,,,1,0,0,0,0,2
+Netherlands,South Africa Edwards (Netherlands),bat,2,0,,0.5,0,Pakistan,Hyderabad,6-Oct-23,,,,2,0,0,0,0,2
+Afghanistan,Naveen-ul-Haq (Afghanistan),bat,6,0,,0.166666667,0,Bangladesh,Dharamsala,7-Oct-23,,,,1,0,0,0,0,8
+Sri Lanka,P Nissanka (Sri Lanka),bat,3,0,,0.333333333,0,South Africa,Delhi,7-Oct-23,,,,2,0,0,0,0,6
+Sri Lanka,DN Wellalage (Sri Lanka),bat,1,0,,1,0,South Africa,Delhi,7-Oct-23,,,,2,0,0,0,0,2
+Australia,MR Marsh (Australia),bat,6,0,,0.166666667,0,India,Chennai,8-Oct-23,,,,1,0,0,0,0,11
+Australia,AT Carey (Australia),bat,2,0,,0.5,0,India,Chennai,8-Oct-23,,,,1,0,0,0,0,1
+India,RG Sharma (India),bat,6,0,,0.166666667,0,Australia,Chennai,8-Oct-23,,,,2,0,0,0,0,10
+India,Ishan Kishan (India),bat,1,0,,1,0,Australia,Chennai,8-Oct-23,,,,2,0,0,0,0,3
+India,SS Iyer (India),bat,3,0,,0.333333333,0,Australia,Chennai,8-Oct-23,,,,2,0,0,0,0,2
+England,LS Livingstone (England),bat,1,0,,1,0,Bangladesh,Dharamsala,10-Oct-23,,,,1,0,0,0,0,1
+Bangladesh,Najmul Hossain Shanto (Bangladesh),bat,1,0,,1,0,England,Dharamsala,10-Oct-23,,,,2,0,0,0,0,1
+Sri Lanka,MDKJ Perera (Sri Lanka),bat,4,0,,0.25,0,Pakistan,Hyderabad,10-Oct-23,,,,1,0,0,0,0,7
+Sri Lanka,M Theekshana (Sri Lanka),bat,4,0,,0.25,0,Pakistan,Hyderabad,10-Oct-23,,,,1,0,0,0,0,6
+Bangladesh,Litton Das (Bangladesh),bat,1,0,,1,0,New Zealand,Chennai,13-Oct-23,,,,1,0,0,0,0,1
+Sri Lanka,M Theekshana (Sri Lanka),bat,5,0,,0.2,0,Australia,Lucknow,16-Oct-23,,,,1,0,0,0,0,7
+Australia,SPD Smith (Australia),bat,5,0,,0.2,0,Sri Lanka,Lucknow,16-Oct-23,,,,2,0,0,0,0,4
+Afghanistan,Naveen-ul-Haq (Afghanistan),bat,1,0,,1,0,New Zealand,Chennai,18-Oct-23,,,,2,0,0,0,0,1
+Afghanistan,Fazalhaq Farooqi (Afghanistan),bat,2,0,,0.5,0,New Zealand,Chennai,18-Oct-23,,,,2,0,0,0,0,1
+Australia,GJ Maxwell (Australia),bat,1,0,,1,0,Pakistan,Bengaluru,20-Oct-23,,,,1,0,0,0,0,1
+Australia,JR Hazlewood (Australia),bat,1,0,,1,0,Pakistan,Bengaluru,20-Oct-23,,,,1,0,0,0,0,1
+Pakistan,Usama Mir (Pakistan),bat,3,0,,0.333333333,0,Australia,Bengaluru,20-Oct-23,,,,2,0,0,0,0,4
+New Zealand,DP Conway (New Zealand),bat,9,0,,0.111111111,0,India,Dharamsala,22-Oct-23,,,,1,0,0,0,0,16
+New Zealand,MJ Henry (New Zealand),bat,1,0,,1,0,India,Dharamsala,22-Oct-23,,,,1,0,0,0,0,1
+Bangladesh,Najmul Hossain Shanto (Bangladesh),bat,1,0,,1,0,South Africa,Wankhede,24-Oct-23,,,,2,0,0,0,0,1
+Australia,MA Starc (Australia),bat,1,0,,1,0,Netherlands,Delhi,25-Oct-23,,,,1,0,0,0,0,1
+Netherlands,LV van Beek (Netherlands),bat,3,0,,0.333333333,0,Australia,Delhi,25-Oct-23,,,,2,0,0,0,0,3
+Netherlands,RE van der Merwe (Netherlands),bat,1,0,,1,0,Australia,Delhi,25-Oct-23,,,,2,0,0,0,0,1
+Netherlands,PA van Meekeren (Netherlands),bat,1,0,,1,0,Australia,Delhi,25-Oct-23,,,,2,0,0,0,0,2
+England,CR Woakes (England),bat,4,0,,0.25,0,Sri Lanka,Bengaluru,26-Oct-23,,,,1,0,0,0,0,8
+Australia,A Zampa (Australia),bat,3,0,,0.333333333,0,New Zealand,Dharamsala,28-Oct-23,,,,1,0,0,0,0,2
+Netherlands,MP O'Dowd (Netherlands),bat,3,0,,0.333333333,0,Bangladesh,Eden Gardens,28-Oct-23,,,,1,0,0,0,0,11
+Netherlands,PA van Meekeren (Netherlands),bat,2,0,,0.5,0,Bangladesh,Eden Gardens,28-Oct-23,,,,1,0,0,0,0,6
+India,V Kohli (India),bat,9,0,,0.111111111,0,England,Lucknow,29-Oct-23,,,,1,0,0,0,0,12
+England,JE Root (England),bat,1,0,,1,0,India,Lucknow,29-Oct-23,,,,2,0,0,0,0,2
+England,BA Stokes (England),bat,10,0,,0.1,0,India,Lucknow,29-Oct-23,,,,2,0,0,0,0,14
+England,MA Wood (England),bat,1,0,,1,0,India,Lucknow,29-Oct-23,,,,2,0,0,0,0,3
+Afghanistan,Rahmanullah Gurbaz (Afghanistan),bat,4,0,,0.25,0,Sri Lanka,Pune,30-Oct-23,,,,2,0,0,0,0,2
+Bangladesh,Tanzid Hasan (Bangladesh),bat,5,0,,0.2,0,Pakistan,Eden Gardens,31-Oct-23,,,,1,0,0,0,0,7
+New Zealand,JDS Neesham (New Zealand),bat,8,0,,0.125,0,South Africa,Pune,1-Nov-23,,,,2,0,0,0,0,6
+Sri Lanka,P Nissanka (Sri Lanka),bat,1,0,,1,0,India,Wankhede,2-Nov-23,,,,2,0,0,0,0,2
+Sri Lanka,FDM Karunaratne (Sri Lanka),bat,1,0,,1,0,India,Wankhede,2-Nov-23,,,,2,0,0,0,0,10
+Sri Lanka,S Samarawickrama (Sri Lanka),bat,4,0,,0.25,0,India,Wankhede,2-Nov-23,,,,2,0,0,0,0,4
+Sri Lanka,MADI Hemantha (Sri Lanka),bat,1,0,,1,0,India,Wankhede,2-Nov-23,,,,2,0,0,0,0,1
+Sri Lanka,PVD Chameera (Sri Lanka),bat,6,0,,0.166666667,0,India,Wankhede,2-Nov-23,,,,2,0,0,0,0,10
+Netherlands,South Africa Edwards (Netherlands),bat,1,0,,1,0,Afghanistan,Lucknow,3-Nov-23,,,,1,0,0,0,0,1
+England,JM Bairstow (England),bat,1,0,,1,0,Australia,Ahmedabad,4-Nov-23,,,,2,0,0,0,0,1
+South Africa,L Ngidi (South Africa),bat,3,0,,0.333333333,0,India,Eden Gardens,5-Nov-23,,,,2,0,0,0,0,7
+Sri Lanka,AD Mathews (Sri Lanka),bat,0,0,,1,0,Bangladesh,Delhi,6-Nov-23,,,,1,0,0,0,0,4
+Sri Lanka,CAK Rajitha (Sri Lanka),bat,2,0,,0.5,0,Bangladesh,Delhi,6-Nov-23,,,,1,0,0,0,0,1
+Australia,TM Head (Australia),bat,2,0,,0.5,0,Afghanistan,Wankhede,7-Nov-23,,,,2,0,0,0,0,5
+Australia,JP Inglis (Australia),bat,1,0,,1,0,Afghanistan,Wankhede,7-Nov-23,,,,2,0,0,0,0,1
+Netherlands,CN Ackermann (Netherlands),bat,2,0,,0.5,0,England,Pune,8-Nov-23,,,,2,0,0,0,0,4
+Netherlands,RE van der Merwe (Netherlands),bat,4,0,,0.25,0,England,Pune,8-Nov-23,,,,2,0,0,0,0,3
+England,AAP Atkinson (England),bat,1,0,,1,0,Pakistan,Eden Gardens,11-Nov-23,,,,1,0,0,0,0,1
+Pakistan,Abdullah Shafique (Pakistan),bat,2,0,,0.5,0,England,Eden Gardens,11-Nov-23,,,,2,0,0,0,0,2
+India,SS Iyer (India),bat,94,128,,0,1.361702128,Netherlands,Bengaluru,12-Nov-23,,,,1,10,5,136.17,1,145
+India,KL Rahul (India),bat,64,102,,0.015625,1.59375,Netherlands,Bengaluru,12-Nov-23,,,,1,11,4,159.37,0,98
+India,RG Sharma (India),bat,54,61,,0.018518519,1.12962963,Netherlands,Bengaluru,12-Nov-23,,,,1,8,2,112.96,0,74
+Netherlands,AT Nidamanuru (Netherlands),bat,39,54,,0.025641026,1.384615385,India,Bengaluru,12-Nov-23,,,,2,1,6,138.46,0,65
+India,Shubman Gill (India),bat,32,51,,0.03125,1.59375,Netherlands,Bengaluru,12-Nov-23,,,,1,3,4,159.37,0,49
+India,V Kohli (India),bat,56,51,,0.017857143,0.910714286,Netherlands,Bengaluru,12-Nov-23,,,,1,5,1,91.07,0,69
+Netherlands,South Africa Engelbrecht (Netherlands),bat,80,45,,0.0125,0.5625,India,Bengaluru,12-Nov-23,,,,2,4,0,56.25,0,87
+Netherlands,CN Ackermann (Netherlands),bat,32,35,,0.03125,1.09375,India,Bengaluru,12-Nov-23,,,,2,6,0,109.37,0,46
+Netherlands,MP O'Dowd (Netherlands),bat,42,30,,0.023809524,0.714285714,India,Bengaluru,12-Nov-23,,,,2,3,1,71.42,0,68
+Netherlands,South Africa Edwards (Netherlands),bat,30,17,,0.033333333,0.566666667,India,Bengaluru,12-Nov-23,,,,2,1,0,56.66,0,27
+Netherlands,LV van Beek (Netherlands),bat,15,16,,0.066666667,1.066666667,India,Bengaluru,12-Nov-23,,,,2,2,0,106.66,0,20
+Netherlands,RE van der Merwe (Netherlands),bat,8,16,,0.125,2,India,Bengaluru,12-Nov-23,,,,2,1,2,200,0,5
+Netherlands,BFW de Leede (Netherlands),bat,21,12,,0.047619048,0.571428571,India,Bengaluru,12-Nov-23,,,,2,1,0,57.14,0,23
+Netherlands,A Dutt (Netherlands),bat,11,5,,0.090909091,0.454545455,India,Bengaluru,12-Nov-23,,,,2,0,0,45.45,0,9
+Netherlands,W Barresi (Netherlands),bat,5,4,,0.2,0.8,India,Bengaluru,12-Nov-23,,,,2,0,0,80,0,8
+Netherlands,PA van Meekeren (Netherlands),bat,4,3,,0,0.75,India,Bengaluru,12-Nov-23,,,,2,0,0,75,1,7
+India,South Africa Yadav (India),bat,1,2,,0,2,Netherlands,Bengaluru,12-Nov-23,,,,1,0,0,200,1,1
+India,Mohammed Siraj (India),bowl,36,29,2,0.055555556,0.805555556,Netherlands,Bengaluru,12-Nov-23,6,1,4.83,2,,,,,
+India,JJ Bumrah (India),bowl,54,33,2,0.037037037,0.611111111,Netherlands,Bengaluru,12-Nov-23,9,1,3.66,2,,,,,
+India,Kuldeep Yadav (India),bowl,60,41,2,0.033333333,0.683333333,Netherlands,Bengaluru,12-Nov-23,10,1,4.1,2,,,,,
+India,RA Jadeja (India),bowl,54,49,2,0.037037037,0.907407407,Netherlands,Bengaluru,12-Nov-23,9,0,5.44,2,,,,,
+Netherlands,BFW de Leede (Netherlands),bowl,60,82,2,0.033333333,1.366666667,India,Bengaluru,12-Nov-23,10,0,8.2,1,,,,,
+India,RG Sharma (India),bowl,5,7,1,0.2,1.4,Netherlands,Bengaluru,12-Nov-23,0.5,0,8.4,2,,,,,
+India,V Kohli (India),bowl,18,13,1,0.055555556,0.722222222,Netherlands,Bengaluru,12-Nov-23,3,0,4.33,2,,,,,
+Netherlands,RE van der Merwe (Netherlands),bowl,60,53,1,0.016666667,0.883333333,India,Bengaluru,12-Nov-23,10,0,5.3,1,,,,,
+Netherlands,PA van Meekeren (Netherlands),bowl,60,90,1,0.016666667,1.5,India,Bengaluru,12-Nov-23,10,0,9,1,,,,,
+India,Shubman Gill (India),bowl,12,11,0,0,0.916666667,Netherlands,Bengaluru,12-Nov-23,2,0,5.5,2,,,,,
+India,South Africa Yadav (India),bowl,12,17,0,0,1.416666667,Netherlands,Bengaluru,12-Nov-23,2,0,8.5,2,,,,,
+Netherlands,CN Ackermann (Netherlands),bowl,18,25,0,0,1.388888889,India,Bengaluru,12-Nov-23,3,0,8.33,1,,,,,
+India,Mohammed Shami (India),bowl,36,41,0,0,1.138888889,Netherlands,Bengaluru,12-Nov-23,6,0,6.83,2,,,,,
+Netherlands,A Dutt (Netherlands),bowl,42,52,0,0,1.238095238,India,Bengaluru,12-Nov-23,7,0,7.42,1,,,,,
+Netherlands,LV van Beek (Netherlands),bowl,60,107,0,0,1.783333333,India,Bengaluru,12-Nov-23,10,0,10.7,1,,,,,
+New Zealand,DJ Mitchell (New Zealand),bat,119,134,,0.008403361,1.126,India,Wankhede,15-Nov-23,,,,2,9,7,112.6,0,180
+India,V Kohli (India),bat,113,117,,0.008849558,1.0353,New Zealand,Wankhede,15-Nov-23,,,,1,9,2,103.53,0,149
+India,SS Iyer (India),bat,70,105,,0.014285714,1.5,New Zealand,Wankhede,15-Nov-23,,,,1,4,8,150,0,114
+South Africa,DA Miller (South Africa),bat,116,101,,0.00862069,0.8706,Australia,Eden Gardens,16-Nov-23,,,,1,8,5,87.06,0,138
+India,Shubman Gill (India),bat,66,80,,0,1.2121,New Zealand,Wankhede,15-Nov-23,,,,1,8,3,121.21,1,116
+New Zealand,KS Williamson (New Zealand),bat,73,69,,0.01369863,0.9452,India,Wankhede,15-Nov-23,,,,2,8,1,94.52,0,116
+Australia,TM Head (Australia),bat,48,62,,0.020833333,1.2916,South Africa,Eden Gardens,16-Nov-23,,,,2,9,2,129.16,0,62
+India,RG Sharma (India),bat,29,47,,0.034482759,1.6206,New Zealand,Wankhede,15-Nov-23,,,,1,4,4,162.06,0,40
+South Africa,H Klaasen (South Africa),bat,48,47,,0.020833333,0.9791,Australia,Eden Gardens,16-Nov-23,,,,1,4,2,97.91,0,76
+New Zealand,GD Phillips (New Zealand),bat,33,41,,0.03030303,1.2424,India,Wankhede,15-Nov-23,,,,2,4,2,124.24,0,58
+India,KL Rahul (India),bat,20,39,,0,1.95,New Zealand,Wankhede,15-Nov-23,,,,1,5,2,195,1,29
+Australia,SPD Smith (Australia),bat,62,30,,0.016129032,0.4838,South Africa,Eden Gardens,16-Nov-23,,,,2,2,0,48.38,0,102
+Australia,DA Warner (Australia),bat,18,29,,0.055555556,1.6111,South Africa,Eden Gardens,16-Nov-23,,,,2,1,4,161.11,0,29
+Australia,JP Inglis (Australia),bat,49,28,,0.020408163,0.5714,South Africa,Eden Gardens,16-Nov-23,,,,2,3,0,57.14,0,66
+South Africa,G Coetzee (South Africa),bat,39,19,,0.025641026,0.4871,Australia,Eden Gardens,16-Nov-23,,,,1,2,0,48.71,0,42
+Australia,M Labuschagne (Australia),bat,31,18,,0.032258065,0.5806,South Africa,Eden Gardens,16-Nov-23,,,,2,2,0,58.06,0,28
+Australia,MA Starc (Australia),bat,38,16,,0,0.421,South Africa,Eden Gardens,16-Nov-23,,,,2,2,0,42.1,1,61
+Australia,PJ Cummins (Australia),bat,29,14,,0,0.4827,South Africa,Eden Gardens,16-Nov-23,,,,2,2,0,48.27,1,32
+New Zealand,DP Conway (New Zealand),bat,15,13,,0.066666667,0.8666,India,Wankhede,15-Nov-23,,,,2,3,0,86.66,0,26
+New Zealand,R Ravindra (New Zealand),bat,22,13,,0.045454545,0.5909,India,Wankhede,15-Nov-23,,,,2,3,0,59.09,0,39
+South Africa,AK Markram (South Africa),bat,20,10,,0.05,0.5,Australia,Eden Gardens,16-Nov-23,,,,1,2,0,50,0,24
+South Africa,K Rabada (South Africa),bat,12,10,,0.083333333,0.8333,Australia,Eden Gardens,16-Nov-23,,,,1,0,1,83.33,0,18
+New Zealand,MJ Santner (New Zealand),bat,10,9,,0.1,0.9,India,Wankhede,15-Nov-23,,,,2,0,0,90,0,20
+New Zealand,TG Southee (New Zealand),bat,10,9,,0.1,0.9,India,Wankhede,15-Nov-23,,,,2,1,0,90,0,14
+New Zealand,LH Ferguson (New Zealand),bat,3,6,,0.333333333,2,India,Wankhede,15-Nov-23,,,,2,0,1,200,0,2
+South Africa,HE van der Dussen (South Africa),bat,31,6,,0.032258065,0.1935,Australia,Eden Gardens,16-Nov-23,,,,1,0,0,19.35,0,53
+South Africa,KA Maharaj (South Africa),bat,8,4,,0.125,0.5,Australia,Eden Gardens,16-Nov-23,,,,1,0,0,50,0,13
+South Africa,Q de Kock (South Africa),bat,14,3,,0.071428571,0.2142,Australia,Eden Gardens,16-Nov-23,,,,1,0,0,21.42,0,27
+New Zealand,TA Boult (New Zealand),bat,2,2,,0,1,India,Wankhede,15-Nov-23,,,,2,0,0,100,1,5
+New Zealand,MS Chapman (New Zealand),bat,5,2,,0.2,0.4,India,Wankhede,15-Nov-23,,,,2,0,0,40,0,5
+South Africa,T Shamsi (South Africa),bat,5,1,,0,0.2,Australia,Eden Gardens,16-Nov-23,,,,1,0,0,20,1,11
+India,South Africa Yadav (India),bat,2,1,,0.5,0.5,New Zealand,Wankhede,15-Nov-23,,,,1,0,0,50,0,2
+Australia,GJ Maxwell (Australia),bat,5,1,,0.2,0.2,South Africa,Eden Gardens,16-Nov-23,,,,2,0,0,20,0,8
+New Zealand,TWM Latham (New Zealand),bat,2,0,,0.5,0,India,Wankhede,15-Nov-23,,,,2,0,0,0,0,1
+South Africa,T Bavuma (South Africa),bat,4,0,,0.25,0,Australia,Eden Gardens,16-Nov-23,,,,1,0,0,0,0,5
+South Africa,M Jansen (South Africa),bat,1,0,,1,0,Australia,Eden Gardens,16-Nov-23,,,,1,0,0,0,0,1
+Australia,MR Marsh (Australia),bat,6,0,,0.166666667,0,South Africa,Eden Gardens,16-Nov-23,,,,2,0,0,0,0,5
+India,Mohammed Shami (India),bowl,59,57,7,0.118644068,0.966101695,New Zealand,Wankhede,15-Nov-23,9.5,0,5.79,2,,,,,
+Australia,MA Starc (Australia),bowl,60,34,3,0.05,0.566666667,South Africa,Eden Gardens,16-Nov-23,10,1,3.4,1,,,,,
+Australia,PJ Cummins (Australia),bowl,58,51,3,0.051724138,0.879310345,South Africa,Eden Gardens,16-Nov-23,9.4,0,5.27,1,,,,,
+New Zealand,TG Southee (New Zealand),bowl,60,100,3,0.05,1.666666667,India,Wankhede,15-Nov-23,10,0,10,1,,,,,
+Australia,JR Hazlewood (Australia),bowl,48,12,2,0.041666667,0.25,South Africa,Eden Gardens,16-Nov-23,8,3,1.5,1,,,,,
+Australia,TM Head (Australia),bowl,30,21,2,0.066666667,0.7,South Africa,Eden Gardens,16-Nov-23,5,0,4.2,1,,,,,
+South Africa,T Shamsi (South Africa),bowl,60,42,2,0.033333333,0.7,Australia,Eden Gardens,16-Nov-23,10,0,4.2,2,,,,,
+South Africa,G Coetzee (South Africa),bowl,54,47,2,0.037037037,0.87037037,Australia,Eden Gardens,16-Nov-23,9,0,5.22,2,,,,,
+South Africa,AK Markram (South Africa),bowl,48,23,1,0.020833333,0.479166667,Australia,Eden Gardens,16-Nov-23,8,1,2.87,2,,,,,
+South Africa,KA Maharaj (South Africa),bowl,60,24,1,0.016666667,0.4,Australia,Eden Gardens,16-Nov-23,10,0,2.4,2,,,,,
+South Africa,K Rabada (South Africa),bowl,36,41,1,0.027777778,1.138888889,Australia,Eden Gardens,16-Nov-23,6,0,6.83,2,,,,,
+India,Kuldeep Yadav (India),bowl,60,56,1,0.016666667,0.933333333,New Zealand,Wankhede,15-Nov-23,10,0,5.6,2,,,,,
+India,JJ Bumrah (India),bowl,60,64,1,0.016666667,1.066666667,New Zealand,Wankhede,15-Nov-23,10,1,6.4,2,,,,,
+India,Mohammed Siraj (India),bowl,54,78,1,0.018518519,1.444444444,New Zealand,Wankhede,15-Nov-23,9,0,8.66,2,,,,,
+New Zealand,TA Boult (New Zealand),bowl,60,86,1,0.016666667,1.433333333,India,Wankhede,15-Nov-23,10,0,8.6,1,,,,,
+New Zealand,GD Phillips (New Zealand),bowl,30,33,0,0,1.1,India,Wankhede,15-Nov-23,5,0,6.6,1,,,,,
+Australia,GJ Maxwell (Australia),bowl,60,35,0,0,0.583333333,South Africa,Eden Gardens,16-Nov-23,10,0,3.5,1,,,,,
+South Africa,M Jansen (South Africa),bowl,26,35,0,0,1.346153846,Australia,Eden Gardens,16-Nov-23,4.2,0,8.07,2,,,,,
+New Zealand,MJ Santner (New Zealand),bowl,60,51,0,0,0.85,India,Wankhede,15-Nov-23,10,1,5.1,1,,,,,
+Australia,A Zampa (Australia),bowl,42,55,0,0,1.30952381,South Africa,Eden Gardens,16-Nov-23,7,0,7.85,1,,,,,
+New Zealand,R Ravindra (New Zealand),bowl,42,60,0,0,1.428571429,India,Wankhede,15-Nov-23,7,0,8.57,1,,,,,
+India,RA Jadeja (India),bowl,60,63,0,0,1.05,New Zealand,Wankhede,15-Nov-23,10,0,6.3,2,,,,,
+New Zealand,LH Ferguson (New Zealand),bowl,48,65,0,0,1.354166667,India,Wankhede,15-Nov-23,8,0,8.12,1,,,,,
+Australia,TM Head (Australia),bat,120,137,,0.008333333,1.1416,India,Ahmedabad,19-Nov-23,,,,2,15,4,114.16,,166
+India,KL Rahul (India),bat,107,66,,0.009345794,0.6168,Australia,Ahmedabad,19-Nov-23,,,,1,1,0,61.68,,133
+Australia,M Labuschagne (Australia),bat,110,58,,0,0.5272,India,Ahmedabad,19-Nov-23,,,,2,4,0,52.72,1,133
+India,V Kohli (India),bat,63,54,,0.015873016,0.8571,Australia,Ahmedabad,19-Nov-23,,,,1,4,0,85.71,,99
+India,RG Sharma (India),bat,31,47,,0.032258065,1.5161,Australia,Ahmedabad,19-Nov-23,,,,1,4,3,151.61,,44
+India,South Africa Yadav (India),bat,28,18,,0.035714286,0.6428,Australia,Ahmedabad,19-Nov-23,,,,1,1,0,64.28,,57
+Australia,MR Marsh (Australia),bat,15,15,,0.066666667,1,India,Ahmedabad,19-Nov-23,,,,2,1,1,100,,15
+India,Kuldeep Yadav (India),bat,18,10,,0.055555556,0.5555,Australia,Ahmedabad,19-Nov-23,,,,1,0,0,55.55,,28
+India,Mohammed Siraj (India),bat,8,9,,0,1.125,Australia,Ahmedabad,19-Nov-23,,,,1,1,0,112.5,1,13
+India,RA Jadeja (India),bat,22,9,,0.045454545,0.409,Australia,Ahmedabad,19-Nov-23,,,,1,0,0,40.9,,33
+Australia,DA Warner (Australia),bat,3,7,,0.333333333,2.3333,India,Ahmedabad,19-Nov-23,,,,2,1,0,233.33,,6
+India,Mohammed Shami (India),bat,10,6,,0.1,0.6,Australia,Ahmedabad,19-Nov-23,,,,1,1,0,60,,9
+India,Shubman Gill (India),bat,7,4,,0.142857143,0.5714,Australia,Ahmedabad,19-Nov-23,,,,1,0,0,57.14,,21
+India,SS Iyer (India),bat,3,4,,0.333333333,1.3333,Australia,Ahmedabad,19-Nov-23,,,,1,1,0,133.33,,3
+Australia,SPD Smith (Australia),bat,9,4,,0.111111111,0.4444,India,Ahmedabad,19-Nov-23,,,,2,1,0,44.44,,11
+Australia,GJ Maxwell (Australia),bat,1,2,,0,2,India,Ahmedabad,19-Nov-23,,,,2,0,0,200,1,1
+India,JJ Bumrah (India),bat,3,1,,0.333333333,0.3333,Australia,Ahmedabad,19-Nov-23,,,,1,0,0,33.33,,5
+Australia,MA Starc (Australia),bowl,60,55,3,0.05,0.916666667,India,Ahmedabad,19-Nov-23,10,0,5.5,1,,,,,
+Australia,PJ Cummins (Australia),bowl,60,34,2,0.033333333,0.566666667,India,Ahmedabad,19-Nov-23,10,0,3.4,1,,,,,
+India,JJ Bumrah (India),bowl,54,43,2,0.037037037,0.796296296,Australia,Ahmedabad,19-Nov-23,9,2,4.77,2,,,,,
+Australia,JR Hazlewood (Australia),bowl,60,60,2,0.033333333,1,India,Ahmedabad,19-Nov-23,10,0,6,1,,,,,
+Australia,GJ Maxwell (Australia),bowl,36,35,1,0.027777778,0.972222222,India,Ahmedabad,19-Nov-23,6,0,5.83,1,,,,,
+Australia,A Zampa (Australia),bowl,60,44,1,0.016666667,0.733333333,India,Ahmedabad,19-Nov-23,10,0,4.4,1,,,,,
+India,Mohammed Siraj (India),bowl,42,45,1,0.023809524,1.071428571,Australia,Ahmedabad,19-Nov-23,7,0,6.42,2,,,,,
+India,Mohammed Shami (India),bowl,42,47,1,0.023809524,1.119047619,Australia,Ahmedabad,19-Nov-23,7,1,6.71,2,,,,,
+Australia,TM Head (Australia),bowl,12,4,0,0,0.333333333,India,Ahmedabad,19-Nov-23,2,0,2,1,,,,,
+Australia,MR Marsh (Australia),bowl,12,5,0,0,0.416666667,India,Ahmedabad,19-Nov-23,2,0,2.5,1,,,,,
+India,RA Jadeja (India),bowl,60,43,0,0,0.716666667,Australia,Ahmedabad,19-Nov-23,10,0,4.3,2,,,,,
+India,Kuldeep Yadav (India),bowl,60,56,0,0,0.933333333,Australia,Ahmedabad,19-Nov-23,10,0,5.6,2,,,,,
