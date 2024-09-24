@@ -1,6 +1,6 @@
 # Cricket World Cup 2023 Analysis
 
-This project analyzes the Cricket World Cup 2023 data using R. The analysis includes data manipulation, summarization, and visualization to provide insights into the matches.
+This is our group project done in Business Statistics to analyze the Cricket World Cup 2023 data using R. The analysis includes data manipulation, summarization, and visualization to provide insights into the matches.
 
 ## Project Structure
 
